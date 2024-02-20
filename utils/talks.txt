@@ -1,0 +1,219 @@
+[01/27/2020][Ramesh Sah]: Adversarial Reprogramming of Neural Networks
+[01/14/2020][Iman Mirzadeh]: Similarity of Neural Network Representations Revisited
+[08/07/2019][Iman Mirzadeh]: Secure and Private AI: Differential Privacy and Federated Learning
+[07/31/2019][Parastoo Alinia]: "Synergistic Image and Feature Adaptation: Towards Cross-Modality Domain Adaptation for Medical Image Segmentation", Cheng Chen, Qi Dou, Hao Chen, Jing Qin, Pheng-Ann Heng
+[07/18/2019][Marco Antonio Arceo]: Introduction on Electrodermal Activity and Human Physiological Response
+[07/10/2019][Ramesh Kr Sah]: Human Activity Recognition using Wearable Sensors by Deep Convolutional Neural Networks
+[05/15/2019][Mahdi Pedram]: Practice Talk #2: Mahdi Pedram, Seyed Ali Rokni, Marjan Nourollahi, Hassan Ghasemzadeh, “Resource-Efficient Wearable Computing for Real-Time Reconfigurable Machine Learning: A Cascading Binary Classification”, IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN), May 19-22 May, 2019, Chicago, IL, USA.
+[05/29/2019][Mahdi Pedram]: Practice Talk: Mahdi Pedram, Mahsan Rofouei, Francesco Fraternali, Zhila Esna Ashari, Hassan Ghasemzadeh, “Resource-Efficient Computing in Wearable Systems”, IEEE Workshop on Smart Service Systems (SmartSys) in Conjunction with IEEE SmartComp 2019, June, 12, 2019, Washington DC, USA.
+[06/26/2019][Mahdi Pedram]: PhD Preliminary Exam Practice Talk #1: Resource Efficient Methods for Health Monitoring Systems.
+
+[01/09/2019][Iman Mirzadeh]: Machine Learning in 2018: an overview
+[01/16/2019][Parastoo Alinia]: Master Defense Practice III
+[01/23/2019][Ramesh Sah]: Introduction to Adversarial Machine Learning
+[02/13/2019][Ramesh Sah]: Distillation in Machine Learning
+[02/27/2019][Iman Mirzadeh]: Machine Learning Beyond Curve Fitting (Introduction to Causality)
+[03/20/2019][Mahdi Pedram]: "PGANs: Personalized Generative Adversarial Networks for ECG Synthesis to Improve Patient-Specific Deep ECG Classification", Tomer Golany et.al.
+[03/27/2019][Parastoo Alinia]: "Transfer Learning via Learning to Transfer", Ying Wei, Yu Zhang, Junzhou Huang, Qiang Yang
+[05/08/2019][Mahdi Pedram]: Practice Talk #1: Mahdi Pedram, Seyed Ali Rokni, Marjan Nourollahi, Hassan Ghasemzadeh, “Resource-Efficient Wearable Computing for Real-Time Reconfigurable Machine Learning: A Cascading Binary Classification”, IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN19), May 19-22 May, 2019, Chicago, IL, USA.
+
+[08/22/2018] [Yuchao Ma]: Defense Practice I
+[08/29/2018] [Yuchao Ma]: Defense Practice II
+[09/05/2018] [Parastoo Alinia] Introduction to Long Short Term Memory Networks
+[09/19/2018][Ramesh Sah] Ramin Fallahzadeh, Parastoo Alinia, Hassan Ghasemzadeh, “Learn-on-the-Go: Autonomous Cross-Subject Context Learning for Internet-of-Things Applications”, The 36th IEEE/ACM International Conference On Computer Aided Design (ICCAD), November 13-16, 2017, Irvine, CA.
+[09/26/2018] [Iman Mirzadeh]: An introduction to semi-supervised learning.
+[10/03/2018] [Mahdi Pedram]: Subhas Chandra Mukhopadhyay “Wearable Sensors for Human Activity Monitoring: A Review” IEEE Sensors Journal, March 2015.
+[10/24/2018] [Parastoo Alinia]: Defense Practice I.
+[10/31/2018] [Iman Mirzadeh]: Paper Review: "Semi-Supervised Learning on Data Streams via Temporal Label Propagation"(Tal Wagner et al., 2018)
+[11/07/2018] [Parastoo Alinia]: Defense Practice II.
+
+[05/22/2018] [Marjan Nourollahi]: Stream-PAL (Proximity-based Active Learning)
+[05/29/2018] [Yuchao Ma]: Cross-Platform Transfer Learning
+[06/05/2018] [Mahdi Pedram]: Fluid Intake Monitoring
+[07/02/2018] [Ali Rokni, Ramin Fallahzadeh]: Defense Practice
+
+[01/03/2018] [Yuchao Ma]: Hassan Ghasemzadeh, Vitali Loseu and Roozbeh Jafari, "Structural Action Recognition in Body Sensor Networks: Distributed Classification Based on String Matching", IEEE Transactions On Information Technology In Biomedicine, Vol 14 No 2, March 2010.
+[01/19/2018] [Ramin Fallahzadeh]: Wang et. al. "Stratified Transfer Learning for Cross-domain Activity Recognition"
+[02/02/2018] [Parastoo Alinia]: Vitor F. Rey, Paul Lukowicz, "Label Propagation: An Unsupervised Similarity Based Method for Integrating New Sensors in Activity Recognition Systems", Proc. ACM Interact. Mob. Wearable Ubiquitous Technol., 2017
+[02/09/2018] [Ali Rokni]: TransNet: An Adaptable Deep Learner for Human Activity Recognition
+[02/16/2018] [Mahdi Pedram]: Rami Yared, Bessam Abdulrazak, Thomas Tessier and Philippe Mabilleau, "Cooking Risk Analysis to Enhance Safety of Elderly People in Smart Kitchen",  8th ACM International Conference on Pervasive Technologies Related to Assistive Environments
+[02/23/2018] [Yuchao Ma]: Presentation Practice for "Toward Visual Field Assessment Using Head-Worn Sensing Devices", 15th IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN)
+[03/02/2018] [Yuchao Ma]: 2nd Practice for "Toward Visual Field Assessment Using Head-Worn Sensing Devices", 15th IEEE International Conference on Wearable and Implantable Body Sensor Networks (BSN)
+[03/16/2018] [Ramin Fallahzadeh]: Personalized recommenders
+[03/30/2018] [Parastoo Alinia]: R Saeedi, S Norgaard, AH Gebremedhin, "A Closed-loop Deep Learning Architecture for Robust Activity Recognition using Wearable Sensors", IEEE International Conference on Big Data 2017
+[04/13/2018] [Marjan Nourollahi]: "Eating Moment Recognition, A Proximity-Based Active Learning Approach". Master Project
+[04/20/2018] [Ali Rokni]: Francisco Javier Ordóñez Morales and Daniel Roggen, "Deep Convolutional Feature Transfer Across Mobile Activity Recognition Domains, Sensor Modalities and Locations", ISWC 2016.
+[04/27/2018] [Mahdi Pedram]: Mahdi Pedram "Liquid Intake Monitoring System"
+[05/04/2018] [Yuchao Ma]: David C. Anastasiu, George Karypis, "L2Knng: Fast Exact K-Nearest Neighbor Graph Construction with L2-Norm Pruning", CIKM 2015.
+[05/11/2018] [Ramin Fallahzadeh]: NN search with KD-trees
+
+[08/23/2017] [Mahdi Pedram]: Medical Survey Question Optimization
+[08/30/2017] [Yuchao Ma]: Vincent Wenchen Zheng, Sinno Jialin Pan, Qiang Yang, and Jeffrey Junfeng Pan. 2008. "Transferring multi-device localization models using latent multi-task learning". In Proceedings of the 23rd national conference on Artificial intelligence - Volume 3 (AAAI'08), Anthony Cohn (Ed.), Vol. 3. AAAI Press 1427-1432.
+[09/06/2017] [Yuchao Ma]: Robust Computational Framework for Sensor-Based Systems in Healthcare
+[09/20/2017] [Ramin Fallahzadeh]: Feuz, Kyle D., and Diane J. Cook. "Modeling Skewed Class Distributions by Reshaping the Concept Space." AAAI. 2017
+[09/27/2017] [Parastoo Alinia]: "Learning from less for better: semi-supervised activity recognition via shared structure discovery", Lina Yao, Feiping Nie, Quan Z. Sheng, Sen Wang, Ubicomp 2016
+[10/04/2017] [Ali Rokni]:Roy Adams, Nazir Saleheen, Edison Thomaz, Abhinav Parate, Santosh Kumar, Benjamin Marlin, "Hierarchical Span-Based Conditional Random Fields for Labeling and Segmenting Events in Wearable Sensor Data Streams", ICML 2016
+[10/11/2017] [Niloofar Hezarjaribi]:Namaki, Mohammad Hossein, et al. "Performance Prediction for Graph Queries." Proceedings of the 2nd International Workshop on Network Data Analytics. ACM, 2017.
+[10/18/2017] [Ali Rokni]:Samy Bengio, Oriol Vinyals, Navdeep Jaitly, Noam Shazeer, "Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks", NIPS 2015
+[10/25/2017] [Yuchao Ma]: Sinno Jialin Pan, James T. Kwok and Qiang Yang, "Transfer Learning via Dimensionality Reduction", Proceedings of the Twenty-Third AAAI Conference on Artificial Intelligence, 2008.
+[11/01/2017] [Parastoo Alinia]: K. Feuz and D. Cook. "Collegial Activity Learning Between Heterogeneous Sensors". Knowledge and Information Systems, 2017
+[11/08/2017] [Ramin Fallahzadeh]: Learn-on-the-Go: Autonomous Cross-Subject Context Learning for Internet-of-Things Applications
+[12/06/2017] [Mahdi Pedram]: Pinghung Wei, Briana Morey, Timothy Dyson, Nick McMahon, Yung-Yu Hsu, Sasha Gazman, Lauren Klinker, Barry Ives, Kevin Dowling, Conor Rafferty, "A Conformal Sensor for Wireless Sweat Level Monitoring ", SENSORS, 2013 IEEE.
+
+
+[05/11/2017] [Parastoo Alinia]: Assignment Problem (Part I)
+[05/18/2017] [Mahdi Pedram]: Emil Jovanov, Vindhya R Nallathimmareddygari, Jonathan E. Pryor "SmartStuff: A Case Study of a Smart Water Bottle" EMBC, 2016.
+[05/25/2017] [Ali Rokni]: Structured Perceptron (Part I)
+[06/08/2017] [Ramin Fallahzadeh]: Transportation Problem
+[06/15/2017] [Niloofar Hezarjaribi]: Peng, Bei, et al. "Language and Policy Learning from Human-delivered Feedback." Proceedings of the Machine Learning for Social Robotics workshop (ICRA). 2015.
+[06/22/2017] [Parastoo Alinia]: Assignment Problem (Part II)
+[06/29/2017] [Ramin Fallahzadeh]: G. Fortino, R. Giannantonio, R. Gravina, P. Kuryloski and R. Jafari, "Enabling Effective Programming and Flexible Management of Efficient Body Sensor Network Applications," in IEEE Transactions on Human-Machine Systems, vol. 43, no. 1, pp. 115-133, Jan. 2013.
+[07/13/2017] [Niloofar Hezarjaribi]: Monitoring and Planning Diet Behavior
+[08/10/2017] [Parastoo Alinia]: Reliable and reconfigurable framework for physical activity monitoring
+[08/17/2017] [Ali Rokni]: Structured Perceptron (Part II)
+
+[01/12/2017]: [Yuchao Ma] Xiaojin Zhu, Zoubin Ghahramani, John Lafferty, "Semi-supervised learning using gaussian fields and harmonic functions", ICML, 2003.
+[01/19/2017]: [Ramin Fallahzadeh] H.M. Sajjad Hossain, Nirmalya Roy, Md Abdullah Al Hafiz Khan, "Active Learning Enabled Activity Recognition", PerCom, 2016.
+[01/19/2017]: [Parastoo Alinia] Randomized 3-approximation MAX-CNF
+[01/26/2017]: [Parastoo Alinia] Michele Berlingerio, Danai Koutra, Tina Eliassi-Rad, Christos Faloutsos, "NetSimile: A Scalable Approach to Size-Independent Network Similarity".
+[01/26/2017]: [Niloofar Hezarjaribi] Approximating weighted vertex cover using linear programming
+[02/02/2017]: [Ali Rokni] Ali Rokni, Hassan Ghasemzadeh, "Power and Memory Efficient Cascading Binary Classifier for Activity Recognition"
+[02/02/2017]: [Ali Rokni] Convex Optimization II: Gradient descent (Part 1)
+[02/09/2017]: [Yuchao Ma] Active Learning on Time Series Data
+[02/09/2017]: [Ramin Fallahzadeh] Outlier detection and analysis
+[02/16/2017]: [Yuchao Ma] SVM, TSVM and SVM Tree
+[02/23/2017]: [Mahdi Pedram] Mahdi Pedram, Ali  Rokni, Ramin Fallahzadeh, Hassan Ghasemzadeh, "A Beverage Intake Tracking System Based on Machine Learning Algorithms, and Ultrasonic and Color Sensors"
+[02/23/2017]: [Parastoo Alinia] Network-based relational knowledge transfer
+[03/02/2017]: [Niloofar Hezarjaribi] Thomaz, Edison, Irfan Essa, and Gregory D. Abowd. "A practical approach for recognizing eating moments with wrist-mounted inertial sensing."Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing. ACM, 2015.
+[03/02/2017]: [Niloofar Hezarjaribi] Reinforcement learning: Monte Carlo method
+[03/09/2017]: [Ramin Fallahzadeh] Ramin Fallahzadeh, Josue Pagan Ortiz, Hassan Ghasemzadeh, “Adaptive Compressed Sensing at the Fingertip of Internet-of-Things Sensors: An Ultra-Low Power Activity Recognition”,  IEEE/ACM Design, Automation and Test in Europe (DATE), March 27-31, 2017, Lausanne, Switzerland
+[03/09/2017]: [Ali Rokni] Convex Optimization II: Gradient descent (Part 2)
+[03/23/2017]: [Yuchao Ma] Towards Reliable Sensor-Based Wearable Systems for Healthcare (Part 1)
+[03/30/2017]: [Yuchao Ma] Towards Reliable Sensor-Based Wearable Systems for Healthcare (Part 2)
+[04/06/2017]: [Ali Rokni] Seyed Ali Rokni, Hassan Ghasemzadeh, “Synchronous Dynamic View Learning: A Framework for Autonomous Training of Activity Recognition Models using Wearable Sensors”,  The 16th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN), April 18-21, 2017, Pittsburgh, PA, USA.
+[04/06/2017]: [Ali Rokni]: Seyed Ali Rokni, Hassan Ghasemzadeh, “Synchronous Dynamic View Learning: A Framework for Autonomous Training of Activity Recognition Models using Wearable Sensors”, The 16th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN), April 18-21, 2017, Pittsburgh, PA, USA. (Part 1)
+[04/13/2017]: [Ali Rokni]: Seyed Ali Rokni, Hassan Ghasemzadeh, “Synchronous Dynamic View Learning: A Framework for Autonomous Training of Activity Recognition Models using Wearable Sensors”, The 16th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN), April 18-21, 2017, Pittsburgh, PA, USA. (Part 2)
+[04/20/2017]: [Parastoo Alinia] Hypothesis Testing
+[04/27/2017]: [Ramin Fallahzadeh]: Graph Coloring and its applications
+[05/04/2017]: [Niloofar Hezarjaribi]: Reinforcement learning for diet planning
+
+
+[08/29/2016]: [Ramin Fallahzadeh] Le T.Nguyen, Ming Zeng, Patrick Tague, Joy Zhang, "Recognizing New Activities with Limited Training Data", ISWC '15, SEPTEMBER 7–11, 2015, OSAKA, JAPAN.
+[08/31/2016]: [Yuchao Ma] Random Forrest Algorithm
+[09/12/2016]: [Ali Rokni] Heli Koskimaki, Pekka Siirtola, "Adaptive Model Fusion for Wearable Sensors Based Human Activity Recognition",  19th International Conference on Information Fusion Heidelberg, Germany - July 5-8, 2016.
+[09/19/2016]: [Parastoo Alinia] Gina Sprint, Diane Cook, Roschelle Fritz, and Maureen Schmitter-Edgecombe, "Using Smart Homes to Detect and Analyze Health Events "
+[09/21/2016]: [Niloofar Hezarjaribi] Heapsort
+[09/26/2016]: [Yuchao Ma] Salikh Bagaveyev, Diane J . Cook, "Designing and Evaluating Active Learning Methods for Activity Recognition", UBICOMP '14 ADJUNCT, SEPTEMBER 13 - 17, 2014, SEATTLE, WA, USA
+[09/28/2016]: [Ali Rokni] Convex Sets
+[10/10/2016]: [Niloofar Hezarjaribi] "Data Collection and Language Understanding of Food Descriptions"
+[10/24/2016]: [Mahdi Pedram] "Personalized and Context-Based Sensing  for Dehydration Monitoring"
+[10/31/2016]: [Ali Rokni] "Autonomous Sensor-Context Learning in Dynamic Human-Centered Internet-of-Things Environments"
+[11/02/2016]: [Ali Rokni] Mixture of Experts
+[11/07/2016]: [Yuchao Ma] J. W. Lee and C. Giraud-Carrier, "Transfer Learning in Decision Trees", in proceedings of the international joint conference on neural networks, 2007
+[11/28/2016]: [Parastoo Alinia] Peng Dai, Shen-Shyang Ho, Frank Rudzicz "Sequential Behavior Prediction Based on Hybrid Similarity and Cross-User Activity Transfer" , Knowledge-Base Systems, Elsevier, 2015
+[11/30/2016]: [Ramin Fallahzadeh] Minimum Makespan Scheduling
+[12/05/2016]: [Niloofar Hezarjaribi] Wang, Yi, et al. "User-guided reinforcement learning of robot assistive tasks for an intelligent environment." Intelligent Robots and Systems, 2003.(IROS 2003). Proceedings. 2003 IEEE/RSJ International Conference on. Vol. 1. IEEE, 2003.
+[12/07/2016]: [Yuchao Ma] Q-learning
+
+[05/16/2016]: [Yuchao Ma] Wu, Jian, and Roozbeh Jafari. "Zero-Effort Camera-Assisted Calibration Techniques for Wearable Motion Sensors." Proceedings of the Wireless Health 2014 on National Institutes of Health. ACM, 2014.
+[05/23/2016]: [Ramin Fallahzadeh] Bin Packing Problem: Asymptotic PTAS (AA Ch 9)
+[06/27/2016]: [Ramin Fallahzadeh] Knapsack Problem
+[06/20/2016]: [Yuchao Ma] Discreted Wavelet Transform
+[06/06/2016]: [Niloofar Hezarjaribi] Conditional Random Fields
+[07/11/2016]: [Parastoo Alinia] "Introduction to Transfer Learning"
+[07/25/2016]: [Yuchao Ma] Zhao, Z., Chen, Y., Liu, J., Shen, Z., & Liu, M. (2011, July). "Cross-people mobile-phone based activity recognition". In IJCAI (Vol. 11, pp. 2545-250).
+[08/01/2016]: [Ramin Fallahzadeh] Ramyar Saeedi, Ramin Fallahzadeh, Parastoo Alinia, Hassan Ghasemzadeh, “An Energy-Efficient Computational Model for Uncertainty Management in Dynamically Changing Networked Wearables”, ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED),  August 8-10, 2016, San Francisco, CA.
+
+[01/25/2016]: [Ramin Fallahzadeh] Krause, Andreas, et al. "Trading off prediction accuracy and power consumption for context-aware wearable computing." Wearable Computers, 2005. Proceedings. Ninth IEEE International Symposium on. IEEE, 2005.
+[01/25/2016]: [Ramyar Saeedi] TSP Part I (Approximation Algorithms)
+[02/01/2016]: [Ali Rokni] Subramanya, Amarnag, Slav Petrov, and Fernando Pereira. "Efficient graph-based semi-supervised learning of structured tagging models." Proceedings of the 2010 Conference on Empirical Methods in Natural Language Processing. Association for Computational Linguistics, 2010.
+[02/01/2016]: [Yuchao Ma] Multi-way Cut Problem (Approximation Algorithms)
+[02/08/2016]: [Ramyar Saeedi]Edmund Seto, Ruzena Bajcsy, "Modeling Physical Activity Behavior Change"
+[02/15/2016]: [Ramin Fallahzadeh] Minimun K-cut Problem
+[02/22/2016]: [Niloofar Hezarjaribi] Thomaz, Edison, Irfan Essa, and Gregory D. Abowd. "A practical approach for recognizing eating moments with wrist-mounted inertial sensing."Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing. ACM, 2015.
+[02/22/2016]: [Parastoo Alinia] K-center Problem
+[02/29/2016]: [Yuchao Ma] Chulsung Park, Pai H. Chou and Yicun Sun, "A wearable wireless sensor platform for interactive dance performances", 4th IEEE International Conference on Pervasive Computing and Communications (PERCOM’06).
+[03/07/2016]: [Parastoo Alinia] Altini, Marco, et al. "Estimating energy expenditure using body-worn accelerometers: a comparison of methods, sensors number and positioning."Biomedical and Health Informatics, IEEE Journal of 19.1 (2015): 219-226.
+[03/07/2016]: [Niloofar Hezarjaribi] Shortest Super-string Problem
+[03/21/2016]: [Yuchao Ma] Shortest Super-string Problem 2
+[03/28/2016]: [Niloofar Hezarjaribi] He, Hongsheng, Fanyu Kong, and Jindong Tan. "Dietcam: Multi-view food recognition using a multi-kernel svm." (2015).
+[03/28/2016]: [Ali Rokni] Using Weka Java API
+[04/04/2016]: [Niloofar Hezarjaribi] Anthimopoulos, Marios M., et al. "A food recognition system for diabetic patients based on an optimized bag-of-features model." Biomedical and Health Informatics, IEEE Journal of 18.4 (2014): 1261-1271.
+
+[09/07/2015]: [Ali Rokni] DBSCAN
+[09/09/2015]: [Niloofar Hezarjaribi]: Dynamic Programming Parsing for Context-Free Grammars in Continuous Speech Recognition
+[09/14/2015]: [Niloofar Hezarjaribi] Machine Learning Inspired Power Management in Multicore Chips
+[09/16/2015]: [Parastoo Alinia]: Stochastic methods (Simulated Annealing)
+[09/21/2015]: [Ramin Fallahzadeh] Pejovic, Veljko, and Mirco Musolesi. "InterruptMe: Designing intelligent prompting mechanisms for pervasive applications." Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing. ACM, 2014.
+[09/23/2015]: [Ali Rokni]: Ordering points to identify the clustering structure (OPTICS)
+[09/28/2015]: [Parastoo Alinia] Castro, Daniel, Steven Hickson, Vinay Bettadapura, Edison Thomaz, Gregory Abowd, Henrik Christensen, and Irfan Essa. "Predicting daily activities from egocentric images using deep learning." In Proceedings of the 2015 ACM International Symposium on Wearable Computers, pp. 75-82. ACM, 2015.
+[09/30/2015]: [Yuchao Ma]: Introduction of Deep Learning
+[10/05/2015]: [Yuchao Ma] Lim, Joseph Jaewhan. "Transfer learning by borrowing examples for multiclass object detection". Diss. Massachusetts Institute of Technology, 2012.
+[10/07/2015]: [Ramyar Saeedi]: Set cover Problem
+[10/12/2015]: [Ramin Fallahzadeh] Nguyen, Le T., et al. "I did not smoke 100 cigarettes today!: avoiding false positives in real-world activity recognition." Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing. ACM, 2015.
+[10/26/2015]: [Ali Rokni] Spina, Gabriele, et al. "Identifying Physical Activity Profiles in COPD Patients Using Topic Models." (2015).
+[10/28/2015]: [Niloofar Hezarjaribi]: Hidden Markov Model Part I
+[11/02/2015]: [Yuchao Ma] Gait Analysis Review
+[11/04/2015]: [Parastoo Alinia]: Hidden Markov Model Part II
+[11/09/2015]: [Ramyar Saeedi] Korpela, Joseph, et al. "An energy-aware method for the joint recognition of activities and gestures using wearable sensors." Proceedings of the 2015 ACM International Symposium on Wearable Computers. ACM, 2015
+[11/16/2015]: [Parastoo Alinia] "Investigating the Accuracy of Fitbit Activity Trackers"
+[11/18/2015]: [Ramin Fallahzadeh]: Set Cover Layering Approach
+[11/30/2015]: [Niloofar Hezarjaribi] "A Machine Learning Approach For Medication Adherence Monitoring Using Body-Worn Sensors"
+[12/02/2015]: [Ali Rokni]: Shortest Superstring(Approximation Algorithm)
+
+[05/13/2015] [Ali Rokni]: Linear Programming: Introduction, Formulation and Solving
+[05/20/2015] [Yuchao Ma]: Baum-Welch algorithm
+[05/20/2015]:[Parastoo Alinia] David Pardoe and Peter Stone, "Boosting for Regression Transfer", The University of Texas at Austin, In Proceedings of the Twenty-Seventh International Conference on Machine Learning (ICML 10),
+[05/27/2015] [Parastoo Alinia]: AdaBoost.R2 and Two-stage TrAdaBoost.R2 (Transfer Learning for regression models)
+[06/03/2015]:[Yuchao Ma] Arash Salarian, Pierre R. Burkhard, Franc, ois J. G. Vingerhoets, Brigitte M. Jolles, and Kamiar Aminian, "A Novel Approach to Reducing the Number of the Sensing Units for Wearable Gait Analysis Systems", IEEE TRANSACTIONS ON BIOMEDICAL ENGINEERING, January 2013
+[06/03/2015] [Ramyar Saeedi]: The Floyd-Warshall algorithm
+[06/10/2015] [Ramin Fallahzadeh]: Randomized Algorithms: The hiring problem
+[06/24/2015][Parastoo Alinia]: Approximation Problems (Vertex cover and TSP)
+[07/01/2015]: [Ramin Fallahzadeh] Williamson, J.; Qi Liu; Fenglong Lu; Mohrman, W.; Kun Li; Dick, R.; Li Shang, "Data sensing and analysis: Challenges for wearables," Design Automation Conference (ASP-DAC), 2015 20th Asia and South Pacific.
+[07/01/2015][Yuchao Ma]: Kullback Leibler divergence
+[07/08/2015]: [Ramin Fallahzadeh] "derivative free optimization: direction search"
+[07/15/2015]: [Yuchao Ma] Benoit Mariani, Hossein Rouhani, Xavier Crevoisier, Kamiar Aminian, "Quantitative estimation of foot-flat and stance phase of gait using foot-worn inertial sensors", Gait & posture,  2012 Elsevier.
+[07/22/2015]: [Deontae Pharr] "Data Collection Tool for Android Wearable and Handheld Devices"; [Ellen Louie] "Signal Segmentation Tool to Facilitate Research involving Wireless Sensors".
+[08/05/2015]: [Ramyar Saeedi] William T Riley, Daniel E Rivera, Audie A Atienza, Wendy Nilsen, Susannah M Allison, and Robin Mermelstein, "Health Behavior Models in the Age of Mobile Interventions", Transl Behav Med, 2011 Mar; 1(1): 53–71.
+
+[01/15/2015] [Yuchao Ma]: Yuchao Ma, Sharon Henry, Alex Kierlanczyk, Majid Sarrafzadeh, Joseph Caprioli, Kouros Nouri-Mahdavi, Hassan Ghasemzadeh, Navid Amini, “Investigation of Gait Characteristics in Glaucoma Patients with a Shoe-Integrated Sensing System”, International Workshop on the Impact of Human Mobility in Pervasive Systems and Applications (PerMoby) in Conjunction with IEEE PerCom, March 23–27, 2015, St. Louis, Missouri, USA.
+[01/15/2015] [Ramin Fallahzadeh]: Ramin Fallahzadeh, Mahdi Pedram, Ramyar Saeedi, Bahman Sadeghi, Michael Ong, Hassan Ghasemzadeh, “Smart-Cuff: A Wearable Bio-Sensing Platform with Activity-Sensitive Information Quality Assessment for Monitoring Ankle Edema”, The 7th International Workshop on Information Quality and Quality of Service for Pervasive Computing (IQ2S) in Conjunction with IEEE PerCom, March 23–27, 2015, St. Louis, Missouri, USA.
+[01/21/2015] [Yuchao Ma]: Shortest Path Problem
+[01/22/2015] [Ramyar Saeedi]: Ramyar Saeedi, Hassan Ghasemzadeh, “Patient-Centric On-Body Sensor Localization in Smart Health Systems”, The 48th Asilomar Conference on Signals, Systems and Computers, November 2–5, 2014, Pacific Grove, CA, USA.
+[01/22/2015] [Ali Rokni]: Semi-Learning of Activity Labels in Real-Time using Wearable Motion Sensors.
+[01/28/2015] [Ali Rokni]: Hungarian Algorithms
+[01/29/2015] [Parastoo Alinia]: MET Calculation using Wearable Sensors.
+[01/29/2015] [Samaneh Aminikhanghahi]: Using Google Glasses Technology for Visual Field Expansion.
+[02/04/2015] [Ramyar Saeedi]: Greedy Algorithms
+[02/05/2015] [Hassan Ghasemzadeh]: Ghasemzadeh, Hassan, Vitali Loseu, and Roozbeh Jafari. "Wearable coach for sport training: A quantitative model to evaluate wrist-rotation in golf." Journal of Ambient Intelligence and Smart Environments, vol 1, no. 2 (2009): 173-184.
+[02/11/2015] [Ramin Fallahzadeh]: String Matching
+[02/12/2015] [Ramin Fallahzadeh]: "Chroma: A Wearable Augmented-Reality Solution for Color Blindness", Enrico Tanuwidjaja, Derek Huynh, Kirsten Koa, Calvin Nguyen, Churen Shao, Patrick Torbett, Colleen Emmenegger, Nadir Weibel UbiComp 2014
+[02/18/2015] [Parastoo Alinia]: Network Flow Problem
+[02/26/2015] [Hassan Ghasemzadeh]: Hassan Ghasemzadeh, Roozbeh Jafari, “Ultra Low Power Signal Processing in Wearable Monitoring Systems: A Tiered Screening Architecture with Optimal Bit Resolution”, ACM Transactions in Embedded Computing Systems (TECS), vol. 13, no. 1, Article 9 (September 2013), 23 pages.
+[03/04/2015] [Yuchao Ma]: dynamic programming Problem, Knapsack
+[03/05/2015] [Parastoo Alinia]: Saisakul Chernbumroong, Shuang Cang, Hongnian Yu, “Maximum relevancy maximum complementary feature selection for multi-sensor activity recognition”, Expert Systems with Applications.
+[03/11/2015] [Ali Rokni]: Introduction to Algorithm Complexity
+[03/12/2015] [ Dr. Robert Catena]: “Gait and Falls”
+[04/01/2015] [Ramyar Saeedi]: Set Cover Problem
+[04/02/2015][Dr. Christopher Connolly]: “Assessing physical activity during pregnancy and postpartum”
+[04/09/2015] [Chris Chain]: Karl Kapp  “Gamification of Learning and Instruction”
+[04/09/2015][Samaneh Aminikhanghahi]: Gurashish Singh, Alexander Nelson, Ryan Robucci, Chintan Patel, Nilanjan Banerjee “Inviz: Low-power Personalized Gesture Recognition using Wearable Textile Capacitive Sensor Arrays”, PerCom 2015.
+[04/15/2015] [Ramin Fallahzadeh]: Viterbi Algorithm
+[04/16/2015][Yuchao Ma, Ramyya Hari]: "WiBreathe: Estimating Respiration Rate Using Wireless Signals in Natural Settings in the Home", Ruth Ravichandran, Elliot Sabal, Ke-Yu Chen, Mayank Goel, Sidhant Gupta, Shwetak N. Patel & "User activity tracking for Medication Adherence"
+[04/23/2015][Ali Rokni,Ramyar Saeedi]: "Confidence-based Multiclass AdaBoost for Physical Activity Monitoring", Attila Reiss, Didier Stricker, ISWC 2013 & ""
+[04/28/2015] [Samaneh Aminikhanghahi] "Google Glasses for Visual Field Expansion". Smart Health Class Final Presentation.
+[04/28/2015] [Parastoo Alinia,Chris Chain] "Assessing Accuracy Performance of Fitbit Activity Trackers". Smart Health Class Final Presentation.
+[04/28/2015] [Yuchao Ma] "Robust Gait Analysis Algorithms with Wearable Sensors". Smart Health Class Final Presentation.
+[04/30/2015] [Ramyya Hari] "Medication Adherence Assessment Using Wearable Sensors". Smart Health Class Final Presentation.
+[04/30/2015] [Ramin Fallahzadeh] "Edema Monitoring Using Wearable Sensors". Smart Health Class Final Presentation.
+[04/30/2015] [Ramyar Saeedi] "Computational Reliability of Mobile Wearable Sensor Networks". Smart Health Class Final Presentation.
+[04/30/2015] [Ali Rokni] "Transfer Learning Algorithms in Wearable Monitoring Platforms". Smart Health Class Final Presentation.
+
+[11/13/2014] [Yuchao Ma]: Yu-Liang Hsu; Pau-Choo Chung; Wei-Hsin Wang; Ming-Chyi Pai; Chun-Yao Wang; Chien-Wen Lin; Hao-Li Wu; Jeen-Shing Wang, "Gait and Balance Analysis for Patients With Alzheimer's Disease Using an Inertial-Sensor-Based Wearable Instrument," Biomedical and Health Informatics, IEEE Journal of , vol.18, no.6, pp.1822,1830, Nov. 2014.
+[10/21/2014] [Ramyar Saeedi]: Rodrigo de Oliveira, Mauro Cherubini, and Nuria Oliver. 2010. "MoviPill: improving medication compliance for elders using a mobile persuasive social game". In Proceedings of the 12th ACM international conference on Ubiquitous computing (UbiComp '10). ACM, New York, NY, USA, 251-260.
+[10/02/2014] [Yuchao Ma]: Ertin, Emre, Nathan Stohs, Santosh Kumar, Andrew Raij, Mustafa al'Absi, and Siddharth Shah. "AutoSense: unobtrusively wearable sensor suite for inferring the onset, causality, and consequences of stress in the field." In Proceedings of the 9th ACM Conference on Embedded Networked Sensor Systems, pp. 274-287. ACM, 2011.
+[09/11/2014] [Ali Rokni]: Helen L. Figge, "Electronic Tools to Measure and Enhance Medication Adherence", US Pharm. 2010;36(4)(Compliance & Adherence suppl):6-10.
+[09/04/2014] [Parastoo Alinia]: Mortazavi, Bobak, Nabil Alsharufa, Sunghoon Ivan Lee, Mars Lan, Majid Sarrafzadeh, Michael Chronley, and Christian K. Roberts. "Met calculations from on-body accelerometers for exergaming movements." In Body Sensor Networks (BSN), 2013 IEEE International Conference on, pp. 1-6. IEEE, 2013.
+[08/28/2014] [Yuchao Ma]: Niloofar Mohammadzadeh, Reza Safdari, Azin Rahimi, "Cancer Care Management through a Mobile Phone Health Approach: Key Consideration", Asian Pac J Cancer Prev. 2013;14(9):4961-4.
+[09/18/2014] [Ramyar Saeedi]: Saeedi, Ramyar, Brian Schimert, and Hassan Ghasemzadeh. "Cost-sensitive feature selection for on-body sensor localization." In Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct Publication, pp. 833-842. ACM, 2014.
+[08/28/2014] [Ramyar Saeedi]: Saeedi, Ramyar, Janet Purath, Krishna Venkatasubramanian, and Hassan Ghasemzadeh. "Toward seamless wearable sensing: Automatic on-body sensor localization for physical activity monitoring." In Engineering in Medicine and Biology Society (EMBC), 2014 36th Annual International Conference of the IEEE, pp. 5385-5388. IEEE, 2014.

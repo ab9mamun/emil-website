@@ -1,0 +1,75 @@
+.carousel-itemz {
+    background-size: 50% 100%;
+
+}
+
+#-2019- {
+	text-align:center;
+}
+
+.filter-search {
+    border-radius: 0.2rem;
+}
+
+
+#profile .portrait  {
+	border-radius: 0%;
+	object-fit: contain;
+}
+
+.nav-link {
+	font-size: 105%
+}
+
+
+/*
+	PROJECT
+*/
+
+.projects-container {
+  display: block;
+  position: relative;
+  /*margin-top: 5rem;*/
+  overflow: hidden;
+}
+
+.project-toolbar {
+  margin-bottom: 2rem; }
+
+.project-card {
+  position: relative;
+  width: calc(25% - 3*20px);
+  /* Fluid 3 columns (inc. 20px gutter) */ }
+
+@media screen and (max-width: 1199px) {
+  .project-card {
+    width: calc(50% - 20px);
+    /* Fluid 2 columns (inc. 20px gutter) */ } }
+
+@media screen and (max-width: 768px) {
+  .project-card {
+    width: 100%;
+    /* 1 column */ } }
+
+.project-item {
+  margin-bottom: 1.5rem; }
+
+.project-card.project-item {
+  margin: 0 0 20px 0;
+  /* Set to Isotope's gutter size */ }
+
+.project-card .card {
+  margin: 0;
+  /* Remove default card margin and use Isotope gutter */ }
+
+.project-showcase .project-item {
+  margin-bottom: 3rem; }
+
+.project-item:last-of-type {
+  margin-bottom: 0; }
+
+.isotope-item {
+  z-index: 2; }
+
+.isotope-item:hover {
+  z-index: 3; }
