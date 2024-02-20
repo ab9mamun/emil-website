@@ -1,0 +1,86 @@
+---
+label: publication
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+  description: Title of the paper
+- type: list
+  name: authors
+  label: Authors
+  description: List of the authors. You can add multiple authors
+- type: list
+  name: publication_types
+  label: Publication Type
+  description: Use one of these numbers:<br>0 = Uncategorized<br>1 = Conference paper<br>2
+    = Journal article<br>3 = Preprint / Working Paper<br>6 = Book section<br>7 = Thesis<br>8
+    = Patent
+  config:
+    use_select: false
+    source:
+      type: simple
+- type: textarea
+  name: publication
+  label: Publication Venue
+  description: E.g. AAAI, IEEE Journal, ArXiv...
+- type: datetime
+  name: publishDate
+  label: publishDate
+  default: now
+- type: datetime
+  name: date
+  label: date
+  default: now
+- type: textarea
+  name: url_pdf
+  label: url_pdf
+- type: text
+  name: url_code
+  label: url_code
+- type: textarea
+  name: abstract
+  label: abstract
+- type: text
+  name: doi
+  label: doi
+- type: textarea
+  name: summary
+  label: summary
+- type: list
+  name: tags
+  label: tags
+- type: list
+  name: categories
+  label: categories
+- type: boolean
+  name: featured
+  label: featured
+- type: text
+  name: url_dataset
+  label: url_dataset
+- type: text
+  name: url_poster
+  label: url_poster
+- type: text
+  name: url_project
+  label: url_project
+- type: text
+  name: url_slides
+  label: url_slides
+- type: text
+  name: url_source
+  label: url_source
+- type: text
+  name: url_video
+  label: url_video
+- type: list
+  name: projects
+  label: projects
+- name: cover
+  type: file
+  config:
+    maxSize: 64
+  label: Cover Image
+  description: optional featured image. The file name has to be named "featured.png"
+    or "featured.jpg"
