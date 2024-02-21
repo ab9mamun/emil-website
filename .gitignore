@@ -2,7 +2,7 @@
 .idea/
 
 # Hugo
-resources/
+#resources/
 public/
 
 
