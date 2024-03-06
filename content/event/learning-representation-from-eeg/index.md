@@ -49,7 +49,7 @@ image:
 url_slides: slides.pptx
 
 url_code:
-url_pdf:
+url_pdf: "https://arxiv.org/pdf/1511.06448.pdf"
 url_video:
 
 # Markdown Slides (optional).
