@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: This presentation discusses solving complex AI tasks with a new model nmaed HuggingGPT.
+summary: This presentation discusses solving complex AI tasks with a new model named HuggingGPT.
 abstract: 
 
 # Talk start and end times.
