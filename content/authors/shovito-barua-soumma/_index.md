@@ -57,7 +57,7 @@ user_groups:
 ---
 ## About Me
 
-I am a Ph.D. student at Arizona State University. I work as a Graduate Research Associate at Embedded Machine Intelligence Lab (EMIL) under the supervision of Dr. Hassan Ghasemzadeh. My research topics include machine learning, mHealth, health monitoring system development and human behaviour modeling. I received my B.S. in Computer Science and Engineering from Bangladesh University of Engineering & Technology (BUET) in 2022. Visit my website [here](https://shovito66.github.io/).
+I am a Ph.D. student at Arizona State University. I work as a Graduate Research Associate at Embedded Machine Intelligence Lab (EMIL) under the supervision of Dr. Hassan Ghasemzadeh. My research topics include machine learning, mHealth, health monitoring system development and human behaviour modeling. I received my B.S. in Computer Science and Engineering from Bangladesh University of Engineering & Technology (BUET) in 2022. Visit my website [here](https://www.shovitobarua.com/).
 
 
 
