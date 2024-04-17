@@ -2,7 +2,7 @@
 title: "Adversarial Transferability in Embedded Sensor Systems: An Activity Recognition Perspective"
 abstract: "In this work, we take the first stride in studying adversarial transferability in wearable sensor systems from four viewpoints: (1) transferability between machine learning models; (2) transferability across subjects of the embedded system; (3) transferability across sensor body locations; and (4) transferability across datasets used for model training."
 slides: ""
-url_pdf: ""
+url_pdf: "papers/Adversarial_Transferability_in_Wearable_Sensor_Systems_RameshKumarShah.pdf"
 publication_types:
   - "2"
 authors:
