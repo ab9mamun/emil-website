@@ -23,7 +23,7 @@ design:
 
 * \[2024-1] Asif's poster GlyCoach has won the best poster award on ASU College of Health Solutions Faculty Research Day. Congratulations!
 
-* \[2024-1] Dr. Mostafa Mostafavi joined EMIL as a Postdoctoral Researcher. Dr. Mostafavi obtained his PhD from Queen's University in Canada and was a faculty member in Iran before joining EMIL.
+* \[2024-1] Dr. Mostafa Mostafavi joined EMIL as a Postdoctoral Researcher. He obtained his PhD from Queen's University in Canada and was a faculty member in Iran before joining EMIL.
 
 * \[2024-1] Saman Khamesian joined EMIL as a PhD student.
 
