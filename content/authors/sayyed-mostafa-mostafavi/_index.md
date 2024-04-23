@@ -31,9 +31,9 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar  
-#  icon_pack: ai
-#  link: 
+- icon: google-scholar  
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=M1HMY30AAAAJ&hl=en&oi=sra
 #- icon: researchgate
 #  icon_pack: ai
 #  link: 
@@ -56,6 +56,6 @@ user_groups:
 - Postdocs
 ---
 ## About Me
-Dr. S M Mostafavi joined EMIL as a Postdoctoral Researcher. He obtained his PhD from Queen’s University in Canada and was a faculty member in Iran before joining EMIL.
+Dr. S.M. Mostafavi joined EMIL as a Postdoctoral Researcher. He obtained his PhD from Queen’s University in Canada and was a faculty member in Iran before joining EMIL.
 
 
