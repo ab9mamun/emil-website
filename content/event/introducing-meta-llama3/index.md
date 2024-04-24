@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary:
+summary: This presentation introduced the latest AI assistance from Meta company.
 abstract:
 
 # Talk start and end times.
