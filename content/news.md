@@ -17,7 +17,7 @@ design:
 ## <center>**2024**</center>
 
 - - -
-* \[2024-5] Shovito’s abstract paper titled, “AI-Powered Detection of Freezing of Gait Using Wearable Sensor Data in Patients with Parkinson’s Disease” accepted at the International Congress of Parkinson’s Disease and Movement Disorders®, in Philadelphia, PA, USA.
+* \[2024-5] Shovito’s abstract paper titled, “AI-Powered Detection of Freezing of Gait Using Wearable Sensor Data in Patients with Parkinson’s Disease” accepted at the International Congress of Parkinson’s Disease and Movement Disorders®,(MDS Congress), 2024.
   
 * \[2024-4] Congratulations to Ramesh Kumar Sah on successfully defending his PhD dissertation titled "Wearable Systems and Machine Learning for Affect Recognition and Interventions". We wish Dr. Sah the best in his future endeavors.
 
