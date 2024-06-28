@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.mdsabstracts.org/abstract/ai-powered-detection-of-freezing-of-gait-using-wearable-sensor-data-in-patients-with-parkinson’s-disease/
+url_pdf: https://drive.google.com/file/d/1MbxJHWyJcnj78ont7aJF8Pi_8uJpoJtJ/view?usp=drive_link
 url_code: 
 url_dataset:
 url_poster:
