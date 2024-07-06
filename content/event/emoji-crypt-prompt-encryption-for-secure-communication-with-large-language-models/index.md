@@ -1,18 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A hybrid method for imputation of missing values using optimized fuzzy c-means with support vector regression and a genetic algorithm"
-event: EMIL Spring'24 Seminars
+title: "EmojiCrypt: Prompt Encryption for Secure Communication with Large Language Models"
+event: EMIL Summer'24 Seminars
 event_url:
-location: Health Futures Center, ASU
+location: Online (Zoom)
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary: This presentation discusses missing data imputation through fuzzy c-means clustering.
-abstract: Missing values in datasets should be extracted from the datasets or should be estimated before they are used for classification, association rules or clustering in the preprocessing stage of data mining. In this study, we utilize a fuzzy c-means clustering hybrid approach that combines support vector regression and a genetic algorithm. In this method, the fuzzy clustering parameters, cluster size and weighting factor are optimized and missing values are estimated. The proposed novel hybrid method yields sufficient and sensible imputation performance results. The results are compared with those of fuzzy c-means genetic algorithm imputation, support vector regression genetic algorithm imputation and zero imputation.
+summary: This presentation discusses a new way to encrypt data with the help of LLMs.
+abstract: Cloud-based large language models (LLMs) such as ChatGPT have increasingly become integral to daily operations, serving as vital tools across various applications. While these models offer substantial benefits in terms of accessibility and functionality, they also introduce significant privacy concerns: the transmission and storage of user data in cloud infrastructures pose substantial risks of data breaches and unauthorized access to sensitive information, even if the transmission and storage of data is encrypted, the LLM service provider itself still knows the real contents of the data, preventing individuals or entities from confidently using such LLM services. To address these concerns, this paper proposes a simple yet effective mechanism, EmojiCrypt, to protect user privacy. It uses emojis to encrypt the user inputs before sending them to LLM, effectively rendering them indecipherable to human or LLM’s examination while retaining the original intent of the prompt, thus ensuring the model’s performance remains unaffected. We conduct experiments on three tasks, personalized recommendation, sentiment analysis, and tabular data analysis. Experiment results reveal that EmojiCrypt can encrypt personal information within prompts in such a manner that not only prevents the discernment of sensitive data by humans or LLM itself but also maintains or even improves the precision without further tuning, achieving comparable or even better task accuracy than directly prompting the LLM without prompt encryption. These results highlight the practicality of adopting encryption measures that safeguard user privacy without compromising the functional integrity and performance of LLMs. The code and dataset are available at https://github.com/agiresearch/EmojiCrypt
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -21,7 +21,7 @@ date_end: 2024-06-19T13:00:00-07:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2024-07-05T20:00:00-07:00
+publishDate: 2024-07-05T19:58:00-07:00
 
 authors: [saman-khamesian]
 tags: []
