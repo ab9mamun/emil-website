@@ -21,7 +21,7 @@ date_end: 2024-06-19T13:00:00-07:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2024-07-05T20:05:00-07:00
+publishDate: 2024-06-19T13:50:00-07:00
 
 authors: [saman-khamesian]
 tags: []
