@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Scaling MLPs: A Tale of Inductive Bias"
-event:
+event: EMIL Summer'24 Seminars
 event_url:
-location:
+location: Online (Zoom)
 address:
   street:
   city:
