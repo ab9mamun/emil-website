@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data"
-event: EMIL Spring'24 Seminars
+event: EMIL Summer'24 Seminars
 event_url:
 location: Online (Zoom)
 address:
