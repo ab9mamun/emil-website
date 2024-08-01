@@ -22,7 +22,7 @@ publication_short: "IEEE BSN 2024"
 abstract: "Dehydration affects many people worldwide and it can have severe consequences if remains unaddressed. A continuous hydration monitoring and reminder system based on wearable sensors and machine learning can ensure adequate fluid intake to prevent unwanted outcomes and to increase productivity. Despite the increasing popularity of wearable systems and smartphones, an affordable wearable-based hydration monitoring system that also considers environmental parameters for just-in-time decisions is not available. Our proposed system, HydraSense, devises a machine learning solution for detecting the activity, the surrounding environment, and the current level of hydration. By considering the activity and environmental parameters, HydraSense evaluates the adjusted fluid intake requirement and recommends a suitable action based on the severity of the dehydration. Additionally, we investigate the relationships of human activities and postures with dehydration. We are currently collecting and analyzing data for the evaluation of the proposed system and will present our findings at the conference."
 
 # Summary. An optional shortened abstract.
-summary: "We propose a personalized hydration monitoring system considering with wearable and machine learning."
+summary: "We propose a personalized hydration monitoring system with wearable and machine learning."
 
 tags: ["featured"]
 categories: []
