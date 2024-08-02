@@ -19,7 +19,7 @@ design:
 - - -
 * \[2024-7] Nooshin's paper titled "Wavelet-Augmented Self-Supervised Learning for Accurate Classification of Cognitive Workload" got accepted at the IEEE-EMBS International Conference on Body Sensor Networks: NextGen Health: Sensor Innovation, AI, and Social Responsibility (IEEE BSN 2024).
 
-* \[2024-7] Fatimah's abstract titled "Poster: HydraSense: Personalized Hydration Monitoring with Wearables and Machine Learning" got accepted at the IEEE-EMBS International Conference on Body Sensor Networks: NextGen Health: Sensor Innovation, AI, and Social Responsibility (IEEE BSN 2024). Fatimah Amer is a high school student who worked with EMIL as a ASU SCENE intern.
+* \[2024-7] Fatimah's abstract titled "Poster: HydraSense: Personalized Hydration Monitoring with Wearables and Machine Learning" got accepted at the IEEE-EMBS International Conference on Body Sensor Networks: NextGen Health: Sensor Innovation, AI, and Social Responsibility (IEEE BSN 2024). Fatimah Amer is a high school student who worked with EMIL as an ASU SCENE intern.
 
 * \[2024-7] Ramesh's paper titled "Minimum-Cost Channel Selection in Wearables" got accepted at the IEEE-EMBS International Conference on Body Sensor Networks: NextGen Health: Sensor Innovation, AI, and Social Responsibility (IEEE BSN 2024).
 
