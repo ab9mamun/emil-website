@@ -54,6 +54,7 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - PhD Students
+weight: 15
 ---
 ## About Me
 As a doctoral candidate at Arizona State University (ASU), I am currently conducting research under the guidance of Professor Hassan Ghasemzadeh at the Embedded Machine Intelligence Lab (EMIL). My research interests encompass a range of topics, including machine learning, health monitoring system development, and mobile health. Prior to pursuing my PhD, I earned a Bachelor of Science degree in computer engineering from Isfahan University of Technology.
