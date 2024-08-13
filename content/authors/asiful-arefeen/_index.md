@@ -26,6 +26,7 @@ social:
     link: https://www.linkedin.com/in/asiful-arefeen-514208aa/
 user_groups:
   - PhD Students
+weight: 3
 ---
 ## About Me
 

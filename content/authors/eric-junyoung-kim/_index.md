@@ -42,6 +42,7 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - PhD Students
+weight: 9
 ---
 ## About Me
 I am a Ph.D. student at Arizona State University currently working for Dr. Hassan Ghasemzadehas as a Graduate Research Associate at Embedded Machine Intelligence Lab (EMIL).

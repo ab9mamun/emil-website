@@ -54,6 +54,7 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - PhD Students
+weight: 5
 ---
 ## About Me
 I am a Ph.D. student at the College of Health Solutions, Arizona State University (ASU).  Currently, I am working under the supervision of Dr. Hassan Ghasemzadeh at the Embedded Machine Intelligence Lab (EMIL).  I received my M.Sc. degree in Communication Engineering with a focus on machine learning algorithms from the Shahid Bahonar University of Kerman (SBUK). My research interests include machine learning, clinical informatics, and health monitoring system development.

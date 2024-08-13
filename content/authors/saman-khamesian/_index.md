@@ -34,6 +34,7 @@ social:
 
 user_groups:
   - PhD Students
+weight: 8
 ---
 ## About Me
 

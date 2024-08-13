@@ -54,7 +54,7 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - PhD Students
-weight: 10
+weight: 6
 ---
 ## About Me
 
