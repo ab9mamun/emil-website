@@ -17,7 +17,7 @@ design:
 ## <center>**2024**</center>
 
 - - -
-* \[2024-7] Eric Junyoung Kim and Ebrahim Farahmand joined EMIL as a PhD student.
+* \[2024-8] Eric Junyoung Kim and Ebrahim Farahmand joined EMIL as new PhD students.
 
 * \[2024-7] Nooshin's paper titled "Wavelet-Augmented Self-Supervised Learning for Accurate Classification of Cognitive Workload" got accepted at the IEEE-EMBS International Conference on Body Sensor Networks: NextGen Health: Sensor Innovation, AI, and Social Responsibility (IEEE BSN 2024).
 
