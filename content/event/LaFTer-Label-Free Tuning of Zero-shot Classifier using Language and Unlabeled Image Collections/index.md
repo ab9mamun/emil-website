@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A hybrid method for imputation of missing values using optimized fuzzy c-means with support vector regression and a genetic algorithm"
+title: "LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections"
 event: EMIL Fall'24 Seminars
 event_url:
 location: Health Futures Center, ASU
@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: This presentation discusses label-free tunning of zero-shot classifier using language and unlabeled image collections.
+summary: This presentation discusses label-free tunning of zero-shot classifiers using language and unlabeled image collections.
 abstract:
 
 # Talk start and end times.
