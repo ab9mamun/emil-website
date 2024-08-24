@@ -4,7 +4,7 @@ title: Nooshin Taheri Chatrudi
 
 # Username (this should match the folder name)
 authors:
-- nooshin-taheri
+- nooshin-taheri-chatrudi
 
 # Is this the primary user of the site?
 superuser: true

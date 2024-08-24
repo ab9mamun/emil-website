@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2024-05-21T16:50:20-07:00
 
-authors: [nooshin-taheri]
+authors: [nooshin-taheri-chatrudi]
 tags: []
 
 # Is this a featured event? (true/false)

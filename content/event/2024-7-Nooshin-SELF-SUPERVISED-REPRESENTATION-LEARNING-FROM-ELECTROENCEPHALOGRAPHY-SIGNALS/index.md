@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2024-07-31T19:34:20-07:00
 
-authors: [nooshin-taheri]
+authors: [nooshin-taheri-chatrudi]
 tags: []
 
 # Is this a featured talk? (true/false)
