@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nooshin Taheri
+title: Nooshin Taheri Chatrudi
 
 # Username (this should match the folder name)
 authors:
