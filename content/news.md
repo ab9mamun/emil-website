@@ -17,7 +17,7 @@ design:
 ## <center>**2024**</center>
 
 - - -
-* \[2024-9] Team HydroGuard (Lead: <u>Shovito B. Soumma</u>, Asiful Arefeen, Saanya Aroura, Jiaqian Lee, Chau Nguyen; Mentors: Dr. H. Ghasemzadeh, Dr. Stavros Kavouras) won the seed grant ($50,000) in the 2024 CHS Student Heat and Health Research Challenge. <a href="https://www.dropbox.com/scl/fo/hfvw0hasoyit2a30af1il/ABPIQeKBTciQAZfJoaBVSjE?rlkey=szgevma2gttncisq9oveg47lm&dl=0">[Pictures]</a>.
+* \[2024-9] Team HydroGuard (Lead: <u>Shovito B. Soumma</u>, Asiful Arefeen, Saanya Aroura, Jiaqian Lee, Chau Nguyen; Mentors: Dr. H. Ghasemzadeh, Dr. Stavros Kavouras) won the seed grant ($50,000) in the 2024 CHS Student Heat and Health Research Challenge. <a href="https://news.asu.edu/20240916-health-and-medicine-student-group-wins-50000-seed-money-firstofitskind-pitch-fest-college">[News Article]</a> <a href="https://www.dropbox.com/scl/fo/hfvw0hasoyit2a30af1il/ABPIQeKBTciQAZfJoaBVSjE?rlkey=szgevma2gttncisq9oveg47lm&dl=0">[Pictures]</a>.
 
 * \[2024-8] Eric Junyoung Kim and Ebrahim Farahmand joined EMIL as new PhD students.
 
