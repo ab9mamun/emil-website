@@ -4,7 +4,7 @@
 title: "Can Language Models Solve Graph Problems in Natural Language?"
 event: EMIL Fall'24 Seminars
 event_url:
-location: Health Futures Center, ASU
+location: Online (Zoom)
 address:
   street:
   city:
