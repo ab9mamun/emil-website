@@ -4,8 +4,8 @@ abstract: "We present an end-to-end framework for solving the Vehicle Routing Pr
 
 summary: "A reinforcement learning approach to solve the vehicle routing problem."
 location: Online (Zoom)
-date: 2024-09-18T20:56:00.000Z
-date_end: 2024-09-18T20:56:00.000Z
+date: 2024-09-18T12:30:00.000Z
+date_end: 2024-09-18T13:00:00.000Z
 all_day: false
 links:
   - url: https://proceedings.neurips.cc/paper/2018/file/9fb4651c05b2ed70fba5afe0b039a550-Paper.pdf
