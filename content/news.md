@@ -17,6 +17,9 @@ design:
 ## <center>**2024**</center>
 
 - - -
+
+* \[2024-10] Shovito received *ASU Graduate Student Government (GSG; previously GPSA) Travel Grant* for an Individual Travel award for the fiscal year 2024-2025.
+  
 * \[2024-9] Shovito received Graduate College 2024-25 Q2 Travel Grant to attend <a href="https://bhi.embs.org/2024/">IEEE BHI’24</a>.
 
 * \[2024-9] Team HydroGuard (Lead: <u>Shovito B. Soumma</u>, Asiful Arefeen, Saanya Aroura, Jiaqian Lee, Chau Nguyen; Mentors: Dr. H. Ghasemzadeh, Dr. Stavros Kavouras) won the seed grant ($50,000) in the 2024 CHS Student Heat and Health Research Challenge. [<a href="https://news.asu.edu/20240916-health-and-medicine-student-group-wins-50000-seed-money-firstofitskind-pitch-fest-college">News Article</a>] [[Pitch Fest Story](https://chs.asu.edu/news/pitch-fest-story)] [<a href="https://www.dropbox.com/scl/fo/hfvw0hasoyit2a30af1il/ABPIQeKBTciQAZfJoaBVSjE?rlkey=szgevma2gttncisq9oveg47lm&dl=0">Pictures</a>].
