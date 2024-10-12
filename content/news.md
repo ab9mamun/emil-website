@@ -20,6 +20,8 @@ design:
 
 * \[2024-10] Asif received the IEEE BHI’24 NSF Student Travel Award.
 
+* \[2024-10] Shovito’s abstract titled “Poster: Wearable-Based Real-time Freezing of Gait Detection in Parkinson’s Disease Using Self-Supervised Learning” got accepted at the IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI’24).
+
 * \[2024-10] Shovito received *ASU Graduate Student Government (GSG; previously GPSA) Travel Grant* for an Individual Travel award for the fiscal year 2024-2025.
 
 * \[2024-9] Shovito received Graduate College 2024-25 Q2 Travel Grant to attend <a href="https://bhi.embs.org/2024/">IEEE BHI’24</a>.
