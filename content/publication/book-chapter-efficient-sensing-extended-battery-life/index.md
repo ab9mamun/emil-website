@@ -7,7 +7,7 @@ a personalized structure for each individual."
 slides: ""
 url_pdf: ""
 publication_types:
-  - "2"
+  - "6"
 authors:
   - Mahdi Pedram
   - Ramesh Sah

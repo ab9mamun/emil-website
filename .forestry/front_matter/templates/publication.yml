@@ -14,7 +14,7 @@ fields:
   name: publication_types
   label: Publication Type
   description: Use one of these numbers:<br>0 = Uncategorized<br>1 = Conference paper<br>2
-    = Journal article<br>3 = Preprint / Working Paper<br>6 = Book section<br>7 = Thesis<br>8
+    = Journal article<br>3 = Preprint / Working Paper<br>6 = Book chapter<br>7 = Thesis<br>8
     = Patent
   config:
     use_select: false
