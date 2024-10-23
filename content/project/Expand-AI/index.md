@@ -1,7 +1,7 @@
 ---
 slides: ""
 url_pdf: ""
-summary: Pervasive Systems Integrate computing capabilities into everyday objects such as phones, wearables, cars, assistive robots, homes, and workplaces. These systems must be able to work in highly dynamic environments and interact directly with humans. They are also constrained in resources. The need for robust, interactive, and embedded pervasive systems motivated us to start the ExpandAI project. Our goal in this project is to (i) design robust machine learning algorithms that address distribution shifts in the data due to dynamic changes in the system status over time; (ii) design interactive machine learning techniques that incorporate human input and prior domain knowledge for improved model performance and personalized decision making; and (iii) develop embedded machine learning methods for deploying the models on embedded devices with stringent constrained resources.
+summary:
 
 authors: [EPSL]
 url_video: ""
@@ -17,7 +17,10 @@ image:
 categories: []
 url_code: ""
 ---
-Overall, this project is broken into three divisions:
+
+Pervasive Systems Integrate computing capabilities into everyday objects such as phones, wearables, cars, assistive robots, homes, and workplaces. These systems must be able to work in highly dynamic environments and interact directly with humans. They are also constrained in resources. The need for robust, interactive, and embedded pervasive systems motivated us to start the ExpandAI project. Our goal in this project is to (i) design robust machine learning algorithms that address distribution shifts in the data due to dynamic changes in the system status over time; (ii) design interactive machine learning techniques that incorporate human input and prior domain knowledge for improved model performance and personalized decision making; and (iii) develop embedded machine learning methods for deploying the models on embedded devices with stringent constrained resources.
+
+Overall, this project is broken into three tasks:
 
 # Pervasive Continual Learning
 We will research methods that enable pervasive systems to learn incrementally and sequentially, accumulating expertise and building upon previously acquired knowledge while mitigating catastrophic forgetting. Recognizing the lack of rigorous prior work on pervasive continual learning, we propose a holistic approach that includes studying distribution shifts, developing methods for out-of-distribution generalization, designing techniques to deal with noisy labels, designing algorithms for continual learning.
