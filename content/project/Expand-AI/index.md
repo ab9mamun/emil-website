@@ -1,10 +1,8 @@
 ---
 slides: ""
 url_pdf: ""
-summary: "Pervasive Systems Integrate computing capabilities into everyday objects such as phones, wearables, cars, assistive robots, homes, and workplaces. These systems must be able to work in highly dynamic environments and interact directly with humans. They are also constrained in resources. The need for robust, interactive, and embedded pervasive systems motivated us to start the ExpandAI project.
-Our goal in this project is to (i) design robust machine learning algorithms that address distribution shifts in the data due to dynamic changes in the system status over time; (ii) design interactive machine learning techniques that incorporate human input and prior domain knowledge for improved model performance and personalized decision making; and (iii) develop embedded machine learning methods for deploying the models on embedded devices with stringent constrained resources.
+summary: Pervasive Systems Integrate computing capabilities into everyday objects such as phones, wearables, cars, assistive robots, homes, and workplaces. These systems must be able to work in highly dynamic environments and interact directly with humans. They are also constrained in resources. The need for robust, interactive, and embedded pervasive systems motivated us to start the ExpandAI project. Our goal in this project is to (i) design robust machine learning algorithms that address distribution shifts in the data due to dynamic changes in the system status over time; (ii) design interactive machine learning techniques that incorporate human input and prior domain knowledge for improved model performance and personalized decision making; and (iii) develop embedded machine learning methods for deploying the models on embedded devices with stringent constrained resources.
 
-"
 authors: [EPSL]
 url_video: ""
 date: 2023-05-01T23:58:08-08:00
