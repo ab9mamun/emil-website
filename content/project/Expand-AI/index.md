@@ -8,7 +8,7 @@ url_video: ""
 date: 2023-05-01T23:58:08-08:00
 external_link: ""
 url_slides: ""
-title: "Expanding AI Innovation in Pervasive Systems"
+title: "Expand AI"
 tags: []
 image:
   caption: ""
@@ -39,5 +39,12 @@ We will investigate context-aware robot navigation leveraging (i) competence-awa
 This project theme focuses on the problem of perception and decision-making for context-aware navigation of urban-scale assistive robots (e.g., last-mile delivery). Robots deployed in such unstructured real-world settings will inevitably encounter complex scenarios not seen before in training time. While existing solutions have shown impressive ability at being autonomous under “nominal” circumstances when provided with ample previous experiences and sufficient annotations specific to the scenario, they are unable to handle complex scenarios involving multiple agents and contextual costs, and in adverse perceptual conditions (e.g., low light and inclement weather). Decision making in uncertain environments depends on several factors including 1) the perceptual uncertainty of the robot; 2) the accuracy of the robot’s actions; and 3) the legibility of the robot’s actions to other vehicles such as cars and bicycles. The proposed research builds on the prior work of the PIs, to design methods for robust perception and decision-making in naturalistic settings.
 
 ##### *This material is based upon work supported by the U.S. National Science Foundation (NSF) under Award Number 2402650. Any opinions, findings and conclusions or recommendations expressed in this material do not necessarily reflect the views of the U.S. National Science Foundation.*
+
+<div class="container">
+<div class="row justify-content-center people-widget">
+<div class="col-md-12 section-heading"><h1>Members</h1></div>
+<div class="col-12 col-sm-auto people-person"><a href="/authors/hassan-ghasemzadeh/"><img class="avatar avatar-circle" src="" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/4018242">Hassan Ghasemzadeh</a></h2></div></div>
+</div>
+</div>
 
 ![](PIs.png)
