@@ -44,9 +44,9 @@ This project theme focuses on the problem of perception and decision-making for 
 <div class="row justify-content-center people-widget">
 <div class="col-md-12 section-heading"><h1>Team</h1></div>
 <div class="col-12 col-sm-auto people-person"><a href="https://search.asu.edu/profile/4018242"><img class="avatar avatar-circle" src="people/hassan.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/4018242">Hassan Ghasemzadeh</a></h2></div></div>
-<div class="col-12 col-sm-auto people-person"><a href="https://search.asu.edu/profile/4018242"><img class="avatar avatar-circle" src="people/hassan.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/4018242">Hassan Ghasemzadeh</a></h2></div></div>
-<div class="col-12 col-sm-auto people-person"><a href="https://search.asu.edu/profile/4018242"><img class="avatar avatar-circle" src="people/hassan.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/4018242">Hassan Ghasemzadeh</a></h2></div></div>
-<div class="col-12 col-sm-auto people-person"><a href="https://search.asu.edu/profile/4018242"><img class="avatar avatar-circle" src="people/hassan.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/4018242">Hassan Ghasemzadeh</a></h2></div></div>
-<div class="col-12 col-sm-auto people-person"><a href="https://search.asu.edu/profile/4018242"><img class="avatar avatar-circle" src="people/hassan.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/4018242">Hassan Ghasemzadeh</a></h2></div></div>
+<div class="col-12 col-sm-auto people-person"><a href="https://search.asu.edu/profile/1795222"><img class="avatar avatar-circle" src="people/pavan.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/1795222">Pavan Turaga</a></h2></div></div>
+<div class="col-12 col-sm-auto people-person"><a href="https://search.asu.edu/profile/3022467"><img class="avatar avatar-circle" src="people/giulia.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/3022467">Giulia Pedrielli</a></h2></div></div>
+<div class="col-12 col-sm-auto people-person"><a href="https://search.asu.edu/profile/29494"><img class="avatar avatar-circle" src="people/daniel.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/29494">Daniel Rivera</a></h2></div></div>
+
 </div>
 </div>
