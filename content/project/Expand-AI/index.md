@@ -49,5 +49,15 @@ This project theme focuses on the problem of perception and decision-making for 
 <div class="col-12 col-sm-auto people-person"><a href="https://search.asu.edu/profile/3022467"><img class="avatar avatar-circle" src="people/giulia.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/3022467">Giulia Pedrielli</a></h2></div></div>
 <div class="col-12 col-sm-auto people-person"><a href="https://search.asu.edu/profile/29494"><img class="avatar avatar-circle" src="people/daniel.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/29494">Daniel Rivera</a></h2></div></div>
 
+
+<div class="col-md-12"><h2 class="mb-4"><a href="https://www.ifml.institute/"><img class="avatar avatar-circle" src="people/ifml.png" alt="Avatar"></a></h2></div>
+<div class="col-12 col-sm-auto people-person"><a href="https://www.cs.utexas.edu/people/faculty-researchers/adam-klivans"><img class="avatar avatar-circle" src="people/adam.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://www.cs.utexas.edu/people/faculty-researchers/adam-klivans">Adam Klivans</a></h2></div></div>
+<div class="col-12 col-sm-auto people-person"><a href="https://www.cs.utexas.edu/~pstone/"><img class="avatar avatar-circle" src="people/peter.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://www.cs.utexas.edu/~pstone/">Peter Stone</a></h2></div></div>
+<div class="col-12 col-sm-auto people-person"><a href="https://www.joydeepb.com/"><img class="avatar avatar-circle" src="people/joydeepb.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://www.joydeepb.com/">Joydeep Biswas</a></h2></div></div>
+<div class="col-12 col-sm-auto people-person"><a href="https://www.ece.utexas.edu/people/faculty/amy-zhang"><img class="avatar avatar-circle" src="people/amy.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://www.ece.utexas.edu/people/faculty/amy-zhang">Amy Zhang</a></h2></div></div>
+<div class="col-12 col-sm-auto people-person"><a href="https://users.ece.utexas.edu/~ethomaz/"><img class="avatar avatar-circle" src="people/edison.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://www.ece.utexas.edu/people/faculty/edison-thomaz">Edison Thomaz</a></h2></div></div>
+<div class="col-12 col-sm-auto people-person"><a href="https://www.cs.utexas.edu/people/faculty-researchers/brad-knox"><img class="avatar avatar-circle" src="people/brad.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://www.cs.utexas.edu/people/faculty-researchers/brad-knox">Brad Knox
+</a></h2></div></div>
+
 </div>
 </div>
