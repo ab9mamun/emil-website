@@ -42,8 +42,8 @@ This project theme focuses on the problem of perception and decision-making for 
 
 <div class="container">
 <div class="row justify-content-center people-widget">
-<div class="col-md-12 section-heading"><h1>Members</h1></div>
-<div class="col-12 col-sm-auto people-person"><a href="/authors/hassan-ghasemzadeh/"><img class="avatar avatar-circle" src="" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/4018242">Hassan Ghasemzadeh</a></h2></div></div>
+<div class="col-md-12 section-heading"><h1>Team</h1></div>
+<div class="col-12 col-sm-auto people-person"><a href="https://search.asu.edu/profile/4018242"><img class="avatar avatar-circle" src="/people/hassan.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/4018242">Hassan Ghasemzadeh</a></h2></div></div>
 </div>
 </div>
 
