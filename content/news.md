@@ -17,6 +17,7 @@ design:
 ## <center>**2024**</center>
 
 - - -
+* \[2024-10] Shovito and Abdullah's extended abstract titled "Domain-Informed Label Fusion Surpasses LLMs in Free-Living Activity Classification" has been accepted to the AAAI'25 conference for publication and presentation.
 
 * \[2024-10] Asif received the IEEE BHI’24 NSF Student Travel Award.
 
