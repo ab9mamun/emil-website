@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: "papers/Wavelet-Augmented-Self-Supervised-Learning-for-Accurate-Classification-of-Cognitive-Workload.pdf"
 url_code: 
 url_dataset:
 url_poster:
