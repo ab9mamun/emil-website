@@ -9,7 +9,6 @@ all_day: false
 links:
   - url: https://arxiv.org/pdf/1706.03762
     name: "PDF"
-
 event: EMIL Fall'24 Seminars
 event_url:
 publishDate: 2024-10-09T20:56:00.000Z
