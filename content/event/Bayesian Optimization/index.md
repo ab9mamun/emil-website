@@ -11,7 +11,7 @@ links:
     name: "Slides"
 event: EMIL Fall'24 Seminars
 event_url:
-publishDate: 2024-11-06T20:56:00.000Z
+publishDate: 2024-11-05T20:56:00.000Z
 draft: false
 featured: false
 authors:
