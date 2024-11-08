@@ -17,6 +17,8 @@ design:
 ## <center>**2024**</center>
 
 - - -
+* \[2024-11] Reza's paper titled "Multimodal examination of daily stress rhythms in chronic Cannabis users" has been published in the journal of Psychopharmacology.
+
 * \[2024-10] Shovito and Abdullah's extended abstract titled "Domain-Informed Label Fusion Surpasses LLMs in Free-Living Activity Classification" has been accepted to the AAAI'25 conference for publication and presentation.
 
 * \[2024-10] Asif received the IEEE BHI’24 NSF Student Travel Award.
