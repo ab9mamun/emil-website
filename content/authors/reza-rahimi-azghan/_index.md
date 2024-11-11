@@ -28,6 +28,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:rrahimia@asu.edu'
+- icon: google-scholar  
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=IWNYf0UAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+    link: https://www.researchgate.net/profile/Reza-Rahimi-11
 - icon: github
   icon_pack: fab
   link: https://github.com/rzarhmi
