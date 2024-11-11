@@ -33,7 +33,7 @@ social:
   link: https://scholar.google.com/citations?user=IWNYf0UAAAAJ&hl=en
 - icon: researchgate
   icon_pack: ai
-    link: https://www.researchgate.net/profile/Reza-Rahimi-11
+  link: https://www.researchgate.net/profile/Reza-Rahimi-11
 - icon: github
   icon_pack: fab
   link: https://github.com/rzarhmi
