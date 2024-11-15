@@ -12,7 +12,7 @@ organizations:
 - name: Arizona State University
   url: "https://www.asu.edu/"
 
-bio: I commenced my journey as a Computer Science Ph.D. student at Arizona State University in Spring 2024. Currently, my academic endeavors are guided by Dr. Hassan Ghasemzadeh at the Embedded Machine Learning Lab, where we are immersed in a collaborative project with industry.
+bio: I am a Ph.D. researcher at Arizona State University, specializing in Artificial Intelligence with a focus on health applications. As a Graduate Research Assistant in the EMIL Lab under Dr. Hassan Ghasemzadeh, I work on developing advanced machine learning solutions for Type 1 diabetes management, including personalized glucose forecasting and automated insulin delivery systems.
 
 social:
   - icon: envelope
@@ -38,9 +38,9 @@ weight: 8
 ---
 ## About Me
 
-I commenced my journey as a Computer Science Ph.D. student at Arizona State University (ASU) in Spring 2024. Currently, my academic endeavors are guided by Dr. Hassan Ghasemzadeh at the Embedded Machine Learning Lab, where we are immersed in a collaborative project with industry. Our objective is to develop machine learning algorithms capable of processing multimedia patient data to predict post-delivery complications.
+I am a Ph.D. researcher at Arizona State University, specializing in Artificial Intelligence with a focus on health applications. As a Graduate Research Assistant in the EMIL Lab under Dr. Hassan Ghasemzadeh, I work on developing advanced machine learning solutions for Type 1 diabetes management, including personalized glucose forecasting and automated insulin delivery systems. My academic journey includes earning a master’s degree in Artificial Intelligence and a bachelor’s degree in Computer Engineering from Shahid Beheshti University, Tehran, Iran.
 
-Before my doctoral studies, I pursued a Master's degree in Artificial Intelligence at Shahid Beheshti University (SBU). During this time, I gained practical experience as a Machine Learning Engineer at Mofid Securities, contributing to the field for a rewarding two-year period.
+Previously, I worked as a Machine Learning Engineer at Mofid Securities, where I developed financial prediction models, built stock recommendation systems, and implemented spoof detection solutions for eKYC services. With over five years of experience in Python programming, machine learning, and data science, I have a proven track record of solving complex, real-world problems through innovative AI solutions.
 
-My research focus revolves around the design of machine learning models, particularly in the realms of image processing and healthcare solutions applications. I am enthusiastic about leveraging my academic and professional background to contribute meaningfully to the intersection of technology and healthcare in my ongoing academic journey.
+I am passionate about interdisciplinary research that bridges academic innovation with impactful applications, particularly in healthcare and finance. Currently, I am also collaborating with researchers at the University of Texas at Austin on projects involving reinforcement learning and behavior change for health improvement.
 
