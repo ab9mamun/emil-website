@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary:  Using a transformer based variational autoencoder and Gumbrl-Softmax, TABCF produces counterdactuals the are not biased towards changing the continuous features more often than the categorical features.
+summary:  Using transformer based variational autoencoder and Gumbrl-Softmax, TABCF produces counterdactuals the are not biased towards changing the continuous features more often than the categorical features.
 abstract: In the field of Explainable AI (XAI), counterfactual (CF) explanations are one prominent method to interpret a black-box model by suggesting changes to the input that would alter a prediction. In real-world applications, the input is predominantly in tabular form and comprised of mixed data types and complex feature interdependencies. These unique data characteristics are difficult to model, and we empirically show that they lead to bias towards specific feature types when generating CFs. To overcome this issue, we introduce TABCF, a CF explanation method that leverages a transformer-based Variational Autoencoder (VAE) tailored for modeling tabular data. Our approach uses transformers to learn a continuous latent space and a novel Gumbel-Softmax detokenizer that enables precise categorical reconstruction while preserving end-to-end differentiability. Extensive quantitative evaluation on five financial datasets demonstrates that TABCF does not exhibit bias toward specific feature types, and outperforms existing methods in producing effective CFs that align with common CF desiderata.
 
 # Talk start and end times.
