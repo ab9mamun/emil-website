@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Knowledge-Infused LLM-Powered Conversational Health Agent: A Case Study for Diabetes Patients"
+title: "Knowledge-Infused LLM-Powered Conversational Health Agent - A Case Study for Diabetes Patients"
 event: EMIL Fall'24 Seminars
 event_url:
 location: Online (Zoom)
@@ -21,7 +21,7 @@ date_end: 2024-11-06T13:00:00-07:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2024-11-22T17:05:00-07:00
+publishDate: 2024-11-22T19:42:00-07:00
 
 authors: [saman-khamesian]
 tags: []
