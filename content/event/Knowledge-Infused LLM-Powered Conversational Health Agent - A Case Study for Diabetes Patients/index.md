@@ -16,12 +16,12 @@ abstract: Effective diabetes management is crucial for maintaining health in dia
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2024-011-06T12:00:00-07:00
-date_end: 2024-011-06T13:00:00-07:00
+date: 2024-11-06T12:00:00-07:00
+date_end: 2024-11-06T13:00:00-07:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2024-011-22T17:00:00-07:00
+publishDate: 2024-11-22T17:05:00-07:00
 
 authors: [saman-khamesian]
 tags: []
