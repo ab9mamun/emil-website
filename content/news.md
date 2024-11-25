@@ -31,6 +31,8 @@ design:
 
 * \[2024-10] Shovito received *ASU Graduate Student Government (GSG; previously GPSA) Travel Grant* for an Individual Travel award for the fiscal year 2024-2025.
 
+* \[2024-9] Asif's paper titled "GlyMan: Glycemic Management using Patient-Centric Counterfactuals" got accepted at the <a href="https://bhi.embs.org/2024/">IEEE BHI’24</a>.
+
 * \[2024-9] Shovito received Graduate College 2024-25 Q2 Travel Grant to attend <a href="https://bhi.embs.org/2024/">IEEE BHI’24</a>.
 
 * \[2024-9] Nooshin, Pegah, Saman, and Fatimah received the IEEE Student Travel Award for the BSN 2024 conference.
