@@ -17,6 +17,10 @@ design:
 ## <center>**2024**</center>
 
 - - -
+* \[2024-11] Shovito has received the Outstanding Research Award at the Fall 2024 ASU Graduate Student Government (GSG) Awards Program.
+
+* \[2024-11] Abdullah has received both the Outstanding Research Award and the Teaching Excellence Award at the Fall 2024 ASU Graduate Student Government (GSG) Awards Program.
+
 * \[2024-11] Reza's paper titled "Multimodal examination of daily stress rhythms in chronic Cannabis users" has been published in the journal of Psychopharmacology.
 
 * \[2024-10] Shovito and Abdullah's extended abstract titled "Domain-Informed Label Fusion Surpasses LLMs in Free-Living Activity Classification" has been accepted to the AAAI'25 conference for publication and presentation.
