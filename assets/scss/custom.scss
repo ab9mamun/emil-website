@@ -38,12 +38,12 @@
 
 .project-card {
   position: relative;
-  width: calc(25% - 3*20px);
+  width: calc(20% - 3*20px);
   /* Fluid 3 columns (inc. 20px gutter) */ }
 
 @media screen and (max-width: 1199px) {
   .project-card {
-    width: calc(50% - 20px);
+    width: calc(25% - 20px);
     /* Fluid 2 columns (inc. 20px gutter) */ } }
 
 @media screen and (max-width: 768px) {
@@ -75,5 +75,6 @@
   z-index: 3; }
   
   .card.project-card{
-   flex:none
+   flex:none;
+   margin: 20px;
   }
