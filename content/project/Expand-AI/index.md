@@ -38,7 +38,7 @@ This ExpandAI project is a partnership between Arizona State University (ASU) an
 <div class="col-12 col-lg-auto people-person"><a href="https://www.cs.utexas.edu/people/faculty-researchers/brad-knox"><img class="avatar avatar-circle" src="PIs/brad.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://www.cs.utexas.edu/people/faculty-researchers/brad-knox">Brad Knox
 </a></h2></div></div>
 <div class="col-md-12"><h2 class="mb-4">Students </h2></div>
-<div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/4155639"><img class="avatar avatar-circle" src="Students/reza.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/4155639">Reza Rahimi Azghan</a></h2></div></div>
+<div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/4155639"><img class="avatar avatar-circle" src="Students/reza.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/4155639">Reza Rahimi</a></h2></div></div>
 <div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/4699045"><img class="avatar avatar-circle" src="Students/saman.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/4699045">Saman Khamesian</a></h2></div></div>
 </div>
 </div>
