@@ -40,5 +40,14 @@ This ExpandAI project is a partnership between Arizona State University (ASU) an
 <div class="col-md-12"><h2 class="mb-4">Students </h2></div>
 <div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/4155639"><img class="avatar avatar-circle" src="Students/reza.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/4155639">Reza Rahimi</a></h2></div></div>
 <div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/4699045"><img class="avatar avatar-circle" src="Students/saman.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/4699045">Saman Khamesian</a></h2></div></div>
+<div class="col-12 col-lg-auto people-person"><a href="https://ghasemzadeh.com/authors/eric-junyoung-kim/"><img class="avatar avatar-circle" src="Students/eric.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://ghasemzadeh.com/authors/eric-junyoung-kim/">Eric Kim</a></h2></div></div>
+<div class="col-12 col-lg-auto people-person"><a href="https://gauthamkrishna-g.github.io/"><img class="avatar avatar-circle" src="Students/gautham.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://gauthamkrishna-g.github.io/">Gautham Krishna</a></h2></div></div>
+<div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/3279834"><img class="avatar avatar-circle" src="Students/mohit.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/3279834">Mohit Malu</a></h2></div></div>
+<div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/3279834"><img class="avatar avatar-circle" src="Students/mohit.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/3279834">Mohit Malu</a></h2></div></div>
+<div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/4147117"><img class="avatar avatar-circle" src="Students/owen.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/4147117">Owen Krueger</a></h2></div></div>
+<div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/5039784"><img class="avatar avatar-circle" src="Students/sri.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/5039784">Sri Harini</a></h2></div></div>
+
+
+
 </div>
 </div>
