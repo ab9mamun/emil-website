@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: "papers/FuseMET_AAAI_Abstract_2025_CameraReady.pdf"
 url_code: 
 url_dataset:
 url_poster:
