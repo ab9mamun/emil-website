@@ -21,6 +21,31 @@ email: hassan.ghasemzadeh@asu.edu
 user_groups:
   - Director
 ---
-Hassan Ghasemzadeh is an Associate Professor of Biomedical Informatics at Arizona State University (ASU) and an Adjunct Faculty of Computer Science at Washington State University (WSU). He is also a graduate faculty of the computer science, computer engineering, and biomedical engineering programs at ASU. Prior to joining ASU, he was an Assistant/Associate Professor of Computer Science at WSU (2014-2021), a Postdoctoral Research Manager at the University of California Los Angeles (UCLA) Computer Science Department (2011-2013), and an Adjunct Professor of Biomedical Informatics at San Diego State University (SDSU). 
+Hassan Ghasemzadeh is a Program Director and an Associate Professor in the College of Health Solutions at [Arizona State University](https://www.asu.edu/) (ASU). He is on the graduate faculty of biomedical informatics, computer science, computer engineering, and biomedical engineering at ASU. Prior to joining ASU, he was an assistant/associate professor of computer science at [Washington State University](https://wsu.edu/) (WSU 2014-2021), and a postdoctoral research manager at the [University of California Los Angeles](https://www.cs.ucla.edu/) (UCLA 2011-2013). His research interests include digital health, machine learning and algorithm design.
 
-His research interests include mobile health, machine learning, embedded systems, and algorithm design. His work has been recognized by NSF CAREER award, NSF CRII award, WSU Early Career award, WSU outstanding communication, connection, and engagement award, WSU academic advisor excellence award, BSN best paper honorable mention, ACM TiiS best paper award nomination, CVPR Workshop best paper runner-up award, UbiComp/ISWC best wearables note award, IEEE RTAS best paper award, ACM HotMobile best poster award, ACM DATE conference best paper award nomination, Pullman Regional Hospital Community Health Impact fellowship, West Health Institute postdoctoral fellowship, and SDSU faculty of the year award.
+**Awards and Honors**
+
+* 2024 Research Award, ASU College of Health Solutions
+* 2024 Best Poster Award, ASU College of Health Solutions Faculty Research Day
+* 2022 Best Paper Honorable Mention Award, BSN Conference
+* 2020 Best Wearables Note Award, UbiComp/ISWC Conference
+* 2020 Best Paper Runner-Up Award, CVPR Workshop on Continual Learning
+* 2019 Early Tenure and Promotion, WSU School of EECS
+* 2019 Best Paper Award Nomination, ACM Transactions on Interactive Intelligent Systems
+* 2019 Academic Advisor Excellence Award, WSU GPSA
+* 2019 Best Paper Award, IEEE Council on Electronic Design Automation (CEDA)
+* 2018 Early Career Development Award, National Science Foundation (NSF CAREER)
+* 2018 Early Career Award, WSU School of EECS
+* 2018 Outstanding Communication, Connection & Engagement Award, WSU VCEA
+* 2017 Best Paper Award Nomination, IEEE/ACM DATE Conference
+* 2017 Community Health Impact Fellowship, Pullman Regional Hospital
+* 2016 Research Initiation Initiative Award, National Science Foundation (NSF CRII)
+* 2015 Travel Award, NSF Early Career Investigators Workshop on CPS in Smart Cities
+* 2012 Main architect of WANDA, licensed to WANDA, Inc., acquired by EMV Capital.
+* 2011 Algorithm architect of Sense4Baby, licensed to Sense4Baby, acquired by AirStrip.
+* 2011 Best Paper Award, IEEE RTAS Conference
+* 2011 Faculty of the Year Award, San Diego State University (SDSU), Biomedical Informatics
+* 2009 Best Poster Award, ACM HotMobile
+* 2006 Excellence in Teaching Award, CSE Department, Azad University, Damavand
+* 2005 Excellence in Teaching Award, CSE Department, Azad University, Damavand
+* 2003 Founding Faculty & Chair, CSE Department, Azad University, Damavand
