@@ -21,8 +21,6 @@ email: hassan.ghasemzadeh@asu.edu
 user_groups:
   - Director
 ---
-**Bio**
-<br/><br/>
 Hassan Ghasemzadeh is a Program Director and an Associate Professor in the College of Health Solutions at [Arizona State University](https://www.asu.edu/) (ASU). He is on the graduate faculty of biomedical informatics, computer science, computer engineering, and biomedical engineering at ASU. Prior to joining ASU, he was an assistant/associate professor of computer science at [Washington State University](https://wsu.edu/) (WSU 2014-2021), and a postdoctoral research manager at the [University of California Los Angeles](https://www.cs.ucla.edu/) (UCLA 2011-2013). His research interests include digital health, machine learning and algorithm design.
 
 **Awards and Honors**
