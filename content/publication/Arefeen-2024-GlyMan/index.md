@@ -7,6 +7,9 @@ publication_types:
   - "1"
 authors:
   - Asiful Arefeen
+  - Saman Khamesian
+  - Maria Adela Grando
+  - Bithika Thompson
   - Hassan Ghasemzadeh
 doi: 
 publication: "IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI’24)"
