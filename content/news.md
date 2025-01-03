@@ -17,7 +17,7 @@ design:
 ## <center>**2025**</center>
 
 - - -
-* \[2025-01] Abdullah and Shovito received the ASU Graduate Student Government Travel Award for attending the AAAI 2025 Conference.
+* \[2025-1] Abdullah and Shovito received the ASU Graduate Student Government Travel Award for attending the AAAI 2025 Conference.
 
 - - -
 
