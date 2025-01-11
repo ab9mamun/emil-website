@@ -21,7 +21,7 @@ date_end: 2025-01-08T13:00:00-07:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2025-01-08T20:10:00-07:00
+publishDate: 2025-01-10T20:10:00-07:00
 
 authors: [saman-khamesian]
 tags: []
