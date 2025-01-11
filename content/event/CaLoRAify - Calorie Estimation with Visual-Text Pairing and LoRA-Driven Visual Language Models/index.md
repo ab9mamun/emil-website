@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: This presentation discusses a novel VLM framework aligning ingredient recognition and calorie estimation via training with visual-text pairs..
+summary: This presentation discusses a novel VLM framework aligning ingredient recognition and calorie estimation via training with visual-text pairs.
 abstract:
 
 # Talk start and end times.
@@ -21,7 +21,7 @@ date_end: 2025-01-08T13:00:00-07:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2025-01-10T20:10:00-07:00
+publishDate: 2025-01-10T20:18:00-07:00
 
 authors: [saman-khamesian]
 tags: []
