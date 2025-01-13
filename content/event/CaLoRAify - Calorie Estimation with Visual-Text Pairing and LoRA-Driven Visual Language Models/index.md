@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "CaLoRAify - Calorie Estimation with Visual-Text Pairing and LoRA-Driven Visual Language Models"
-event: EMIL Fall'25 Seminars
+event: EMIL Spring'25 Seminars
 event_url:
 location: Online (Zoom)
 address:
@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary: This presentation discusses a novel VLM framework aligning ingredient recognition and calorie estimation via training with visual text pairs.
-abstract:
+abstract: The obesity phenomenon, known as the heavy issue, is a leading cause of preventable chronic diseases worldwide. Traditional calorie estimation tools often rely on specific data formats or complex pipelines, limiting their practicality in real-world scenarios. Recently, vision-language models (VLMs) have excelled in understanding real-world contexts and enabling conversational interactions, making them ideal for downstream tasks such as ingredient analysis. However, applying VLMs to calorie estimation requires domain-specific data and alignment strategies. To this end, we curated CalData, a 330K image-text pair dataset tailored for ingredient recognition and calorie estimation, combining a large-scale recipe dataset with detailed nutritional instructions for robust vision-language training. Built upon this dataset, we present CaLoRAify, a novel VLM framework aligning ingredient recognition and calorie estimation via training with visual-text pairs. During inference, users only need a single monocular food image to estimate calories while retaining the flexibility of agent-based conversational interaction. With Low-rank Adaptation (LoRA) and Retrieve-augmented Generation (RAG) techniques, our system enhances the performance of foundational VLMs in the vertical domain of calorie estimation.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
