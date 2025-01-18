@@ -37,13 +37,13 @@ featured: true
 #   icon: twitter
 
 url_pdf: "papers/FuseMET_AAAI_Abstract_2025_CameraReady.pdf"
-url_code: 
+url_code: "https://github.com/shovito66/FUSE-MET"
 url_dataset:
 url_poster:
 url_project:
-url_slides: 
+url_slides: "FuSE-MET_AAAI_SA132.pdf"
 url_source:
-url_video: 
+url_video: "https://www.youtube.com/watch?v=mn9j57Md840"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
