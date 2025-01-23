@@ -14,9 +14,18 @@ design:
 ---
 - - -
 
+## <center>**2025**</center>
+
+- - -
+* \[2025-1] Abdullah and Shovito received the ASU Graduate Student Government Travel Award for attending the AAAI 2025 Conference.
+
+- - -
+
 ## <center>**2024**</center>
 
 - - -
+* \[2024-12] Abdullah and Shovito received the ASU Graduate College Travel Award for attending the AAAI 2025 Conference.
+
 * \[2024-12] Reza's paper, titled "CUDLE: Learning Under Label Scarcity to Detect Cannabis Use in Uncontrolled Environments using Wearables", has been accepted for publication in the IEEE Sensors Journal.
 
 * \[2024-11] Shovito has received the Outstanding Research Award at the Fall 2024 ASU Graduate Student Government (GSG) Awards Program.
