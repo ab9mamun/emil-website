@@ -17,6 +17,13 @@ design:
 ## <center>**2025**</center>
 
 - - -
+
+* \[2025-2]  Shovito won the Best Poster Award at the 2025 CHS Faculty and Staff Research Day.
+
+
+* \[2025-2] Nooshin, Pegah, and Shovito were awarded a Graduate Fellowship from the College of Health Solutions.
+
+
 * \[2025-1] Abdullah and Shovito received the ASU Graduate Student Government Travel Award for attending the AAAI 2025 Conference.
 
 - - -
