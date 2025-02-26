@@ -18,6 +18,8 @@ design:
 
 - - -
 
+* \[2025-2]  Asif’s paper titled “Cost-Effective Multitask Active Learning in Wearable Sensor Systems” got accepted at the Sensors.
+
 * \[2025-2]  Shovito won the Best Poster Award at the 2025 CHS Faculty and Staff Research Day.
 
 
