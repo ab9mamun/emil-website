@@ -18,13 +18,17 @@ design:
 
 - - -
 
+* \[2025-3] Hassan serves as Demo/Poster Chair for IEEE-EMBS International Conference on Body Sensor Networks ([BSN 2025](https://bsn.embs.org/2025/welcome/)).
+
+* \[2025-2] Hassan serves as Guest Editor for  the [AI in Telemedicine](https://www.biomedcentral.com/collections/COL2786) Collection in the [BMC Artificial Intelligence](https://bmcartificialintel.biomedcentral.com/) Journal.
+
 * \[2025-2]  Asif’s paper titled “Cost-Effective Multitask Active Learning in Wearable Sensor Systems” got accepted at the Sensors.
 
 * \[2025-2]  Shovito won the Best Poster Award at the 2025 CHS Faculty and Staff Research Day.
 
-
 * \[2025-2] Nooshin, Pegah, and Shovito were awarded a Graduate Fellowship from the College of Health Solutions.
 
+* \[2025-1] Hassan serves as a Technical Program Chair for IEEE-EMBS International Conference on Biomedical and Health Informatics ([BHI 2025](https://bhi.embs.org/2025/)).
 
 * \[2025-1] Abdullah and Shovito received the ASU Graduate Student Government Travel Award for attending the AAAI 2025 Conference.
 
