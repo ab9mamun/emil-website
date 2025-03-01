@@ -47,8 +47,12 @@ This ExpandAI project is a partnership between Arizona State University (ASU) an
 <div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/4147117"><img class="avatar avatar-circle" src="Students/owen.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/4147117">Owen Krueger</a></h2></div></div>
 <div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/5039784"><img class="avatar avatar-circle" src="Students/sri.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/5039784">Sri Harini</a></h2></div></div>
 <div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/2356997"><img class="avatar avatar-circle" src="Students/varun.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/2356997">Varun Jammula</a></h2></div></div>
-
-
+<div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/3432965"><img class="avatar avatar-circle" src="Students/utkarsh.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/3432965">Utkarsh Nath</a></h2></div></div>
+<div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/4727968"><img class="avatar avatar-circle" src="Students/sangmin.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/4727968">Sangmin Jung</a></h2></div></div>
+<div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/2690528"><img class="avatar avatar-circle" src="Students/quinn.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/2690528">Quinn Thibeault</a></h2></div></div>
+<div class="col-12 col-lg-auto people-person"><a href="https://www.arthurkzhang.com/#/"><img class="avatar avatar-circle" src="Students/arthur.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://www.arthurkzhang.com/#/">Arthur Zhang</a></h2></div></div>
+<div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/4197184"><img class="avatar avatar-circle" src="Students/aishani.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/4197184">Aishani Pathak</a></h2></div></div>
+<div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/3614964"><img class="avatar avatar-circle" src="Students/tanmay.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/3614964">Tanmay Khandait</a></h2></div></div>
 
 </div>
 </div>
