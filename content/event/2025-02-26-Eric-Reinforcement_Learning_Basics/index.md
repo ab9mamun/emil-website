@@ -16,14 +16,14 @@ abstract: "Reinforcement Learning (RL) is a subset of machine learning focused o
 
 # Talk start and end times.
 # End time can optionally be hidden by prefixing the line with `#`.
-date: 2025-02-28T12:00:00-07:00
-date_end: 2025-02-28T12:30:00-07:00
+date: 2025-02-26T12:00:00-07:00
+date_end: 2025-02-26T12:30:00-07:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2025-03-06T11:00:00-07:00
 
-authors: [eric-kim]
+authors: [Eric Kim]
 tags: []
 
 # Is this a featured talk? (true/false)

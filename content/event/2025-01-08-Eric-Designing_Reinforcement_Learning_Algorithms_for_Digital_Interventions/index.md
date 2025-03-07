@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2025-03-06T11:00:00-07:00
 
-authors: [eric-kim]
+authors: [Eric Kim]
 tags: []
 
 # Is this a featured talk? (true/false)
