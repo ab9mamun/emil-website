@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Blood Glucose Prediction With VMD and LSTM Optimized by Improved Particle Swarm Optimization"
-event: EMIL Summer'24 Seminars
+event: EMIL Spring'25 Seminars
 event_url:
 location: Online (Zoom)
 address:
