@@ -5,8 +5,8 @@ abstract: "Food image classification is challenging for real-world applications 
 summary: "The paper proposes an online continual learning method for food image classification, using clustering-based exemplar selection and balanced training with knowledge distillation. It outperforms existing methods on the Food-1K dataset."
 
 location: Online (Zoom)
-date: 2025-03-20T12:00:00.000Z
-date_end: 2025-03-20T12:30:00.000Z
+date: 2025-03-20T12:00:00-07:00
+date_end: 2025-03-20T12:30:00-07:00
 all_day: false
 links:
   - url: https://arxiv.org/pdf/2108.06781
@@ -15,7 +15,7 @@ links:
     name: "slides"
 event: EMIL Spring'25 Seminars
 event_url: " "
-publishDate: 2025-03-28T14:45:00.000Z
+publishDate: 2025-03-28T14:45:00-07:00
 draft: false
 featured: false
 authors:
