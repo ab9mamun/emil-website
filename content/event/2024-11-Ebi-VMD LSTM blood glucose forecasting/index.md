@@ -20,7 +20,7 @@ date_end: 2024-11-31T12:30:00-07:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2025-03-28T14:22:00.000Z
+publishDate:  2025-03-28T14:28:20-07:00
 
 authors: [Ebrahim-Farahmand]
 tags: []
