@@ -45,10 +45,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: self_supervised_from_EEG.pdf
+url_slides: BGL_forecasting_by_VMD.pdf
 
 url_code:
-url_pdf: https://arxiv.org/pdf/1911.05419
+url_pdf: https://ieeexplore.ieee.org/document/9281120
 url_video:
 
 # Markdown Slides (optional).
