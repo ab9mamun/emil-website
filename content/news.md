@@ -17,6 +17,8 @@ design:
 ## <center>**2025**</center>
 
 - - -
+* \[2025-4] Shovito’s paper titled “Freezing of Gait Detection Using Gramian Angular Fields and Federated Learning from Wearable Sensors” has been accepted at the IEEE Engineering in Medicine and Biology Society (EMBC) conference.
+
 * \[2025-4] Saman’s paper titled “NutriGen: Personalized Meal Plan Generator Leveraging Large Language Models to Enhance Dietary and Nutritional Adherence” has been accepted at the IEEE Engineering in Medicine and Biology Society (EMBC) conference.
 
 * \[2025-3] Hassan serves as Demo/Poster Chair for IEEE-EMBS International Conference on Body Sensor Networks ([BSN 2025](https://bsn.embs.org/2025/welcome/)).
