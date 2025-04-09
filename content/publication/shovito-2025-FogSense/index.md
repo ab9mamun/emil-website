@@ -22,9 +22,9 @@ publication_short: ""
 url_source: null
 url_video: null
 projects: ["Gait-and-Mobility"]
-date: 2025-04-08T01:22:35-07:00
+date: 2025-04-09T16:30:00-07:00
 url_slides: null
-publishDate: 2025-04-09T15:59:00-07:00
+publishDate: 2025-04-09T16:30:00-07:00
 url_poster: null
 url_code: null
 ---
