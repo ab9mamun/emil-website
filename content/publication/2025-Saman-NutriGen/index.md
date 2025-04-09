@@ -12,7 +12,7 @@ authors:
   - Stephanie M. Carpenter
   - Hassan Ghasemzadeh
 doi: 
-publication: "47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), July 14–17, 2025, Copenhagen, Denmark"
+publication: "The 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), July 14–17, 2025, Copenhagen, Denmark."
 featured: false
 tags: ["featured"]
 categories: ""
@@ -26,7 +26,7 @@ url_project: null
 publication_short: ""
 url_source: null
 url_video: null
-projects: ["expand-ai"]
+projects: ["Expand-AI"]
 date: 2025-04-09T16:01:00-07:00
 url_slides: null
 publishDate: 2025-04-09T16:01:00-07:00
