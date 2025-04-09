@@ -26,7 +26,7 @@ url_project: null
 publication_short: ""
 url_source: null
 url_video: null
-projects: ["ExpandAI"]
+projects: ["expand-ai"]
 date: 2025-04-08T12:00:00-07:00
 url_slides: null
 publishDate: 2025-04-09T15:55:00-07:00
