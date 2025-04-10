@@ -10,7 +10,7 @@ role: Graduate Research Associate
 
 organizations:
 - name: Arizona State University
-  url: "https://www.asu.edu/"
+  url: "https://search.asu.edu/profile/4699045"
 
 bio: I am a Ph.D. researcher at Arizona State University, specializing in Artificial Intelligence with a focus on health applications. As a Graduate Research Assistant in the EMIL Lab under Dr. Hassan Ghasemzadeh, I work on developing advanced machine learning solutions for Type 1 diabetes management, including personalized glucose forecasting and automated insulin delivery systems.
 
