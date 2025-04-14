@@ -18,7 +18,7 @@ publishDate: 2024-09-18T20:56:00.000Z
 draft: false
 featured: false
 authors:
-  - sayyed-mostafa-mostafavi
+  - Sayyed Mostafa Mostafavi
 image:
   filename: featured.png
   focal_point: Smart

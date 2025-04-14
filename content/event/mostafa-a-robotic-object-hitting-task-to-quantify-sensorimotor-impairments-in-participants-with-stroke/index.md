@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2024-04-30T16:50:20-07:00
 
-authors: [sayyed-mostafa-mostafavi]
+authors: [Sayyed Mostafa Mostafavi]
 tags: []
 
 # Is this a featured event? (true/false)
