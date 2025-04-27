@@ -27,7 +27,7 @@ date_format = "January 2006"
   date_start = "2022-02-01"
 
 [[item]]
-  title = "GlySim: Modeling and Simulating Glycemic Response for Behavioral Lifestyle Interventions"
+  title = "GlySiim: Modeling and Simulating Glycemic Response for Behavioral Lifestyle Interventions"
   code_url = "https://github.com/Arefeen06088/GlySim"
   dataset_url = "http://smarthealth.cs.ohio.edu/OhioT1DM-dataset.html"
   description = "Resources (code and dataset information) for GlySim paper (BHI'23)"
