@@ -28,7 +28,7 @@ date_format = "January 2006"
 
 [[item]]
   title = "CAN-STRESS: A Real-World Multimodal Dataset for Understanding Cannabis Use, Stress, and Physiological Responses"
-
+  paper_url = "https://arxiv.org/abs/2503.19935"
   dataset_url = "https://zenodo.org/records/14842061"
   description = "Dataset information for CANSTRESS paper, uploaded in arxiv"
   date_start = "2024-03-01"
