@@ -19,6 +19,14 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "NutriGen: Personalized Meal Plan Generator Leveraging Large Language Models to Enhance Dietary and Nutritional Adherence"
+  code_url = "https://github.com/SamanKhamesian/NutriGen"
+  dataset_url = "https://github.com/SamanKhamesian/NutriGen/tree/main/input"
+  paper_url = "https://arxiv.org/pdf/2502.20601"
+  description = "Resources (code and dataset information) for NutriGen paper (EMBC'25)"
+  date_start = "2025-04-27"
+  
+[[item]]
   title = "Forewarning Postprandial Hyperglycemia with Interpretations using Machine Learning"
   code_url = "https://github.com/Arefeen06088/DietNudge"
   dataset_url = "https://data.mendeley.com/datasets/c7vx2576y2/1"
