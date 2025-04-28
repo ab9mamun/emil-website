@@ -31,5 +31,5 @@ date: 2025-04-09T16:01:00-07:00
 url_slides: null
 publishDate: 2025-04-09T16:01:00-07:00
 url_poster: null
-url_code: null
+url_code: "https://github.com/SamanKhamesian/NutriGen"
 ---
