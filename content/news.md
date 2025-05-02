@@ -17,7 +17,7 @@ design:
 ## <center>**2025**</center>
 
 - - -
-* \[2025-4] Congratulations to [Suraj](https://ghasemzadeh.com/authors/suraj-puvvadi/) on winning the Bioinformatics First Place in the 32nd Annual School of Life Sciences Undergraduate Research Symposium.
+* \[2025-4] Congratulations to ([Suraj](https://ghasemzadeh.com/authors/suraj-puvvadi/)) on winning the Bioinformatics First Place in the 32nd Annual School of Life Sciences Undergraduate Research Symposium.
 
 * \[2025-4] Two of Asif's papers titled “LEAD: Localized Explanations with Adversarial Decision Boundary Characterization for Interpretable Disease Prediction” and "MealMeter: Using Multimodal Sensing and Machine Learning for Automatically Estimating Nutrition Intake" have been accepted at the <a href="https://embc.embs.org/2025/">IEEE Engineering in Medicine and Biology Society (EMBC) conference</a>.
 
