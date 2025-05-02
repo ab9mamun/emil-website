@@ -24,7 +24,7 @@ date_format = "January 2006"
   dataset_url = "https://www.kaggle.com/competitions/tlvmc-parkinsons-freezing-gait-prediction/data"
   paper_url = "https://arxiv.org/abs/2411.11764"
   description = "The code and data information for FOGSense (EMBC'25)"
-  date_start = "2024-12-01"
+  date_start = "2025-07-26"
   
   [[item]]
   title = "NutriGen: Personalized Meal Plan Generator Leveraging Large Language Models to Enhance Dietary and Nutritional Adherence"
