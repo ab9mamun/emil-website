@@ -19,6 +19,14 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  title = "Freezing of Gait Detection Using Gramian Angular Fields and Federated Learning from Wearable Sensors"
+  code_url = "https://github.com/shovito66/FOGSense"
+  dataset_url = "https://www.kaggle.com/competitions/tlvmc-parkinsons-freezing-gait-prediction/data"
+  paper_url = "https://arxiv.org/abs/2411.11764"
+  description = "The code and data information for FOGSense (EMBC'25)"
+  date_start = "2024-12-01"
+  
+  [[item]]
   title = "NutriGen: Personalized Meal Plan Generator Leveraging Large Language Models to Enhance Dietary and Nutritional Adherence"
   code_url = "https://github.com/SamanKhamesian/NutriGen"
   dataset_url = "https://github.com/SamanKhamesian/NutriGen/tree/main/input"
