@@ -1,19 +1,19 @@
 ---
 title: "A Foundation Model for Generalizable Disease Detection from Retinal Images"
-abstract: "This presentation introduces RETFound, a large-scale foundation model developed using self-supervised learning on over 1.6 million retinal images. RETFound is capable of detecting a wide range of ocular and systemic diseases with minimal labeled data. It outperforms traditional supervised models in diagnosing conditions like diabetic retinopathy and predicting cardiovascular and neurodegenerative risks such as heart failure and Parkinson’s disease. RETFound marks a major advancement toward scalable and generalizable medical AI in ophthalmology and beyond."
-summary: "We explore RETFound, a self-supervised foundation model trained on 1.6M retinal images to enable generalizable disease detection. It demonstrates strong performance and label efficiency in identifying ocular and systemic diseases including diabetic retinopathy and heart failure, using fewer labels."
+abstract: "This presentation introduces RETFound, a foundation model trained on over 1.6 million unlabelled retinal images using self-supervised learning. RETFound enables generalizable detection of both ocular and systemic diseases—such as diabetic retinopathy, glaucoma, myocardial infarction, and Parkinson’s disease—with significantly less labeled data. RETFound consistently outperforms supervised baselines and achieves high performance and label efficiency, offering scalable potential for real-world clinical AI deployment."
+summary: "RETFound is a self-supervised foundation model that achieves generalizable disease detection from retinal images. It performs competitively across tasks like diabetic retinopathy diagnosis and cardiovascular prediction, using minimal labeled data."
 location: Arizona State University
-date: 2025-05-01T12:00:00.000Z
-date_end: 2025-05-01T12:30:00.000Z
+date: 2025-04-23T12:00:00.000Z
+date_end: 2025-04-23T12:30:00.000Z
 all_day: false
 links:
   - url: slides.pdf
     name: "Paper"
-  - url: slides.pdf
+  - url: slides.pptx
     name: "slides"
 event: EMIL Spring'25 Seminars
 event_url: " "
-publishDate: 2025-05-01T12:00:00.000Z
+publishDate: 2025-04-23T20:00:00.000Z
 draft: false
 featured: false
 authors:
