@@ -17,6 +17,12 @@ design:
 ## <center>**2025**</center>
 
 - - -
+* \[2025-5] Congratulations to Abdullah for passing his PhD Comprehensive Exam.
+
+* \[2025-4] Congratulations to Shovito for passing his PhD Comprehensive Exam.
+
+* \[2025-4] Congratulations to Asif for successfully defending his PhD Proposal.
+
 * \[2025-4] Congratulations to ([Suraj](https://ghasemzadeh.com/authors/suraj-puvvadi/)) on winning the Bioinformatics First Place in the 32nd Annual School of Life Sciences Undergraduate Research Symposium.
 
 * \[2025-4] Two of Asif's papers titled “LEAD: Localized Explanations with Adversarial Decision Boundary Characterization for Interpretable Disease Prediction” and "MealMeter: Using Multimodal Sensing and Machine Learning for Automatically Estimating Nutrition Intake" have been accepted at the <a href="https://embc.embs.org/2025/">IEEE Engineering in Medicine and Biology Society (EMBC) conference</a>.
@@ -36,6 +42,8 @@ design:
 * \[2025-2]  Shovito won the Best Poster Award at the 2025 CHS Faculty and Staff Research Day.
 
 * \[2025-2] Nooshin, Pegah, and Shovito were awarded a Graduate Fellowship from the College of Health Solutions.
+
+* \[2025-01] Augusta Uwamanzu-Nna, a PhD student in Bioengineering at University of California San Francisco (UCSF), will be a visiting researcher in our lab for the duration of January-September 2025 as part of the AIM-AHEAD Bridge2AI AI-READI Program.
 
 * \[2025-1] Hassan serves as a Technical Program Chair for IEEE-EMBS International Conference on Biomedical and Health Informatics ([BHI 2025](https://bhi.embs.org/2025/)).
 
