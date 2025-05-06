@@ -43,6 +43,8 @@ design:
 
 * \[2025-2] Nooshin, Pegah, and Shovito were awarded a Graduate Fellowship from the College of Health Solutions.
 
+* \[2025-1] Velarie Ansu, a Postdoctoral Fellow in the School of Medicine at University of Miami, will be a visiting researcher in our lab for the duration of January-September 2025 as part of the AIM-AHEAD Bridge2AI AI-READI Program.
+
 * \[2025-1] Augusta Uwamanzu-Nna, an MD-PhD student in Bioengineering at the University of California San Francisco (UCSF) and University of California Berkeley, will be a visiting researcher in our lab for the duration of January-September 2025 as part of the AIM-AHEAD Bridge2AI AI-READI Program.
 
 * \[2025-1] Hassan serves as a Technical Program Chair for IEEE-EMBS International Conference on Biomedical and Health Informatics ([BHI 2025](https://bhi.embs.org/2025/)).
