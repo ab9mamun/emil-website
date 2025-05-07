@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "papers/FuseMET_AAAI_Abstract_2025_CameraReady.pdf"
+url_pdf: "https://ojs.aaai.org/index.php/AAAI/article/view/35301"
 url_code: "https://github.com/shovito66/FUSE-MET"
 url_dataset:
 url_poster:
