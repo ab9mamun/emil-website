@@ -17,6 +17,8 @@ design:
 ## <center>**2025**</center>
 
 - - -
+* \[2025-5] Congratulations to Suraj on winning the Bioinformatics First Place in the 32nd Annual School of Life Sciences Undergraduate Research Symposium
+  
 * \[2025-5] Congratulations to Abdullah for passing his PhD Comprehensive Exam.
 
 * \[2025-4] Congratulations to Shovito for passing his PhD Comprehensive Exam.
