@@ -17,6 +17,11 @@ design:
 ## <center>**2025**</center>
 
 - - -
+
+* \[2025-5] Asif and Shovito received the CHS Graduate Student Travel Grant for attending the IEEE EMBC 2025 Conference.
+
+* \[2025-5] Asif and Shovito received the ASU Graduate Student Government (GSG) Travel Award for attending the IEEE EMBC 2025 Conference.
+
 * \[2025-5] Congratulations to Suraj on winning the Bioinformatics First Place in the 32nd Annual School of Life Sciences Undergraduate Research Symposium
   
 * \[2025-5] Congratulations to Abdullah for passing his PhD Comprehensive Exam.
