@@ -33,7 +33,22 @@ date_format = "January 2006"
   paper_url = "https://arxiv.org/pdf/2502.20601"
   description = "Resources (code and dataset information) for NutriGen paper (EMBC'25)"
   date_start = "2025-04-27"
-  
+
+[[item]]
+  title = "Domain-Informed Label Fusion Surpasses LLMs in Free-Living Activity Classification"
+  code_url = "https://github.com/shovito66/FUSE-MET"
+  paper_url = "https://ojs.aaai.org/index.php/AAAI/article/view/35301"
+  description = "Code is available now for FUSE-MET (Dataset will be released later) (AAAI'25)"
+  date_start = "2025-04-11"
+
+[[item]]
+  title = "Self-Supervised Learning and Opportunistic Inference for Continuous Monitoring of Freezing of Gait in Parkinson's Diseases"
+  code_url = "https://github.com/shovito66/LIFT-PD"
+  dataset_url = "https://www.kaggle.com/competitions/tlvmc-parkinsons-freezing-gait-prediction/data"
+  paper_url = "https://arxiv.org/pdf/2410.21326"
+  description = "Under review in IEEE JBHI"
+  date_start = "2024-10-26"
+
 [[item]]
   title = "Forewarning Postprandial Hyperglycemia with Interpretations using Machine Learning"
   code_url = "https://github.com/Arefeen06088/DietNudge"
