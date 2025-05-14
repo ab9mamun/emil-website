@@ -18,7 +18,7 @@ image:
   focal_point: ""
   preview_only: false
 summary: "LEAD is an explainable AI technique that determines relative feature contributions by characterizing the decision boundary and perturbing critical samples along the decision boundary close to the test sample. LEAD achieves at least 6% improved fidelity and 7% improved consistency compared to LIME and SHAP."
-url_dataset: null
+url_dataset: "https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset"
 url_project: null
 publication_short: ""
 url_source: null

@@ -18,7 +18,7 @@ image:
   focal_point: ""
   preview_only: false
 summary: "GlySim forecasts blood glucose level from medication, consumption and exercise information and intervenes beforehand if an abnormal event is forthcoming."
-url_dataset: null
+url_dataset: "https://www.kaggle.com/datasets/ryanmouton/ohiot1dm"
 url_project: null
 publication_short: ""
 url_source: null

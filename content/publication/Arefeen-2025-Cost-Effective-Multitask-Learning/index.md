@@ -18,7 +18,7 @@ image:
   focal_point: ""
   preview_only: false
 summary: "This method reduces the labeling cost to train an efficient multi-task neural network by adding an additional clustering step in the multi-task active learning loop, within the sampling process"
-url_dataset: null
+url_dataset: "https://data.mendeley.com/datasets/45f952y38r/5"
 url_project: null
 publication_short: ""
 url_source: null
