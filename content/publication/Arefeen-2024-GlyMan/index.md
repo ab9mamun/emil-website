@@ -30,6 +30,6 @@ projects: ["Metabolic-Health"]
 date: 2024-09-25T01:22:35-07:00
 url_slides: null
 publishDate: 2024-09-25T01:22:35-07:00
-url_poster: null
-url_code: null
+url_poster: "https://drive.google.com/file/d/1_U_iJh3zxXZgG8o9Q25c37OFKjzkssAS/view?usp=sharing"
+url_code: "https://github.com/Arefeen06088/GlyMan"
 ---

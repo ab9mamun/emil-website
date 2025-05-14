@@ -27,6 +27,6 @@ projects: ["Metabolic-Health"]
 date: 2023-07-17T01:22:35-07:00
 url_slides: null
 publishDate: 2023-07-17T01:22:35-07:00
-url_poster: null
-url_code: null
+url_poster: "https://drive.google.com/file/d/1PmdOw0OSxA3DGCphiNuCj1d3six2qqWT/view?usp=sharing"
+url_code: "https://github.com/Arefeen06088/GlySim"
 ---
