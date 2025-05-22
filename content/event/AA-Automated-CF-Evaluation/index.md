@@ -21,7 +21,7 @@ date_end: 2025-01-15T12:55:00-07:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2025-01-15T18:50:20-07:00
+publishDate: 2025-01-15T16:50:20-07:00
 
 authors: [asiful-arefeen]
 tags: []
