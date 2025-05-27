@@ -18,7 +18,7 @@ design:
 
 - - -
 
-* \[2025-5] Dr. Mostafavi's paper, titled "Detection and Severity Assessment of Parkinson’s Disease by Analysis of Wearable Sensors Data Using Gramian Angular Fields and Deep Convolutional Neural Networks", has been accepted for publication in the IEEE Sensors Journal.
+* \[2025-5] Dr. Mostafavi's paper, titled "Detection and Severity Assessment of Parkinson’s Disease by Analysis of Wearable Sensors Data Using Gramian Angular Fields and Deep Convolutional Neural Networks", has been accepted for publication in the Sensors Journal.
   
 * \[2025-5] Asif and Shovito received the CHS Graduate Student Travel Grant for attending the IEEE EMBC 2025 Conference.
 
