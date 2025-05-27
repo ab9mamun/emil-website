@@ -37,7 +37,7 @@ featured: true
 #   icon: twitter
 
 url_pdf: 
-url_code: "
+url_code:
 url_dataset:
 url_poster:
 url_project:
