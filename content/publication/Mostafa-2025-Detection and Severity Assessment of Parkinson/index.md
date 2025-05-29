@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: "https://www.mdpi.com/1424-8220/25/11/3421"
 url_code:
 url_dataset:
 url_poster:
