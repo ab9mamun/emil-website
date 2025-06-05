@@ -5,7 +5,7 @@ abstract: "Current research into algorithmic explanation methods for predictive 
 summary: "This presentation covers an overview of perturbation-based approaches, as well as evaluation methods of explanations."
 location: Online (Zoom)
 date: 2025-05-21T12:30:00.000Z
-date_end: 2025-21-23T13:00:00.000Z
+date_end: 2025-05-21T13:00:00.000Z
 all_day: false
 links:
   - url: https://link.springer.com/chapter/10.1007/978-3-319-90403-0_9
