@@ -7,7 +7,7 @@ date: 2025-05-06T08:01:35-07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-26-02T08:01:35-07:00
+publishDate: 2025-26-05T08:01:35-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,10 +19,10 @@ publication_types: ["1"]
 publication: "In CVPR 3rd Workshop on Generative Models for Computer Vision (GMCV), 2025"
 publication_short: "CVPR"
 
-abstract: ""
+abstract: "Text-to-image generation models have achieved remarkable capabilities in synthesizing images, but often struggle to provide fine-grained control over the output. Existing guidance approaches, such as segmentation maps and depth maps, introduce spatial rigidity that restricts the inherent diversity of diffusion models. In this work, we introduce Deep Geometric Moments (DGM) as a novel form of guidance that encapsulates the subject's visual features and nuances through a learned geometric prior. DGMs focus specifically on the subject itself compared to DINO or CLIP features, which suffer from overemphasis on global image features or semantics. Unlike ResNets, which are sensitive to pixel-wise perturbations, DGMs rely on robust geometric moments. Our experiments demonstrate that DGM effectively balance control and diversity in diffusion-based image generation, allowing a flexible control mechanism for steering the diffusion process."
 
 # Summary. An optional shortened abstract.
-summary: "."
+summary: "This work introduces Deep Geometric Moments (DGM) as a novel, training-free guidance mechanism for text-to-image diffusion models. Unlike existing guidance techniques (e.g., segmentation maps, depth maps, or CLIP features), which impose rigid spatial constraints or rely heavily on global semantics, DGM captures fine-grained, subject-specific visual features through robust geometric representations. The proposed method uses a pretrained DGM model during the diffusion process to steer image generation in a flexible yet identity-preserving manner. Experiments show that DGM achieves a better balance between control and diversity, enabling more nuanced and visually consistent image synthesis without retraining the diffusion model."
 
 tags: ["featured"]
 categories: []
@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: https://arxiv.org/pdf/2505.12486
 url_code:
 url_dataset:
 url_poster:
