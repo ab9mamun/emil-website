@@ -48,8 +48,8 @@ image:
 # Optional filename of your slides within your event's folder or a URL.
 url_slides: slides.pdf
 
-url_code:
-url_pdf:
+url_code: https://github.com/SamanKhamesian/NutriGen
+url_pdf: https://arxiv.org/abs/2502.20601
 url_video:
 
 # Markdown Slides (optional).
