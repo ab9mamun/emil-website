@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary: A system that generates personalized meal plans.
-abstract: This study introduced NutriGen, a personalized meal plan generation framework that leverages LLMs and prompt engineering to bridge the gap between dietary science and practical food recommendation systems.
+abstract: This study introduced NutriGen. A personalized meal plan generation framework that leverages LLMs and prompt engineering to bridge the gap between dietary science and practical food recommendation systems.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
