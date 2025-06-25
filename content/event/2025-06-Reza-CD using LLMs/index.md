@@ -5,8 +5,8 @@ abstract: "We propose a novel framework that leverages LLMs for full causal grap
 summary: "This paper proposes an efficient method for full causal graph discovery using large language models (LLMs). Unlike prior pairwise approaches that require O(n^2) queries, the authors use a breadth-first search (BFS)-based framework that reduces query complexity to O(n) by querying one node at a time. The method achieves state-of-the-art performance on small and large graphs, even without access to observational data."
 
 location: Online (Zoom)
-date: 2025-03-20T12:00:00-07:00
-date_end: 2025-03-20T12:30:00-07:00
+date: 2025-06-25T12:00:00-07:00
+date_end: 2025-06-25T12:30:00-07:00
 all_day: false
 links:
   - url: https://arxiv.org/pdf/2402.01207
