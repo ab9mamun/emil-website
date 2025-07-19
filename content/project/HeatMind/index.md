@@ -31,14 +31,14 @@ This interdisciplinary project will design a scalable and adaptable infrastructu
 <div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/4018242"><img class="avatar avatar-circle" src="Faculty/hassan.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/4018242">Hassan Zadeh</a></h2></div></div>
 <div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/1783317"><img class="avatar avatar-circle" src="Faculty/mbuman.png" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/1783317">
 Matthew Buman</a></h2></div></div>
-<div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/4872722"><img class="avatar avatar-circle" src="Faculty/SMCarpenter.jpeg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/4872722">
+<div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/4872722"><img class="avatar avatar-circle" src="Faculty/smcarpe4.png" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/4872722">
 Stephanie Carpenter</a></h2></div></div>
-<div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/3166703"><img class="avatar avatar-circle" src="Faculty/floris.avif" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/3166703">
+<div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/3166703"><img class="avatar avatar-circle" src="Faculty/fwardena.png" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/3166703">
 Floris Wardenaar</a></h2></div></div>
-<div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/3335553"><img class="avatar avatar-circle" src="Faculty/stavros.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/3335553">
+<div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/3335553"><img class="avatar avatar-circle" src="Faculty/skavoura.png" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/3335553">
 Stavros Kavouras</a></h2></div></div>
 <div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/1795222"><img class="avatar avatar-circle" src="Faculty/pavan.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/1795222">Pavan Turaga</a></h2></div></div>
-<div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/3817853"><img class="avatar avatar-circle" src="Faculty/maissa.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/3817853">Maissa Khatib</a></h2></div></div>
+<div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/3817853"><img class="avatar avatar-circle" src="Faculty/mkhatib2.png" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/3817853">Maissa Khatib</a></h2></div></div>
 <div class="col-md-12"><h2 class="mb-4">Students </h2></div>
 <div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/4754067"><img class="avatar avatar-circle" src="Students/shovito.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/4754067">Shovito Barua Soumma</a></h2></div></div>
 
