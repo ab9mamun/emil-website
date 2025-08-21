@@ -18,6 +18,17 @@ design:
 
 - - -
 
+* \[2025-8] Reza's paper titled "CAN-STRESS: A Real-World Multimodal Dataset for Understanding Cannabis Use, Stress, and Physiological Responses" has been accepted at the <a href="https://bsn.embs.org/2025/">IEEE-EMBS International Conference on Body Sensor Networks (IEEE-EMBS BSN)</a>
+
+* \[2025-8] Shovito's paper titled "SenseCF: LLM-Prompted Counterfactuals for Intervention and Sensor Data Augmentation" has been accepted at the <a href="https://bsn.embs.org/2025/">IEEE-EMBS International Conference on Body Sensor Networks (IEEE-EMBS BSN)</a>
+
+* \[2025-8] Aashritha's paper titled "Time-Aware Cross-Attention for Multi-Modal Sensor-Based Blood Glucose Forecasting" has been accepted at the <a href="https://bsn.embs.org/2025/">IEEE-EMBS International Conference on Body Sensor Networks (IEEE-EMBS BSN)</a>
+
+* \[2025-8] Saman's paper titled "AZT1D: A Real-World Dataset for Type 1 Diabetes" has been accepted at the <a href="https://bsn.embs.org/2025/">IEEE-EMBS International Conference on Body Sensor Networks (IEEE-EMBS BSN)</a>
+ 
+* \[2025-6] Asif and Shovito received *Graduate College Travel Grant* for attending the IEEE EMBC 2025 Conference in Copenhagen, Denmark.
+
+
 * \[2025-6] Asif and Shovito received *Graduate College Travel Grant* for attending the IEEE EMBC 2025 Conference in Copenhagen, Denmark.
 
 * \[2025-5] Dr. Mostafavi's paper, titled "Detection and Severity Assessment of Parkinson’s Disease by Analysis of Wearable Sensors Data Using Gramian Angular Fields and Deep Convolutional Neural Networks", has been accepted for publication in the Sensors Journal.
@@ -37,6 +48,8 @@ design:
 * \[2025-4] Congratulations to Asif for successfully defending his PhD Proposal.
 
 * \[2025-4] Congratulations to ([Suraj](https://ghasemzadeh.com/authors/suraj-puvvadi/)) on winning the Bioinformatics First Place in the 32nd Annual School of Life Sciences Undergraduate Research Symposium.
+
+* \[2025-4] Ebrahim and Reza's paper titled "AttenGluco: Multimodal Transformer-Based Blood Glucose Forecasting on AI-READI Dataset" has been accepted at the <a href="https://embc.embs.org/2025/">IEEE Engineering in Medicine and Biology Society (EMBC) conference</a>.
 
 * \[2025-4] Two of Asif's papers titled “LEAD: Localized Explanations with Adversarial Decision Boundary Characterization for Interpretable Disease Prediction” and "MealMeter: Using Multimodal Sensing and Machine Learning for Automatically Estimating Nutrition Intake" have been accepted at the <a href="https://embc.embs.org/2025/">IEEE Engineering in Medicine and Biology Society (EMBC) conference</a>.
 
