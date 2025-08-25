@@ -18,6 +18,8 @@ design:
 
 - - -
 
+* \[2025-8] Abdullah's paper titled "LLM-Powered Prediction of Hyperglycemia and Discovery of Behavioral Treatment Pathways from Wearables and Diet" has been accepted for publication in the [Sensors](https://www.mdpi.com/journal/sensors) Journal.
+
 * \[2025-8] Reza's paper titled "CAN-STRESS: A Real-World Multimodal Dataset for Understanding Cannabis Use, Stress, and Physiological Responses" has been accepted at the <a href="https://bsn.embs.org/2025/">IEEE-EMBS International Conference on Body Sensor Networks (IEEE-EMBS BSN)</a>
 
 * \[2025-8] Shovito's paper titled "SenseCF: LLM-Prompted Counterfactuals for Intervention and Sensor Data Augmentation" has been accepted at the <a href="https://bsn.embs.org/2025/">IEEE-EMBS International Conference on Body Sensor Networks (IEEE-EMBS BSN)</a>
