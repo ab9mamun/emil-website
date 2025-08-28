@@ -12,7 +12,7 @@ organizations:
 - name: Arizona State University
   url: "https://www.asu.edu/"
 
-bio: I am a PhD student at Arizona State University (ASU). I am working under the supervision of Professor Hassan Ghasemzadeh at the Embedded Machine Intelligence Lab (EMIL). I am interested in explainable AI, machine learning, passive sensing and mobile health. I received a BS in Electrical & Electronic Engineering from Bangladesh University of Engineering & Technology (BUET) in 2019 and an MS in Biomedical Informatics from Arizona State University in 2023.
+bio: I am a PhD student at Arizona State University (ASU). I am working under the supervision of Professor Hassan Ghasemzadeh at the Embedded Machine Intelligence Lab (EMIL). I am interested in explainable AI, using AI to generate interventions in digital health, machine learning, passive sensing and mobile health. I received a BS in Electrical & Electronic Engineering from Bangladesh University of Engineering & Technology (BUET) in 2019 and an MS in Biomedical Informatics from Arizona State University in 2023.
 
 social:
   - icon: envelope
