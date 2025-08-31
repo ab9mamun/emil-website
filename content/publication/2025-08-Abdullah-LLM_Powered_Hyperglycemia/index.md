@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.mdpi.com/1424-8220/25/17/5372/pdf?version=1756642956
+url_pdf: https://www.mdpi.com/1424-8220/25/17/5372
 url_code: https://github.com/ab9mamun/GlucoLens
 url_dataset:
 url_poster:
