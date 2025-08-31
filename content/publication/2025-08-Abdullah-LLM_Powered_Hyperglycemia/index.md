@@ -41,7 +41,7 @@ url_code: https://github.com/ab9mamun/GlucoLens
 url_dataset:
 url_poster:
 url_project:
-url_slides: GlucoLense_Mamun.pdf
+url_slides: GlucoLens_Mamun.pdf
 url_source:
 url_video: 
 
