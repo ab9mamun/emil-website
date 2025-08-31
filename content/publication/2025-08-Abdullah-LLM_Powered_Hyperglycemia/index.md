@@ -22,7 +22,7 @@ publication_short: ""
 abstract: "Postprandial hyperglycemia, marked by the blood glucose level exceeding the normal range after consuming a meal, is a critical indicator of progression toward type 2 diabetes in people with prediabetes and in healthy individuals. A key metric for understanding blood glucose dynamics after eating is the postprandial Area Under the Curve (AUC). Predicting postprandial AUC in advance based on a person's lifestyle factors, such as diet and physical activity level, and explaining the factors that affect postprandial blood glucose could allow an individual to adjust their behavioral choices accordingly to maintain normal glucose levels. In this work, we develop an explainable machine learning solution, GlucoLens, that takes sensor-driven inputs and utilizes advanced data processing, large language models, and trainable machine learning models to estimate postprandial AUC and predict hyperglycemia from diet, physical activity, and recent glucose patterns. We use data obtained using wearables in a five-week clinical trial of 10 adults who worked full-time to develop and evaluate the proposed computational model that integrates wearable sensing, multimodal data, and machine learning. Our machine learning model takes multimodal data from wearable activity and glucose monitoring sensors, along with food and work logs, and provides an interpretable prediction of the postprandial glucose patterns. GlucoLens achieves a normalized root mean squared error (NRMSE) of 0.123 in its best configuration. On average, the proposed technology provides a 16% better predictive performance compared to the comparison models. Additionally, our technique predicts hyperglycemia with an accuracy of 79% and an F1 score of 0.749 and recommends different treatment options to help avoid hyperglycemia through diverse counterfactual explanations. With systematic experiments and discussion supported by established prior research, we show that our method is generalizable and consistent with clinical understanding."
 
 # Summary. An optional shortened abstract.
-summary: "In this study, we developed an explainable machine learning solution, GlucoLens, that takes sensor-driven inputs and uses advanced data processing, large language models, and trainable machine learning models to predict postprandial AUC and hyperglycemia from diet, physical activity, and recent glucose patterns."
+summary: "We developed GlucoLens, that takes sensor-driven inputs and uses advanced data processing, large language models, and explainable machine learning models to predict postprandial AUC and hyperglycemia from diet, physical activity, and recent glucose patterns."
 
 tags: ["featured"]
 categories: []
@@ -36,12 +36,12 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: https://www.mdpi.com/1424-8220/25/17/5372/pdf?version=1756642956
 url_code: https://github.com/ab9mamun/GlucoLens
 url_dataset:
 url_poster:
 url_project:
-url_slides: slides.pdf
+url_slides: GlucoLense_Mamun.pdf
 url_source:
 url_video: 
 
