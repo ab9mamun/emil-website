@@ -18,8 +18,11 @@ design:
 
 - - -
 
+* \[2025-9] Saman has received the IEEE BSN 2025 - NSF Travel Award.
+  
+* \[2025-9] Shovito has received the IEEE BSN 2025 - NSF Travel Award.
 
-* \[2025-9] Shovito has received IEEE BSN 2025 - NSF Travel Award.
+* \[2025-9] Saman's abstract has been accepted at the <a href="https://bhi.embs.org/2025"> IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI’25) in Atlanta, Georgia, USA.</a>
 
 * \[2025-9] Shovito's abstract has been accepted at the <a href="https://bhi.embs.org/2025"> IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI’25) in Atlanta, Georgia, USA.</a>
 
