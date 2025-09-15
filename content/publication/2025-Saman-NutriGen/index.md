@@ -21,7 +21,7 @@ image:
   focal_point: ""
   preview_only: false
 summary: "We introduce NutriGen, a framework based on large language models (LLM) designed to generate personalized meal plans that align with user-defined dietary preferences and constraints."
-url_dataset: "https://www.kaggle.com/competitions/tlvmc-parkinsons-freezing-gait-prediction/data"
+url_dataset: "https://github.com/SamanKhamesian/NutriGen/tree/main/input"
 url_project: null
 publication_short: ""
 url_source: null
