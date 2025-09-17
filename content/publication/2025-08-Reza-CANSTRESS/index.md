@@ -38,7 +38,7 @@ featured: true
 
 url_pdf: https://drive.google.com/file/d/1iP0gJA7QOWK1z6n_KSMLR0lriC5G93YE/view?usp=sharing
 url_code:
-url_dataset:
+url_dataset: https://zenodo.org/records/14842061
 url_poster:
 url_project:
 url_slides:
