@@ -18,7 +18,7 @@ design:
 
 - - -
 
-* \[2025-9] Shovito has been recognized as an IEEE BHI 2025 NSF-EMBS-Google Sponsored Young Professional NextGen Scholar.
+* \[2025-9] Shovito has been recognized as an IEEE BHI 2025 *NSF-EMBS-Google Sponsored Young Professional NextGen Scholar.*
 
 * \[2025-9]  Shovito, Asif, Reza, Saman, and Ebi received *Graduate College 2025-26 Quarter 2 (Q2) Travel Award* for attending the IEEE BSN 2025 Conference in Los Angeles, California, USA.
 
