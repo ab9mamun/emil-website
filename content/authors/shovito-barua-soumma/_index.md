@@ -58,7 +58,9 @@ weight: 6
 ---
 ## About Me
 
-I am a Ph.D. candidate at Arizona State University. I work as a Graduate Research Associate at Embedded Machine Intelligence Lab (EMIL) under the supervision of Dr. Hassan Ghasemzadeh. My research topics include machine learning, mHealth, health monitoring system development and human behaviour modeling. I received my B.S. in Computer Science and Engineering from Bangladesh University of Engineering & Technology (BUET) in 2022. Visit my website [here](https://www.shovitobarua.com/).
+I am a Ph.D. candidate in Biomedical Informatics and Data Science at Arizona State University, where I am also pursuing a concurrent M.S. in Computer Science. Previously I earned an M.S. in Biomedical Informatics and Data Science from the same institution. I work as a Graduate Research Associate at Embedded Machine Intelligence Lab (EMIL) under the supervision of Dr. Hassan Ghasemzadeh. I received my B.S. in Computer Science and Engineering from Bangladesh University of Engineering & Technology (BUET) in 2022. My research topics include explainable AI, digital Health, health monitoring system development, optimizing deep learning models for time-series data and human behavior modeling, with an emphasis on label-efficient and power-aware systems for disease monitoring and clinical decision support. 
+
+ My works have been published in BSN'25, BHI'25, AAAI'25, EMBC'25, Sensors Journal, and I have multiple journal and conference submissions under review. Visit my website at [shovitobarua.com](https://www.shovitobarua.com/).
 
 
 
