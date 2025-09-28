@@ -59,5 +59,5 @@ weight: 2
 ## About Me
 I am a Ph.D. student in Computer Science at Arizona State University. I work as a Graduate Research Associate at Embedded Machine Intelligence Lab (EMIL) under the supervision of Dr. Hassan Ghasemzadeh. Visit my website at [abdullah-mamun.com](https://abdullah-mamun.com).
 
-Currently, my work includes building and optimizing deep learning models for time-series data. My works have been published in EMBC'22, BSN'22, BSN'23, AAAI'25, EMBC'25, Sensors Journal, and I have multiple journal and confernce submissions under review. I also actively peer-review conference and journal submissions. I have reviewed 29 submissions as of September 2025 that include 5 IEEE JBHI, 1 AAAI 2026, 1 BHI'23, 6 BHI'24, 1 BHI'25, 1 PerCom’23, 5 CHIL’24, 2 CHIL'25, 4 ML4H’24, 1 IEEE EMBC’25, and 2 IEEE BSN'25 submissions.
+Currently, my work includes building and optimizing deep learning models for time-series data. My works have been published in EMBC'22, BSN'22, BSN'23, AAAI'25, EMBC'25, Sensors Journal, and I have multiple journal and confernce submissions under review. I also actively peer-review conference and journal submissions. I have reviewed 33 submissions as of September 2025 that include 5 IEEE JBHI, 1 AAAI 2026, 1 BHI'23, 6 BHI'24, 1 BHI'25, 1 PerCom’23, 5 CHIL’24, 2 CHIL'25, 4 ML4H’24, 4 ML4H'25, 1 IEEE EMBC’25, and 2 IEEE BSN'25 submissions.
 
