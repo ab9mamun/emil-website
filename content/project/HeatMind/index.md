@@ -40,10 +40,15 @@ Stavros Kavouras</a></h2></div></div>
 <div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/1795222"><img class="avatar avatar-circle" src="Faculty/pavan.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/1795222">Pavan Turaga</a></h2></div></div>
 <div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/3817853"><img class="avatar avatar-circle" src="Faculty/mkhatib2.png" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/3817853">Maissa Khatib</a></h2></div></div>
 <div class="col-12 col-lg-auto people-person"><a href="https://www.mayo.edu/research/faculty/kocher-jean-pierre-a-ph-d/bio-00094538"><img class="avatar avatar-circle" src="Faculty/Jean-Pierre.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://www.mayo.edu/research/faculty/kocher-jean-pierre-a-ph-d/bio-00094538">Jean-Pierre A. Kocher</a></h2></div></div>
-<div class="col-md-12"><h2 class="mb-4">Students </h2></div>
+
+<div class="col-md-12"><h2 class="mb-4">Graduate Students </h2></div>
 
 <div class="col-12 col-lg-auto people-person"><a href="https://search.asu.edu/profile/4754067"><img class="avatar avatar-circle" src="Students/shovito.jpg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://search.asu.edu/profile/4754067">Shovito Barua Soumma</a></h2></div></div>
 <div class="col-12 col-lg-auto people-person"><a href="https://www.linkedin.com/in/fota-sall/"><img class="avatar avatar-circle" src="Students/fota.jpeg" alt="Avatar"></a><div class="portrait-title"><h2><a href="https://www.linkedin.com/in/fota-sall/">Fota Sall</a></h2></div></div>
 
+<div class="col-md-12"><h2 class="mb-4">Undergraduate Students </h2></div>
+<div class="col-12 col-lg-auto people-person"><img class="avatar avatar-circle" src="Students/dummy.png" alt="Avatar"><div class="portrait-title"><h2>Manvitha Ganji</h2></div></div>
+<div class="col-12 col-lg-auto people-person"><img class="avatar avatar-circle" src="Students/dummy.png" alt="Avatar"><div class="portrait-title"><h2>Kayzel Zorilla</h2></div></div>
+<div class="col-12 col-lg-auto people-person"><img class="avatar avatar-circle" src="Students/dummy.png" alt="Avatar"><div class="portrait-title"><h2>Cynthia Vizcarra</h2></div></div>
 </div>
 </div>
