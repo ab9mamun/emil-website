@@ -22,9 +22,9 @@ publication_short: ""
 url_source: null
 url_video: null
 projects: ["Metabolic-Health", "Expand-AI"]
-date: 2025-09-08T16:30:00-07:00
+date: 2025-10-01T16:30:00-07:00
 url_slides: null
-publishDate: 2025-09-08T16:30:00-07:00
+publishDate: 2025-10-01T17:30:00-07:00
 url_poster: null
 url_code: "https://github.com/shovito66/SenseCF"
 ---
