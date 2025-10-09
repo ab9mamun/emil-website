@@ -19,7 +19,7 @@ design:
 - - -
 
 * \[2025-10] Shovito and Abdullah's paper titled *["AI-Powered Wearable Sensors for Health Monitoring and Clinical Decision Making"](https://www.preprints.org/manuscript/202507.2601/v1)* has been accepted for publication in the journal [Current Opinion in Biomedical Engineering](https://www.sciencedirect.com/journal/current-opinion-in-biomedical-engineering) (IF: 4.2). 
-* 
+
 * \[2025-9] Shovito has been recognized as an IEEE BHI 2025 *NSF-EMBS-Google Sponsored Young Professional NextGen Scholar.*
 
 * \[2025-9]  Shovito, Asif, Reza, Saman, and Ebi received *Graduate College 2025-26 Quarter 2 (Q2) Travel Award* for attending the IEEE BSN 2025 Conference in Los Angeles, California, USA.

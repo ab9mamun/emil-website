@@ -4,7 +4,7 @@ abstract: "AI-powered wearable sensors are transforming remote health monitoring
 slides: ""
 url_pdf: "https://www.preprints.org/manuscript/202507.2601/v1"
 publication_types:
-  - "1"
+  - "2"
 authors: [Shovito Barua Soumma, Abdullah Mamun, Hassan Ghasemzadeh]
 doi: 
 publication: "Current Opinion in Biomedical Engineering"
