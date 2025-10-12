@@ -18,6 +18,8 @@ design:
 
 - - -
 
+* \[2025-10] Asif's review paper titled *["Assessing the Quality of Reporting in Artificial Intelligence/Machine Learning Research for Cardiac Amyloidosis"](https://academic.oup.com/jamiaopen/article/8/5/ooaf104/8277904)* has been accepted for publication at the [JAMIA Open](https://academic.oup.com/jamiaopen). 
+
 * \[2025-10] Shovito and Abdullah's paper titled *["AI-Powered Wearable Sensors for Health Monitoring and Clinical Decision Making"](https://www.preprints.org/manuscript/202507.2601/v2)* has been accepted for publication in the journal [Current Opinion in Biomedical Engineering](https://www.sciencedirect.com/journal/current-opinion-in-biomedical-engineering) (IF: 4.2). 
 
 * \[2025-9] Shovito has been recognized as an IEEE BHI 2025 *NSF-EMBS-Google Sponsored Young Professional NextGen Scholar.*
