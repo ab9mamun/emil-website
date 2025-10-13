@@ -6,8 +6,8 @@ abstract: "Wearable medical technology has become increasingly popular in recent
 summary: "This study introduces SELF-CARE, a context-aware sensor fusion framework for stress detection using wearable devices. It addresses key limitations of existing methods—poor robustness and lack of adaptability—by modeling environmental noise and dynamically selecting sensor combinations through ensemble learning. SELF-CARE leverages motion sensors (for wrist devices) and muscle-contraction sensors (for chest devices) to understand noise context, achieving strong performance on the WESAD dataset."
 
 location: Online (Zoom)
-date: 2025-10-8T12:00:00-07:00
-date_end: 2025-10-8T12:30:00-07:00
+date: '2025-10-8T12:00:00-07:00'
+date_end: '2025-10-8T12:30:00-07:00'
 all_day: false
 links:
   - url: https://ieeexplore.ieee.org/document/10097874
@@ -15,8 +15,8 @@ links:
   - url: Stress_Detection.pdf
     name: "slides"
 event: EMIL Fall'25 Seminars
-event_url: " "
-publishDate: 2025-10-13T11:30:00.000Z
+event_url: ""
+
 draft: false
 featured: false
 authors:
