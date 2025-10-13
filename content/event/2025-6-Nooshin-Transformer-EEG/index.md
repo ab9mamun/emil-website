@@ -12,9 +12,9 @@ all_day: false
 links:
   - url: https://ieeexplore.ieee.org/abstract/document/9845479
     name: "Paper"
-  - url: transformer&EEG.pdf
+  - url: transformer_EEG.pdf
     name: "slides"
-event: EMIL Fall'25 RL Seminars
+event: EMIL Spring'25 Seminars
 event_url: " "
 publishDate: 2025-02-21T08:00:00.000Z
 draft: false
