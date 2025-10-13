@@ -6,8 +6,8 @@ abstract: "Pilot stress detection is a challenging task and it plays a vital rol
 summary: "This study addresses the challenge of detecting pilot stress, which is crucial for enhancing flight safety and performance. It introduces a transformer-based deep learning framework that integrates a transformer network with a convolutional neural network (CNN) to better capture dependencies and positional information across multimodal physiological signals. Data from 14 pilots—including ECG, EMG, EDA, respiration, and skin temperature—were collected under varying stress levels to train and validate the model against other state-of-the-art approaches."
 
 location: Online (Zoom)
-date: 2025-08-14T12:00:00-07:00
-date_end: 2025-08-14T12:30:00-07:00
+date: '2025-08-14T12:00:00-07:00'
+date_end: '2025-08-14T12:30:00-07:00'
 all_day: false
 links:
   - url: https://ieeexplore.ieee.org/document/10054557
@@ -15,8 +15,8 @@ links:
   - url: Pilot_Stress_Detection_Through_Physiological.pdf
     name: "slides"
 event: EMIL Summer'25 Seminars
-event_url: " "
-publishDate: 2025-10-13T11:30:00.000Z
+event_url: ""
+
 draft: false
 featured: false
 authors:
