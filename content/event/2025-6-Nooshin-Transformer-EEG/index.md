@@ -6,8 +6,8 @@ abstract: "The attention mechanism of the Transformer has the advantage of extra
 summary: "This study proposes Transformer-based models for motor imagery EEG classification, leveraging their ability to capture spatial-temporal dependencies and visualize attention patterns. Using 3-second EEG data from the PhysioNet dataset with cross-individual validation, the models outperformed existing methods. Positional embeddings improved accuracy, and attention visualizations revealed neural patterns consistent with event-related desynchronization, highlighting the models’ potential for brain-computer interface applications."
 
 location: Online (Zoom)
-date: 2025-06-25T12:00:00-07:00
-date_end: 2025-06-25T12:30:00-07:00
+date: '2025-06-25T12:00:00-07:00'
+date_end: '2025-06-25T12:30:00-07:00'
 all_day: false
 links:
   - url: https://ieeexplore.ieee.org/abstract/document/9845479
@@ -15,8 +15,8 @@ links:
   - url: transformer_EEG.pdf
     name: "slides"
 event: EMIL Spring'25 Seminars
-event_url: " "
-publishDate: 2025-10-13T11:30:00.000Z
+event_url: ""
+
 draft: false
 featured: false
 authors:
