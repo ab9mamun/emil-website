@@ -14,7 +14,7 @@ links:
     name: "Paper"
   - url: Stress_Detection.pdf
     name: "slides"
-event: EMIL Fall'25 RL Seminars
+event: EMIL Fall'25 Seminars
 event_url: " "
 publishDate: 2025-02-21T08:00:00.000Z
 draft: false
