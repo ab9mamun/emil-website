@@ -12,9 +12,9 @@ all_day: false
 links:
   - url: https://ieeexplore.ieee.org/document/10054557
     name: "Paper"
-  - url: Pilot Stress Detection Through Physiological.pdf
+  - url: Pilot_Stress_Detection_Through_Physiological.pdf
     name: "slides"
-event: EMIL Fall'25 RL Seminars
+event: EMIL Summer'25 Seminars
 event_url: " "
 publishDate: 2025-02-21T08:00:00.000Z
 draft: false
