@@ -16,7 +16,7 @@ links:
     name: "slides"
 event: EMIL Spring'25 Seminars
 event_url: ""
-
+publishDate: '2025-06-25T12:30:00-07:00'
 draft: false
 featured: false
 authors:
