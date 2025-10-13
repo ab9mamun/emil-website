@@ -22,7 +22,7 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2025-10-08T13:40:20-07:00
 
-authors: [Yuhan Li; Ke Li; Jiaao Chen; Shaofan Wang; Haochang Lu; Dongsheng Wen]
+authors: [Nooshin Taheri]
 tags: []
 
 # Is this a featured event? (true/false)
@@ -45,10 +45,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides: UniCast.pptx
+url_slides: Pilot Stress Detection Through Physiological.pptx
 
 url_code:
-url_pdf: "https://arxiv.org/abs/2508.11954"
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/10054557?casa_token=VJh7Ya4Xh0sAAAAA:QAO1mklrye5dN4ui_kPry-fhSsNT1iFFxmOxMk-opszBOH9xgFMGPvskRyGN1PRV2K6lnUiGtWM"
 url_video:
 
 # Markdown Slides (optional).
