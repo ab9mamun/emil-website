@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "CAN-STRESS: A Real-World Multimodal Dataset for Understanding Cannabis Use, Stress, and Physiological Responses"
+title: "CAaN-STRESS: A Real-World Multimodal Dataset for Understanding Cannabis Use, Stress, and Physiological Responses"
 authors: [Reza Rahimi Azghan, Nicholas C. Glodosky, Ramesh Kumar Sah, Michael J. Cleveland, Carrie Cuttler, Ryan J. McLaughlin, Hassan Ghasemzadeh]
 date: 2025-09-16T08:01:35-07:00
 doi: ""
