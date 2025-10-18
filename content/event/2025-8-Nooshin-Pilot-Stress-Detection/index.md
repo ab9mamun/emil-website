@@ -19,8 +19,7 @@ event_url: ""
 publishDate: '2025-08-14T12:30:00-07:00'
 draft: false
 featured: false
-authors:
-  - Nooshin-Taheri
+authors: [nooshin-taheri-chatrudi]
 image:
   filename: featured.png
   focal_point: Smart
