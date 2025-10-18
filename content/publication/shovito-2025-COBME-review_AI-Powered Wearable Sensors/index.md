@@ -15,7 +15,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-summary: "A comprehensive review on AI-powered wearable biosensors, highlighting how machine learning and edge AI enable real-time health monitoring and personalized care. The paper discusses key innovations like digital twins and LLMs, along with challenges in privacy, scalability, and clinical integration.."
+summary: "A comprehensive review on AI-powered wearable biosensors, highlighting how machine learning and edge AI enable real-time health monitoring and personalized care, including digital twins, LLMs, and challenges in privacy, scalability, and clinical integration."
 url_dataset: null
 url_project: null
 publication_short: ""
