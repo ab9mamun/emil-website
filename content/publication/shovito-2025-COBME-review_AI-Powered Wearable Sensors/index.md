@@ -21,7 +21,7 @@ url_project: null
 publication_short: ""
 url_source: null
 url_video: null
-projects: ["Metabolic-Health", "Gait-and-Mobility", "human-in-the-loop-learning", "mental-health", "Cardiovascular-Health","mental-health"]
+projects: ["Metabolic-Health", "Gait-and-Mobility", "human-in-the-loop-learning", "mental-health", "Cardiovascular-Health"]
 date: 2025-10-08T16:30:00-07:00
 url_slides: null
 publishDate: 2025-10-08T16:30:00-07:00
