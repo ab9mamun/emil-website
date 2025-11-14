@@ -18,6 +18,10 @@ design:
 
 - - -
 
+* \[2025-11] Congratulations to Aashritha for successfully defending her Master’s thesis on "Multi-Modal AI for Glucose Forecasting in Non-Diabetic Individuals". 
+
+* \[2025-11] Asif and Shovito's abstract won the second runner up award for one page abstract posters at the BSN 2025 conference. 
+
 * \[2025-10] Ebrahim, Reza, and Nooshin's abstract received the best poster award at the BHI 2025 conference. 
 
 * \[2025-10] Reza received the outstanding reviewer award at the BHI 2025 conference. 
