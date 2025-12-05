@@ -50,7 +50,7 @@ image:
 url_slides: slides.pdf
 
 url_code: 
-url_pdf: 
+url_pdf: https://arxiv.org/abs/2409.16341
 url_video: 
 
 # Markdown Slides (optional).
