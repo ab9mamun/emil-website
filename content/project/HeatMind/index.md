@@ -49,6 +49,6 @@ Stavros Kavouras</a></h2></div></div>
 <div class="col-md-12"><h2 class="mb-4">Undergraduate Students </h2></div>
 <div class="col-12 col-lg-auto people-person"><img class="avatar avatar-circle" src="Students/dummy.png" alt="Avatar"><div class="portrait-title"><h2>Manvitha Ganji</h2></div></div>
 <div class="col-12 col-lg-auto people-person"><img class="avatar avatar-circle" src="Students/dummy.png" alt="Avatar"><div class="portrait-title"><h2>Kayzel Zorilla</h2></div></div>
-<div class="col-12 col-lg-auto people-person"><img class="avatar avatar-circle" src="Students/dummy.png" alt="Avatar"><div class="portrait-title"><h2>Cynthia Vizcarra</h2></div></div>
+<div class="col-12 col-lg-auto people-person"><img class="avatar avatar-circle" src="Students/kay.jpeg" alt="Avatar"><div class="portrait-title"><h2>Cynthia Vizcarra</h2></div></div>
 </div>
 </div>
