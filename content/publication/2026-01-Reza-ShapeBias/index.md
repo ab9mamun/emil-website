@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: paper.pdf
+url_pdf: https://drive.google.com/file/d/1FvjL6LQGtYQf0CCGA4RMMisBPHw1qjH3/view?usp=sharing
 url_code:
 url_dataset:
 url_poster:
