@@ -18,7 +18,7 @@ abstract: "We propose a novel method for imputing missing data by adapting the w
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2026-01-07T12:00:00-07:00
-date_end: 2025-07-01T12:30:00-07:00
+date_end: 2026-01-07T12:30:00-07:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
