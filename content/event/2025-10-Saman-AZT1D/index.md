@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: Aligning large language models with embodied environments via reinforcement learning.
+summary: In this work, we introduced AZT1D, a real-world dataset collected from 25 individuals with type 1 diabetes using automated insulin delivery systems.
 abstract: High-quality real-world datasets are essential for advancing data-driven approaches in type 1 diabetes (T1D) management, including personalized therapy design, digital twin systems, and glucose prediction models. However, progress in this area has been limited by the scarcity of publicly available datasets that offer detailed and comprehensive patient data. To address this gap, we present AZT 1D, a dataset containing data collected from 25 individuals with T1D on automated insulin delivery (AID) systems. AZT1D includes continuous glucose monitoring (CGM) data, insulin pump and insulin administration data, carbohydrate intake, and device mode (regular, sleep, and exercise) obtained over 6–8 weeks for each patient. Notably, the dataset provides granular details on bolus insulin delivery (i.e., total dose, bolus type, correction-specific amounts) features that are rarely found in existing datasets. By offering rich, naturalistic data, AZT1D supports a wide range of artificial intelligence and machine learning applications aimed at improving clinical decision-making and individualized care in T1D.
 
 # Talk start and end times.
