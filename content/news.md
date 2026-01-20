@@ -14,6 +14,17 @@ design:
 ---
 - - -
 
+## <center>**2026**</center>
+
+- - -
+
+ * \[2026-01] Shovito’s journal paper titled *[“Self-Supervised Learning and Opportunistic Inference for Continuous Monitoring of Freezing of Gait in Parkinson’s Disease”](https://arxiv.org/abs/2410.21326)* got accepted at the [ACM Transactions on Computing for Healthcare (ACM Health, IF: 8)](https://dl.acm.org/journal/health).
+  
+* \[2026-01] Shovito has received a Graduate Fellowship from the College of Health Solutions.
+ 
+
+- - -
+
 ## <center>**2025**</center>
 
 - - -
