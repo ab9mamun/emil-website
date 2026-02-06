@@ -18,7 +18,7 @@ design:
 
 - - -
 
-* \[2026-02] Shovito has received Student Travel award to attend 2026 Annual Meeting of the American Association for the Advancement of Science (AAAS) section U on Statistics.
+* \[2026-02] Shovito has received Student Travel Award to attend 2026 Annual Meeting of the American Association for the Advancement of Science (AAAS) section U on Statistics.
 
 * \[2026-01] Shovito’s journal paper titled *[“Self-Supervised Learning and Opportunistic Inference for Continuous Monitoring of Freezing of Gait in Parkinson’s Disease”](https://arxiv.org/abs/2410.21326)* got accepted at the [ACM Transactions on Computing for Healthcare (ACM Health, IF: 8)](https://dl.acm.org/journal/health).
   
