@@ -17,6 +17,7 @@ design:
 ## <center>**2026**</center>
 
 - - -
+* \[2026-02] Abdullah’s journal paper titled *[“Trustworthy AI in Digital Health: A Comprehensive Review of Robustness and Explainability”](https://www.preprints.org/manuscript/202507.2387)* got accepted at the [Progress in Biomedical Engineering Journal (IF: 7.7)](https://iopscience.iop.org/journal/2516-1091).
 
 * \[2026-02] Shovito has received Student Travel Award to attend 2026 Annual Meeting of the American Association for the Advancement of Science (AAAS) section U on Statistics.
 
