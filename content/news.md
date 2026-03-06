@@ -25,6 +25,7 @@ design:
   
 * \[2026-01] Shovito has received a Graduate Fellowship from the College of Health Solutions.
  
+* \[2026-01] Asif received a Graduate Fellowship from the College of Health Solutions.
 
 - - -
 
