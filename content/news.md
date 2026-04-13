@@ -17,13 +17,17 @@ design:
 ## <center>**2026**</center>
 
 - - -
+* \[2026-04] Ebi and Shovito's journal paper titled *[“Hybrid attention model using feature decomposition and knowledge distillation for glucose forecasting”](https://arxiv.org/abs/2411.10703)* got accepted at the [IEEE Transactions on Mobile Computing (IEEE TMC, IF: 9.2)](https://www.computer.org/csdl/journal/tm).
+
+* \[2026-03] Asif and Shovito won the Best Poster Award at 2026 ASU College of Health Solutions Faculty and Staff Research Day. 
+  
 * \[2026-03] Abdullah’s journal paper titled *[“Trustworthy AI in Digital Health: A Comprehensive Review of Robustness and Explainability”](https://www.preprints.org/manuscript/202507.2387)* got accepted at the [Progress in Biomedical Engineering Journal (IF: 7.7)](https://iopscience.iop.org/journal/2516-1091).
 
 * \[2026-02] Abdullah and Asif have successfully completed the NSF I-Corps regional training program.
 
 * \[2026-02] Shovito has received Student Travel Award to attend 2026 Annual Meeting of the American Association for the Advancement of Science (AAAS) section U on Statistics.
 
-* \[2026-01] Shovito’s journal paper titled *[“Self-Supervised Learning and Opportunistic Inference for Continuous Monitoring of Freezing of Gait in Parkinson’s Disease”](https://arxiv.org/abs/2410.21326)* got accepted at the [ACM Transactions on Computing for Healthcare (ACM Health, IF: 8)](https://dl.acm.org/journal/health).
+* \[2026-01] Shovito’s journal paper titled *[“Self-Supervised Learning and Opportunistic Inference for Continuous Monitoring of Freezing of Gait in Parkinson’s Disease”](https://dl.acm.org/doi/10.1145/3802589)* got accepted at the [ACM Transactions on Computing for Healthcare (ACM Health, IF: 8)](https://dl.acm.org/journal/health).
   
 * \[2026-01] Shovito has received a Graduate Fellowship from the College of Health Solutions.
  
