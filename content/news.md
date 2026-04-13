@@ -17,6 +17,8 @@ design:
 ## <center>**2026**</center>
 
 - - -
+* \[2026-04] Abdullah’s journal paper titled *[“Use of What-if Scenarios to Help Explain Artificial Intelligence Models for Neonatal Health”](https://arxiv.org/abs/2410.09635)* got accepted at the [ACM Transactions on Computing for Healthcare (ACM Health, IF: 8)](https://dl.acm.org/journal/health).
+
 * \[2026-04] Ebi and Shovito's journal paper titled *[“Hybrid attention model using feature decomposition and knowledge distillation for glucose forecasting”](https://arxiv.org/abs/2411.10703)* got accepted at the [IEEE Transactions on Mobile Computing (IEEE TMC, IF: 9.2)](https://www.computer.org/csdl/journal/tm).
 
 * \[2026-03] Asif and Shovito won the Best Poster Award at 2026 ASU College of Health Solutions Faculty and Staff Research Day. 
