@@ -5,8 +5,8 @@ abstract: "Continual learning (CL), which requires the model to learn multiple t
 summary: "GainLoRA is a continual learning method for large language models that builds on LoRA by adding a small input-dependent gating mechanism for each task-specific LoRA branch, so instead of always combining all learned branches equally, the model learns how much each branch should contribute for a given input. The key goal is to reduce forgetting in the realistic setting where tasks arrive sequentially, task identity is unknown at test time, and no old data are replayed. Its main insight is that the newest LoRA branch should have little or no effect on inputs from older tasks, so the paper designs the gate to stay near zero on old-task inputs through special initialization and update constraints, while still allowing strong activation for the current task. The authors evaluate the method on continual instruction-learning and long-sequence benchmarks using models like T5-Large, T5-XL, Llama-2, and Llama-3, and report consistently better average performance and lower forgetting than prior LoRA-based continual learning methods such as O-LoRA and InfLoRA. In short, the paper’s contribution is a smarter way to combine task-specific LoRA adapters, making LoRA-based continual learning more selective, more stable, and substantially less prone to interference across tasks."
 
 location: Online (Zoom)
-date: 2026-04-008T12:00:00-07:00
-date_end: 2026-04-008T12:30:00-07:00
+date: 2026-04-08T12:00:00-07:00
+date_end: 2026-04-08T12:30:00-07:00
 all_day: false
 links:
   - url: https://arxiv.org/pdf/2505.15424
@@ -15,7 +15,7 @@ links:
     name: "slides"
 event: EMIL Spring'26 Seminars
 event_url: " "
-publishDate: 2026-04-008T12:45:00-07:00
+publishDate: 2026-04-08T12:45:00-07:00
 draft: false
 featured: false
 authors:
