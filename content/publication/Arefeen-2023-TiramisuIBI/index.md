@@ -13,7 +13,7 @@ authors:
   - Behrooz A. Shirazi
   - Hassan Ghasemzadeh
 doi: 
-publication: "ACM Health"
+publication: "ACM Health - July 2023"
 featured: false
 tags: ["featured"]
 categories: ""

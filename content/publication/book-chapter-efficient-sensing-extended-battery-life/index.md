@@ -13,7 +13,7 @@ authors:
   - Ramesh Sah
   - Hassan Ghasemzadeh
 doi: 
-publication: "In Activity Recognition and Prediction for Smart IoT Environments, Springer"
+publication: "In Activity Recognition and Prediction for Smart IoT Environments, Springer - January 2024"
 featured: false
 tags: null
 categories: ""

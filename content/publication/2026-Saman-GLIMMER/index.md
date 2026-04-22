@@ -5,7 +5,7 @@ abstract: "Managing Type 1 Diabetes (T1D) demands constant vigilance as individu
 slides: ""
 url_pdf: "https://arxiv.org/abs/2502.14183"
 publication_types:
-  - "1"
+  - "2"
 authors:
   - Saman Khamesian
   - Asiful Arefeen

@@ -16,7 +16,7 @@ authors:
   - Hassan Ghasemzadeh
   - Michael J. Cleveland
 doi: 10.2196/27891
-publication: "Journal of Medical Internet Research (JMIR)"
+publication: "Journal of Medical Internet Research (JMIR) - June 2021"
 featured: false
 tags: ["featured"]
 categories: ""

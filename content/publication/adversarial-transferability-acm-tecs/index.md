@@ -9,7 +9,7 @@ authors:
   - Ramesh Sah
   - Hassan Ghasemzadeh
 doi: 
-publication: "ACM Transactions on Embedded Computing Systems (TECS)"
+publication: "ACM Transactions on Embedded Computing Systems (TECS) - January 2024"
 featured: false
 tags: null
 categories: ""

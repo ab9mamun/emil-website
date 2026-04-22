@@ -9,7 +9,7 @@ authors:
   - Asiful Arefeen
   - Hassan Ghasemzadeh
 doi: 
-publication: "Sensors"
+publication: "Sensors - February 2025"
 featured: false
 tags: ["featured"]
 categories: ""

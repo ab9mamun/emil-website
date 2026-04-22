@@ -12,7 +12,7 @@ authors:
   - Seyed Iman Mirzadeh
   - Hassan Ghasemzadeh
 doi: 
-publication: "Sensors"
+publication: "Sensors - June 2023"
 featured: false
 tags: ["featured"]
 categories: ""

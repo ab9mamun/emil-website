@@ -16,7 +16,7 @@ authors:
   - Hassan Ghasemzadeh
   - Lorraine S. Evangelista
 doi: 
-publication: "Elsevier Smart Health"
+publication: "Elsevier Smart Health - September 2022"
 featured: True
 tags: ["featured"]
 categories: ""

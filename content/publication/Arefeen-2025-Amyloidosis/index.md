@@ -4,7 +4,7 @@ abstract: "Objectives: Despite the rapid development of AI in clinical medicine,
 slides: ""
 url_pdf: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12507469/"
 publication_types:
-  - "1"
+  - "2"
 authors:
   - Asiful Arefeen
   - Simar Singh
@@ -12,7 +12,7 @@ authors:
   - Hassan Ghasemzadeh
   - Sandesh Dev
 doi: 
-publication: "JAMIA Open"
+publication: "JAMIA Open - October 2025"
 featured: false
 tags: ""
 categories: ""

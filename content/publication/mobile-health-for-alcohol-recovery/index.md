@@ -16,7 +16,7 @@ publishDate: 2020-10-22T01:22:35-07:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE/ACM international conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)"
+publication: "IEEE/ACM international conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE) - October 2020"
 publication_short: ""
 
 abstract: ""
