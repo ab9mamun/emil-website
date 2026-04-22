@@ -5,6 +5,7 @@ title: "LLM-Powered Prediction of Hyperglycemia and Discovery of Behavioral Trea
 authors: [Abdullah Mamun, Asiful Arefeen, Susan B. Racette, Dorothy D. Sears, Corrie M. Whisner, Matthew P. Buman, Hassan Ghasemzadeh]
 date: 2025-08-24T11:59:00-07:00
 doi: ""
+show_date: true
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-08-24T11:59:00-07:00
