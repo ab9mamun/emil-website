@@ -16,7 +16,7 @@ publishDate: 2026-04-13T12:00:00-07:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ACM Transactions on Computing for Healthcare (ACM Health)"
+publication: "ACM Transactions on Computing for Healthcare (ACM Health) - April 2026"
 publication_short: ""
 
 abstract: "Early detection of intrapartum risk enables interventions to potentially prevent or mitigate adverse labor outcomes such as cerebral palsy. Currently, there is no accurate automated system to predict such events to assist with clinical decision-making. To fill this gap, we propose \"Artificial Intelligence (AI) for Modeling and Explaining Neonatal Health\" (AIMEN), a deep learning framework that not only predicts adverse labor outcomes from maternal, fetal, obstetrical, and intrapartum risk factors but also provides the model's reasoning behind the predictions made. The latter can provide insights into what modifications in the input variables of the model could have changed the predicted outcome. We address the challenges of imbalance and small datasets by synthesizing additional training data using Adaptive Synthetic Sampling (ADASYN) and Conditional Tabular Generative Adversarial Networks (CTGAN). AIMEN uses an ensemble of fully-connected neural networks as the backbone for its classification with the data augmentation supported by either ADASYN or CTGAN. AIMEN, supported by CTGAN, outperforms AIMEN supported by ADASYN in classification. AIMEN can predict a high risk for adverse labor outcomes with an average F1 score of 0.784. It also provides counterfactual explanations that can be achieved by changing 2 to 3 attributes on average. Resources available: https://github.com/ab9mamun/AIMEN."

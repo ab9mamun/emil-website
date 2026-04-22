@@ -7,7 +7,7 @@ publication_types:
   - "2"
 authors: [Shovito Barua Soumma, Abdullah Mamun, Hassan Ghasemzadeh]
 doi: 
-publication: "Current Opinion in Biomedical Engineering"
+publication: "Current Opinion in Biomedical Engineering - October 2025"
 featured: false
 tags: ["featured"]
 categories: ""

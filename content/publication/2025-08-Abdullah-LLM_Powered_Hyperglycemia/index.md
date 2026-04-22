@@ -5,7 +5,7 @@ title: "LLM-Powered Prediction of Hyperglycemia and Discovery of Behavioral Trea
 authors: [Abdullah Mamun, Asiful Arefeen, Susan B. Racette, Dorothy D. Sears, Corrie M. Whisner, Matthew P. Buman, Hassan Ghasemzadeh]
 date: 2025-08-24T11:59:00-07:00
 doi: ""
-show_date: true
+#show_date: true
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-08-24T11:59:00-07:00
@@ -17,7 +17,7 @@ publishDate: 2025-08-24T11:59:00-07:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Sensors Journal"
+publication: "Sensors Journal - August 2025"
 publication_short: ""
 
 abstract: "Postprandial hyperglycemia, marked by the blood glucose level exceeding the normal range after consuming a meal, is a critical indicator of progression toward type 2 diabetes in people with prediabetes and in healthy individuals. A key metric for understanding blood glucose dynamics after eating is the postprandial Area Under the Curve (AUC). Predicting postprandial AUC in advance based on a person's lifestyle factors, such as diet and physical activity level, and explaining the factors that affect postprandial blood glucose could allow an individual to adjust their behavioral choices accordingly to maintain normal glucose levels. In this work, we develop an explainable machine learning solution, GlucoLens, that takes sensor-driven inputs and utilizes advanced data processing, large language models, and trainable machine learning models to estimate postprandial AUC and predict hyperglycemia from diet, physical activity, and recent glucose patterns. We use data obtained using wearables in a five-week clinical trial of 10 adults who worked full-time to develop and evaluate the proposed computational model that integrates wearable sensing, multimodal data, and machine learning. Our machine learning model takes multimodal data from wearable activity and glucose monitoring sensors, along with food and work logs, and provides an interpretable prediction of the postprandial glucose patterns. GlucoLens achieves a normalized root mean squared error (NRMSE) of 0.123 in its best configuration. On average, the proposed technology provides a 16% better predictive performance compared to the comparison models. Additionally, our technique predicts hyperglycemia with an accuracy of 79% and an F1 score of 0.749 and recommends different treatment options to help avoid hyperglycemia through diverse counterfactual explanations. With systematic experiments and discussion supported by established prior research, we show that our method is generalizable and consistent with clinical understanding."
