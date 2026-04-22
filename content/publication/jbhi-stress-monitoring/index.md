@@ -10,7 +10,7 @@ authors:
   - Hassan Ghasemzadeh
   - Michael J. Cleveland
 doi: 
-publication: "IEEE Journal of Biomedical and Health Informatics (J-BHI)."
+publication: "IEEE Journal of Biomedical and Health Informatics (J-BHI) - September 2023"
 featured: false
 tags: ["featured"]
 categories: ""
