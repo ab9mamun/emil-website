@@ -17,7 +17,9 @@ design:
 ## <center>**2026**</center>
 
 - - -
-* \[2026-05] Asif and Shovito secured summer internships at Idaho National Lab and St. Jude, respectively.
+* \[2026-04] Shovito to spend summer 2026 as a research intern at St. Jude.
+
+* \[2026-04] Asif to spend summer 2026 as a research intern at Idaho National Lab.
   
 * \[2026-04] Abdullah’s journal paper titled *[“Use of What-if Scenarios to Help Explain Artificial Intelligence Models for Neonatal Health”](https://ieeexplore.ieee.org/abstract/document/11481169)* got accepted at the [ACM Transactions on Computing for Healthcare (ACM Health, IF: 8)](https://dl.acm.org/journal/health).
 
