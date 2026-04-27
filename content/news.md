@@ -17,6 +17,8 @@ design:
 ## <center>**2026**</center>
 
 - - -
+* \[2026-04] Congratulations Shovito, on receiving the 2025–2026 Inaugural [Faculty Women’s Association (FWA)](https://www.asufoundation.org/changing-futures/inspire-tomorrows-game-changers/faculty-women-association-at-arizona-state-university.-CA127414.html) Research Award for Graduate Students.
+
 * \[2026-04] Shovito to spend summer 2026 as a research intern at St. Jude.
 
 * \[2026-04] Asif to spend summer 2026 as a research intern at Idaho National Lab.
