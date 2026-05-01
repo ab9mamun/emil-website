@@ -17,6 +17,8 @@ design:
 ## <center>**2026**</center>
 
 - - -
+* \[2026-04] Shovito presented his [research and BMI program in an invited talk at ASU Downtown Campus (Health North Building)](https://ghasemzadeh.com/event/talk-sbs-26-downtown/) on behalf of the EMIL Lab.
+
 * \[2026-04] Congratulations Shovito, on receiving the 2025–2026 Inaugural [Faculty Women’s Association (FWA)](https://www.asufoundation.org/changing-futures/inspire-tomorrows-game-changers/faculty-women-association-at-arizona-state-university.-CA127414.html) Research Award for Graduate Students.
 
 * \[2026-04] Congratulations to Asif on winning the [ASU Completion Fellowship](https://graduate.asu.edu/completion-fellowship) for fall 2026.
