@@ -17,15 +17,15 @@ design:
 ## <center>**2026**</center>
 
 - - -
+* \[2026-05] Shovito to spend summer 2026 as a research intern at St. Jude.
+
+* \[2026-05] Asif to spend summer 2026 as a research intern at Idaho National Lab.
+
 * \[2026-04] Shovito presented his [research and BMI program in an invited talk at ASU Downtown Campus (Health North Building)](https://ghasemzadeh.com/event/talk-sbs-26-downtown/) on behalf of the EMIL Lab.
 
 * \[2026-04] Congratulations Shovito, on receiving the 2025–2026 Inaugural [Faculty Women’s Association (FWA)](https://www.asufoundation.org/changing-futures/inspire-tomorrows-game-changers/faculty-women-association-at-arizona-state-university.-CA127414.html) Research Award for Graduate Students.
 
 * \[2026-04] Congratulations to Asif on winning the [ASU Completion Fellowship](https://graduate.asu.edu/completion-fellowship) for fall 2026.
-
-* \[2026-04] Shovito to spend summer 2026 as a research intern at St. Jude.
-
-* \[2026-04] Asif to spend summer 2026 as a research intern at Idaho National Lab.
   
 * \[2026-04] Abdullah’s journal paper titled *[“Use of What-if Scenarios to Help Explain Artificial Intelligence Models for Neonatal Health”](https://ieeexplore.ieee.org/abstract/document/11481169)* got accepted at the [ACM Transactions on Computing for Healthcare (ACM Health, IF: 8)](https://dl.acm.org/journal/health).
 
