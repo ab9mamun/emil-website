@@ -58,11 +58,11 @@ weight: 6
 ---
 ## About Me
 
-I am a Ph.D. candidate in Biomedical Informatics and Data Science at Arizona State University, where I am also pursuing a concurrent M.S. in Computer Science. Previously I earned an M.S. in Biomedical Informatics and Data Science from the same institution. Currently I am working as a Graduate Research Associate at Embedded Machine Intelligence Lab (EMIL) under the supervision of Dr. Hassan Ghasemzadeh. I received my B.S. in Computer Science and Engineering from Bangladesh University of Engineering & Technology (BUET) in 2022. 
+I am a Ph.D. candidate in Biomedical Informatics and Data Science at Arizona State University, where I am also pursuing a concurrent M.S. in Computer Science. Previously I earned an M.S. in Biomedical Informatics and Data Science from the same institution. Currently I am working as a Graduate Research Associate at Embedded Machine Intelligence Lab (EMIL) under the supervision of Dr. Hassan Ghasemzadeh. I received my B.S. in Computer Science and Engineering from Bangladesh University of Engineering & Technology (BUET) in 2022. I am currently an AI Intern at St. Jude Children’s Research Hospital (Summer 2026), working on applied machine learning in healthcare.
 
 My research topics include explainable AI using counterfactual method, denoising wearable signals, health monitoring system development, optimizing deep learning models for time-series data and human behavior modeling, with an emphasis on label-efficient and power-aware systems for disease monitoring and clinical decision support. 
 
-My works have been published in ACM Health Journal, Sensors Journal, COBME Journal, AAAI'25, BSN'25, BHI'25, EMBC'25 and I have multiple journal and conference submissions under review. Visit my website at [shovitobarua.com](https://www.shovitobarua.com/).
+My works have been published in ACM Health Journal, IEEE TMC Journal, Sensors Journal, COBME Journal, AAAI'25, BSN'25, BHI'25, EMBC'25 and I have multiple journal and conference submissions under review. Visit my website at [shovitobarua.com](https://www.shovitobarua.com/).
 
 
 
