@@ -27,7 +27,7 @@ url_project: null
 publication_short: ""
 url_source: null
 url_video: null
-projects: ""
+projects: [Metabolic-Health, Expand-AI]
 date: 2026-04-21T16:01:00-07:00
 url_slides: null
 publishDate: 2025-04-21T16:01:00-07:00
