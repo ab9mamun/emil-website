@@ -42,12 +42,12 @@ date_format = "January 2006"
   date_start = "2025-04-11"
 
 [[item]]
-  title = "Self-Supervised Learning and Opportunistic Inference for Continuous Monitoring of Freezing of Gait in Parkinson's Diseases"
+  title = "Self-Supervised Learning and Opportunistic Inference for Continuous Monitoring of Freezing of Gait in Parkinson’s Disease"
   code_url = "https://github.com/shovito66/LIFT-PD"
   dataset_url = "https://www.kaggle.com/competitions/tlvmc-parkinsons-freezing-gait-prediction/data"
-  paper_url = "https://arxiv.org/pdf/2410.21326"
-  description = "Under review in IEEE JBHI"
-  date_start = "2024-10-26"
+  paper_url = "https://dl.acm.org/doi/10.1145/3802589"
+  description = "Code is available now (ACM Health 2026)"
+  date_start = "2026-03-24"
 
 [[item]]
   title = "Forewarning Postprandial Hyperglycemia with Interpretations using Machine Learning"
