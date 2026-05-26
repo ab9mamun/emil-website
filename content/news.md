@@ -17,7 +17,9 @@ design:
 ## <center>**2026**</center>
 
 - - -
-* \[2026-04] Asif and Saman's paper titled *[“GlyTwin: Enhancing Digital Twin for Glucose Control in Type 1 Diabetes using Patient-Centric Counterfactual Treatments”](https://arxiv.org/abs/2504.09846)* got accepted at the [IEEE Journal of Biomedical and Health Informatics (IEEE JBHI, IF: 6.8)](https://www.embs.org/jbhi/).
+* \[2026-05] Shovito and Asif's paper titled *[“Counterfactual Modeling with Fine-Tuned LLMs for Health Intervention Design and Sensor Data Augmentation”](https://arxiv.org/pdf/2601.14590)* got accepted at the [IEEE Open Access Journal of Engineering in Medicine and Biology (IEEE OJEMB, IF: 2.9)](https://www.embs.org/ojemb/).
+
+* \[2026-05] Asif and Saman's paper titled *[“GlyTwin: Enhancing Digital Twin for Glucose Control in Type 1 Diabetes using Patient-Centric Counterfactual Treatments”](https://arxiv.org/abs/2504.09846)* got accepted at the [IEEE Journal of Biomedical and Health Informatics (IEEE JBHI, IF: 6.8)](https://www.embs.org/jbhi/).
 
 * \[2026-05] Shovito to spend summer 2026 as a research intern at St. Jude.
 
