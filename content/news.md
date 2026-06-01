@@ -21,6 +21,8 @@ design:
 
 * \[2026-05] Asif and Saman's paper titled *[“GlyTwin: Enhancing Digital Twin for Glucose Control in Type 1 Diabetes using Patient-Centric Counterfactual Treatments”](https://arxiv.org/abs/2504.09846)* got accepted at the [IEEE Journal of Biomedical and Health Informatics (IEEE JBHI, IF: 6.8)](https://www.embs.org/jbhi/).
 
+* \[2026-05] Reza to spend summer 2026 as a data science intern at Komodo Health.
+
 * \[2026-05] Shovito to spend summer 2026 as a research intern at St. Jude.
 
 * \[2026-05] Asif to spend summer 2026 as a research intern at Idaho National Lab.
