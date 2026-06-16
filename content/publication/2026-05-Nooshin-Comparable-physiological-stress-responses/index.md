@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Use of What-if Scenarios to Help Explain Artificial Intelligence Models for Neonatal Health"
+title: "Comparable physiological stress responses following music listening and quiet reading: An exploratory pilot study"
 authors: [Nooshin Taheri Chatrudi, Ramesh Kumar Sah, Abdullah Mamun, Melita Belgrave, Assal Habibi, Michael J. Cleveland, Hassan Ghasemzadeh]
-date: 2026-05-17T12:00:00-07:00
+date: 2026-05-31T12:00:00-07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2026-05-17T12:00:00-07:00
+publishDate: 2026-05-31T12:00:00-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
