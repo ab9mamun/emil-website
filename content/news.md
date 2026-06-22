@@ -17,6 +17,8 @@ design:
 ## <center>**2026**</center>
 
 - - -
+* \[2026-06] Pegah's paper titled "GluBox: Glucose Prediction for Type 1 Diabetes from Multimodal Wearable Sensors using Region-Sensitive Loss and Bayesian Optimization" got accepted at the [IEEE Sensors Journal](https://ieee-sensors.org/ieee-sensors-journal/).
+
 * \[2026-05] Nooshin's paper titled "Comparable physiological stress responses following music listening and quiet reading: An exploratory pilot study" got accepted at the [American Psychological Association (APA) International Journal of Stress Management](https://www.apa.org/pubs/journals/str).
 
 * \[2026-05] Shovito and Asif's paper titled *[“Counterfactual Modeling with Fine-Tuned LLMs for Health Intervention Design and Sensor Data Augmentation”](https://ieeexplore.ieee.org/document/11537391)* got accepted at the [IEEE Open Access Journal of Engineering in Medicine and Biology (IEEE OJEMB, IF: 2.9)](https://www.embs.org/ojemb/).
