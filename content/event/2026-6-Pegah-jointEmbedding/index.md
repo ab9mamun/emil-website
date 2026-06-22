@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting"
+title: "Joint Embedding of Food Photographs and Blood Glucose for Improved Calorie Estimation"
 event: EMIL Spring'26 Seminars
 event_url:
 location: Online (Zoom)
