@@ -17,6 +17,9 @@ design:
 ## <center>**2026**</center>
 
 - - -
+* \[2026-07] Aashritha's paper titled "Time-Aware Multimodal Sensor Fusion for Blood Glucose Forecasting in Non-Diabetic Adults" got accepted at the [IEEE Open Journal of Engineering in Medicine and Biology](https://www.embs.org/ojemb/).
+
+
 * \[2026-06] Pegah's paper titled "GluBox: Glucose Prediction for Type 1 Diabetes from Multimodal Wearable Sensors using Region-Sensitive Loss and Bayesian Optimization" got accepted at the [IEEE Sensors Journal](https://ieee-sensors.org/ieee-sensors-journal/).
 
 * \[2026-05] Nooshin's paper titled "Comparable physiological stress responses following music listening and quiet reading: An exploratory pilot study" got accepted at the [American Psychological Association (APA) International Journal of Stress Management](https://www.apa.org/pubs/journals/str).
