@@ -17,12 +17,12 @@ abstract: "Accurate meal intake estimation is important for diet monitoring and 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2026-06-07T12:00:00-07:00
-date_end: 2026-06-07T12:30:00-07:00
+date: 2026-06-17T12:00:00-07:00
+date_end: 2026-06-17T12:30:00-07:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2026-06-10T14:00:00-07:00
+publishDate: 2026-06-17T14:00:00-07:00
 
 authors: [Pegah Khorasani]
 tags: []
