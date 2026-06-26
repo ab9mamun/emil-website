@@ -17,8 +17,9 @@ design:
 ## <center>**2026**</center>
 
 - - -
-* \[2026-07] Aashritha's paper titled "Time-Aware Multimodal Sensor Fusion for Blood Glucose Forecasting in Non-Diabetic Adults" got accepted at the [IEEE Open Journal of Engineering in Medicine and Biology](https://www.embs.org/ojemb/).
+* \[2026-06] Our ExpalndAI project, in collaboration with the AI Institute for Foundations in Machine Learning (IFML), titled "Contextual Bandit-based MPC Tuning for Optimized Personalization of Physical Activity Behavioral Interventions," has been accepted for presentation at [MECC 2026 (the 2026 Modeling, Estimation and Control Conference)](https://mecc2026.a2c2.org/).
 
+* \[2026-06] Aashritha's paper titled "Time-Aware Multimodal Sensor Fusion for Blood Glucose Forecasting in Non-Diabetic Adults" got accepted at the [IEEE Open Journal of Engineering in Medicine and Biology](https://www.embs.org/ojemb/).
 
 * \[2026-06] Pegah's paper titled "GluBox: Glucose Prediction for Type 1 Diabetes from Multimodal Wearable Sensors using Region-Sensitive Loss and Bayesian Optimization" got accepted at the [IEEE Sensors Journal](https://ieee-sensors.org/ieee-sensors-journal/).
 
