@@ -17,12 +17,12 @@ abstract: "Large language models are increasingly being used to reason over sens
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2026-07-09T12:00:00-07:00
-date_end: 2026-07-09T12:30:00-07:00
+date: 2026-07-08T12:00:00-07:00
+date_end: 2026-07-08T12:50:00-07:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2026-07-09T14:00:00-07:00
+publishDate: 2026-07-08T13:00:00-07:00
 
 authors: [Pegah Khorasani]
 tags: []
