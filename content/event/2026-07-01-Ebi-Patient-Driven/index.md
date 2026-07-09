@@ -11,7 +11,7 @@ links:
     name: "PDF"
   - url: Patient-Driven-Lifestyle-Modification-in-T2D.pdf
     name: "slides"
-event: event: EMIL Summer'26 Seminars
+event: EMIL Summer'26 Seminars
 event_url: " "
 publishDate: 2025-07-01T20:56:00-07:00
 draft: false
