@@ -13,7 +13,7 @@ links:
     name: "slides"
 event: event: EMIL Summer'26 Seminars
 event_url: " "
-publishDate: 2026-07-01T20:56:00.000Z
+publishDate: 2025-07-01T20:56:00-07:00
 draft: false
 featured: false
 authors:
