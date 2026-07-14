@@ -51,6 +51,8 @@ design:
   
 * \[2026-03] Abdullah’s journal paper titled *[“Trustworthy AI in Digital Health: A Comprehensive Review of Robustness and Explainability”](https://www.preprints.org/manuscript/202507.2387)* got accepted at the [Progress in Biomedical Engineering Journal (IF: 7.7)](https://iopscience.iop.org/journal/2516-1091).
 
+* \[2026-02] Lucas's research project titled "Leveraging NWSS Data and Machine Learning to Predict Outbreaks of COVID-19, Influenza and respiratory syncytial virus" won third place in ACP STEAM KNIGHT Science Project Competition. Lucas Luo is a student at Arizona College Preparatory High School who worked with EMIL as an ASU SCENE intern.
+
 * \[2026-02] Abdullah and Asif have successfully completed the NSF I-Corps regional training program.
 
 * \[2026-02] Shovito has received Student Travel Award to attend 2026 Annual Meeting of the American Association for the Advancement of Science (AAAS) section U on Statistics.
