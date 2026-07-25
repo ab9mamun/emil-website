@@ -4,7 +4,7 @@
 title: "GluBox: Glucose Prediction for Type 1 Diabetes from Multimodal Wearable Sensors using Region-Sensitive Loss and Bayesian Optimization"
 authors: [Pegah Khorasani, Ebrahim Farahmand, Abdullah Mamun, Hassan Ghasemzadeh]
 date: 2026-06-21T12:00:00-07:00
-doi: ""
+doi: "10.1109/JSEN.2026.3707183"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2026-06-21T12:00:00-07:00
@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: "https://ieeexplore.ieee.org/document/11592759"
 url_code: 
 url_dataset:
 url_poster:
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ["Metabolic-Health"]
+projects: ["Metabolic-Health", "Expand-AI"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

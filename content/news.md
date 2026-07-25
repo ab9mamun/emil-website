@@ -17,8 +17,9 @@ design:
 ## <center>**2026**</center>
 
 - - -
-* \[2026-07] Aashritha's paper titled "Time-Aware Multimodal Sensor Fusion for Blood Glucose Forecasting in Non-Diabetic Adults" got accepted at the [IEEE Open Journal of Engineering in Medicine and Biology](https://www.embs.org/ojemb/).
+* \[2026-06] Our ExpalndAI research, in collaboration with the AI Institute for Foundations in Machine Learning (IFML), titled "Contextual Bandit-based MPC Tuning for Optimized Personalization of Physical Activity Behavioral Interventions," has been accepted for presentation at [MECC 2026 (the 2026 Modeling, Estimation and Control Conference)](https://mecc2026.a2c2.org/).
 
+* \[2026-06] Aashritha's paper titled "Time-Aware Multimodal Sensor Fusion for Blood Glucose Forecasting in Non-Diabetic Adults" got accepted at the [IEEE Open Journal of Engineering in Medicine and Biology](https://www.embs.org/ojemb/).
 
 * \[2026-06] Pegah's paper titled "GluBox: Glucose Prediction for Type 1 Diabetes from Multimodal Wearable Sensors using Region-Sensitive Loss and Bayesian Optimization" got accepted at the [IEEE Sensors Journal](https://ieee-sensors.org/ieee-sensors-journal/).
 
@@ -34,6 +35,8 @@ design:
 
 * \[2026-05] Asif to spend summer 2026 as a research intern at Idaho National Lab.
 
+* \[2026-04] Saman’s journal paper titled *"Glycemic-Aware and Architecture-Agnostic Training Framework for Blood Glucose Forecasting in Type 1 Diabetes”* got accepted at the [BMC Artificial Intelligence](https://link.springer.com/journal/44398).
+  
 * \[2026-04] Shovito presented his [research and BMI program in an invited talk at ASU Downtown Campus (Health North Building)](https://ghasemzadeh.com/event/talk-sbs-26-downtown/) on behalf of the EMIL Lab.
 
 * \[2026-04] Congratulations Shovito, on receiving the 2025–2026 Inaugural [Faculty Women’s Association (FWA)](https://www.asufoundation.org/changing-futures/inspire-tomorrows-game-changers/faculty-women-association-at-arizona-state-university.-CA127414.html) Research Award for Graduate Students.
@@ -47,6 +50,8 @@ design:
 * \[2026-03] Asif and Shovito won the Best Poster Award at 2026 ASU College of Health Solutions Faculty and Staff Research Day. 
   
 * \[2026-03] Abdullah’s journal paper titled *[“Trustworthy AI in Digital Health: A Comprehensive Review of Robustness and Explainability”](https://www.preprints.org/manuscript/202507.2387)* got accepted at the [Progress in Biomedical Engineering Journal (IF: 7.7)](https://iopscience.iop.org/journal/2516-1091).
+
+* \[2026-02] Lucas's research project titled "Leveraging NWSS Data and Machine Learning to Predict Outbreaks of COVID-19, Influenza and respiratory syncytial virus" won third place in ACP STEAM KNIGHT Science Project Competition. Lucas Luo is a student at Arizona College Preparatory High School who worked with EMIL as an ASU SCENE intern.
 
 * \[2026-02] Abdullah and Asif have successfully completed the NSF I-Corps regional training program.
 
