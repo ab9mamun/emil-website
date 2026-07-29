@@ -70,7 +70,7 @@ No, testing sessions will occur after a series of design studios have finished. 
 
 You are welcome to join at any of our future dates. Design studios will be held in-person (Phoenix, AZ) and virtually from September 2026 to May 2027. For more information on exact dates and to sign up, please visit our website or scan this QR code:
 
-![HeatMind sign-up QR code](/media/heatmind-faq-qr-placeholder.png)
+<img src="/media/heatmind-faq-qr-placeholder.png" alt="HeatMind sign-up QR code" width="180">
 
 [https://ghasemzadeh.com/project/heatmind/](https://ghasemzadeh.com/project/heatmind/)
 
