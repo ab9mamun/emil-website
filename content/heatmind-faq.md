@@ -45,3 +45,67 @@ You can participate in as many sessions as you want; each is about 1-2 hours.
 ### 5. Who is involved in HeatMind?
 
 Arizona State University (ASU) researchers and graduate students and YOU will be involved in HeatMind.
+
+- - -
+
+### 6. Will I get to try the technology myself?
+
+Yes, after the design studios are complete in 2027, you will be able to try the technology if you would like. More information to be sent about this later on once the technology has been developed.
+
+- - -
+
+### 7. How often can I join the HeatMind design studios?
+
+You can join one session or more. It is entirely up to you.
+
+- - -
+
+### 8. If I attend one design studio, am I required to attend the testing sessions?
+
+No, testing sessions will occur after a series of design studios have finished. Testing sessions will last about 3-4 weeks and firefighters who participate in the design studio sessions can choose to participate in the testing sessions as well. It is entirely up to you to decide what aspects of the project you would like to be involved in.
+
+- - -
+
+### 9. How often will design studios be held? I only want to join one of them when I have some free time.
+
+You are welcome to join at any of our future dates. Design studios will be held in-person (Phoenix, AZ) and virtually from September 2026 to May 2027. For more information on exact dates and to sign up, please visit our website or scan this QR code:
+
+![HeatMind sign-up QR code](/media/heatmind-faq-qr-placeholder.png)
+
+[https://ghasemzadeh.com/project/heatmind/](https://ghasemzadeh.com/project/heatmind/)
+
+- - -
+
+### 10. If I join a design studio virtually, can I also be on duty?
+
+Since the design studios require your full participation and attention for the 1-2 hour time period, we prefer that you are not on duty while attending a design studio.
+
+- - -
+
+### 11. Will other people know what I say during the design studio?
+
+Only the other firefighters and ASU research team present at the design studio you participate in will know what you say during the design studio. What you say will be transcribed and de-identified with a participant code (e.g., 001, 002). Only that code will be connected to comments that you make as part of your participation. This will help ensure your privacy is protected as much as possible.
+
+- - -
+
+### 12. Will I be compensated for attending a design studio?
+
+Yes, you will be compensated $75 for participating in a design studio session. If you join us in-person, you will also be provided with a meal and parking validation.
+
+- - -
+
+### 13. What is the amount of compensation for participation in the user-testing phase?
+
+You will be compensated $250 for completing the 3-4 weeks of user testing phase.
+
+- - -
+
+### 14. Who can participate?
+
+Active firefighters and firefighter management personnel (e.g., captains, chiefs) who meet the study eligibility requirements are welcome to participate.
+
+- - -
+
+### 15. Can I participate if I miss one design studio?
+
+Yes. Participation is flexible. You are welcome to join any future design studio that fits your schedule.
