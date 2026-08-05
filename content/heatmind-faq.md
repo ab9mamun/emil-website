@@ -32,8 +32,8 @@ The HeatMind project is organized into multiple phases spanning from 2026 to 202
 
 ### 3. How can I participate in the HeatMind project as a firefighter?
 
-You can participate via the design studios held from 2026-2029 in Arizona. Each design studio session will take up to 2 hours. You can participate in one or more sessions. You can choose to participate remotely or in-person. [Click here to sign up](#).
-
+You can participate via the design studios held from 2026-2029 in Arizona. Each design studio session will take up to 2 hours. You can participate in one or more sessions. You can choose to participate remotely or in-person. [Click here to sign up](https://forms.gle/dY4KTfPCgKLFJSnb8) or scan this QR code:
+<img src="/media/heatmind-QR-code-ParticipationForm.png" alt="HeatMind sign-up QR code" width="180">
 - - -
 
 ### 4. What is the time commitment for my participation?
@@ -44,7 +44,7 @@ You can participate in as many sessions as you want; each is about 1-2 hours.
 
 ### 5. Who is involved in HeatMind?
 
-Arizona State University (ASU) researchers and graduate students and YOU will be involved in HeatMind.
+Arizona State University (ASU) researchers and graduate students and YOU can be involved in HeatMind.
 
 - - -
 
@@ -68,11 +68,10 @@ No, testing sessions will occur after a series of design studios have finished. 
 
 ### 9. How often will design studios be held? I only want to join one of them when I have some free time.
 
-You are welcome to join at any of our future dates. Design studios will be held in-person (Phoenix, AZ) and virtually from September 2026 to May 2027. For more information on exact dates and to sign up, please visit our website or scan this QR code:
+You are welcome to join at any of our future dates. Design studios will be held in-person (Phoenix, AZ) and virtually from September 2026 to May 2027. For more information on exact dates and to sign up, please visit our website [https://ghasemzadeh.com/project/heatmind/](https://ghasemzadeh.com/project/heatmind/) or scan this QR code:
 
 <img src="/media/heatmind-faq-qr-placeholder.png" alt="HeatMind sign-up QR code" width="180">
 
-[https://ghasemzadeh.com/project/heatmind/](https://ghasemzadeh.com/project/heatmind/)
 
 - - -
 
