@@ -27,7 +27,7 @@ HeatMind is an AI-powered health platform being co-developed with firefighters, 
 [View the HeatMind roadmap flyer (PDF)](https://www.dropbox.com/scl/fi/m9pj2959evntybbdr9to6/HeatMind_Roadmap_Final_v3.pdf?rlkey=0bepe8yvzaftsd6kur63ya0j1&e=1&dl=0)
 
 The HeatMind project is organized into multiple phases spanning from 2026 to 2029, moving from community engagement and design studios, through the development and testing of AI-powered sensing and prediction algorithms, to the deployment and refinement of a community-facing platform for firefighters. Please see the roadmap above for a detailed breakdown of each phase and its timeline.
-
+<img src="/media/HeatMind_Roadmap_Editable.png" alt="HeatMind sign-up QR code" width="580">
 - - -
 
 ### 3. How can I participate in the HeatMind project as a firefighter?
