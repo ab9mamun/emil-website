@@ -17,6 +17,8 @@ design:
 ## <center>**2026**</center>
 
 - - -
+* \[2026-8] Congratulations to Abdullah for successfully defending his PhD Proposal.
+
 * \[2026-7] Congratulations to Saman on being admitted to the NSF-sponsored [IAIFI Summer School 2026](https://iaifi.org/phd-summer-school.html), hosted by the University of Massachusetts Boston.
 
 * \[2026-7] Reza's paper titled "Gated Adaptation for Continual Learning in Human Activity Recognition" has been accepted for publication in the IEEE Internet of Things Journal.
