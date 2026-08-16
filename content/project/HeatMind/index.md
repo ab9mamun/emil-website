@@ -35,7 +35,12 @@ This interdisciplinary project will design a scalable and adaptable infrastructu
 <source src="/heatMind_resources/HeatMind__Firefighter_Tech_FAQ.mp4" type="video/mp4">
 Your browser does not support the video tag. <a href="/heatMind_resources/HeatMind__Firefighter_Tech_FAQ.mp4">Download the video</a>.
 </video>
+<p style="text-align:center;"><a href="https://forms.gle/dY4KTfPCgKLFJSnb8">Click here to sign up</a> or scan this QR code:</p>
+<img src="/media/heatmind-QR-code-ParticipationForm.png" alt="HeatMind sign-up QR code" width="180" style="display:block; margin:0 auto;">
 </div>
+
+- - -
+
 <style>
 .people-widget .col-12.col-lg-auto {
   flex: 0 0 auto;
