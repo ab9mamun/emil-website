@@ -13,6 +13,13 @@ design:
 ---
 
 # HeatMind FAQ
+### Watch: HeatMind Overview
+<div>
+<video controls preload="metadata" playsinline width="1280" height="720" style="width:100%; max-width:640px; height:auto; display:block; margin:1.5rem auto;">
+<source src="/heatMind_resources/HeatMind__Firefighter_Tech_FAQ.mp4" type="video/mp4">
+Your browser does not support the video tag. <a href="/heatMind_resources/HeatMind__Firefighter_Tech_FAQ.mp4">Download the video</a>.
+</video>
+</div>
 
 - - -
 

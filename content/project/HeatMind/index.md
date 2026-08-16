@@ -3,7 +3,7 @@ slides: ""
 url_pdf: ""
 summary:
 
-authors: [EPSL]
+authors: [shovito-barua-soumma]
 url_video: ""
 date: 2025-07-17T23:58:08-08:00
 external_link: ""
@@ -26,6 +26,16 @@ This interdisciplinary project will design a scalable and adaptable infrastructu
 
 ##### *This material is based upon work supported by the U.S. National Science Foundation (NSF) under Award Number 2531465. Any opinions, findings and conclusions or recommendations expressed in this material do not necessarily reflect the views of the U.S. National Science Foundation.*
 
+<div class="container">
+<div class="col-md-12 section-heading" style="margin-top:2rem;"><h1>Watch: HeatMind Overview</h1></div>
+</div>
+
+<div>
+<video controls preload="metadata" playsinline width="1280" height="720" style="width:100%; max-width:640px; height:auto; display:block; margin:1.5rem auto;">
+<source src="/heatMind_resources/HeatMind__Firefighter_Tech_FAQ.mp4" type="video/mp4">
+Your browser does not support the video tag. <a href="/heatMind_resources/HeatMind__Firefighter_Tech_FAQ.mp4">Download the video</a>.
+</video>
+</div>
 <style>
 .people-widget .col-12.col-lg-auto {
   flex: 0 0 auto;
@@ -72,3 +82,5 @@ This interdisciplinary project will design a scalable and adaptable infrastructu
 <div class="col-12 col-lg-auto people-person"><img class="avatar avatar-circle" src="Students/dummy.png" alt="Avatar"><div class="portrait-title"><h2>Cynthia Vizcarra</h2></div></div>
 </div>
 </div>
+
+
