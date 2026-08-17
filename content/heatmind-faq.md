@@ -14,8 +14,8 @@ design:
 
 # HeatMind FAQ
 ### Watch: HeatMind Overview
-<div style="max-width:360px; margin:1.5rem auto; position:relative; padding-bottom:177.78%; height:0; overflow:hidden;">
-<iframe src="https://www.youtube.com/embed/ZBTHthZDbZQ" title="HeatMind Overview" style="position:absolute; top:0; left:0; width:100%; height:50%; border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="width:100%; max-width:640px; height:400px; margin:1.5rem auto; background:#000; display:flex; align-items:center; justify-content:center; overflow:hidden;">
+<iframe src="https://www.youtube.com/embed/ZBTHthZDbZQ" title="HeatMind Overview" style="height:100%; aspect-ratio:9/16; border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 - - -

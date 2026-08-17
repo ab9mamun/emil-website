@@ -31,8 +31,8 @@ This interdisciplinary project will design a scalable and adaptable infrastructu
 </div>
 
 <div>
-<div style="max-width:360px; margin:1.5rem auto; position:relative; padding-bottom:177.78%; height:0; overflow:hidden;">
-<iframe src="https://www.youtube.com/embed/ZBTHthZDbZQ" title="HeatMind Overview" style="position:absolute; top:0; left:0; width:100%; height:50%; border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="width:100%; max-width:640px; height:400px; margin:1.5rem auto; background:#000; display:flex; align-items:center; justify-content:center; overflow:hidden;">
+<iframe src="https://www.youtube.com/embed/ZBTHthZDbZQ" title="HeatMind Overview" style="height:100%; aspect-ratio:9/16; border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 <p style="text-align:center;"><a href="https://forms.gle/dY4KTfPCgKLFJSnb8">Click here to sign up</a> or scan this QR code:</p>
 <img src="/media/heatmind-QR-code-ParticipationForm.png" alt="HeatMind sign-up QR code" width="180" style="display:block; margin:0 auto;">
