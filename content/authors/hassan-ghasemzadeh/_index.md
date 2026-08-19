@@ -7,9 +7,8 @@ superuser: true
 authors:
   - hassan-ghasemzadeh
 title: Hassan Ghasemzadeh
-bio: Hassan Ghasemzadeh is an Associate Professor of Biomedical Informatics at
-  Arizona State University (ASU) and a Computer Science Adjunct Faculty at
-  Washington State University (WSU).
+bio: Hassan Ghasemzadeh is a Professor of Biomedical Informatics at
+  Arizona State University (ASU).
 social:
   - icon: envelope
     icon_pack: fas
@@ -21,9 +20,14 @@ email: hassan.ghasemzadeh@asu.edu
 user_groups:
   - Director
 ---
-Hassan Ghasemzadeh is a Program Director and an Associate Professor in the College of Health Solutions at [Arizona State University](https://www.asu.edu/) (ASU). He is on the graduate faculty of biomedical informatics, computer science, computer engineering, and biomedical engineering at ASU. Prior to joining ASU, he was an assistant/associate professor of computer science at [Washington State University](https://wsu.edu/) (WSU 2014-2021), and a postdoctoral research manager at the [University of California Los Angeles](https://www.cs.ucla.edu/) (UCLA 2011-2013). His research interests include digital health, machine learning and algorithm design.
+Hassan Ghasemzadeh is a Program Director and a Professor in the College of Health Solutions at [Arizona State University](https://www.asu.edu/) (ASU). He is a member of graduate faculty in biomedical informatics & data science, computer science, computer engineering, and biomedical engineering at ASU. Prior to joining ASU, he was an assistant/associate professor of computer science at [Washington State University](https://wsu.edu/) (WSU 2014-2021), and a postdoctoral research manager at the [University of California Los Angeles](https://www.cs.ucla.edu/) (UCLA 2011-2013). His research interests include digital health, machine learning and algorithm design.
 
 **Awards and Honors**
+* 2026 Best Poster Award, ASU College of Health Solutions Faculty Research Day
+* 2025 Best Poster Award Runner Up, IEEE Body Sensor Networks (BSN) Conference
+* 2025 Best Poster Award Honorable Mention, IEEE Biomedical & Health Informatics (BHI)
+* 2025 Nominee for Outstanding Teaching – Graduate, ASU College of Health Solutions
+* 2025 Best Poster Award, ASU College of Health Solutions Faculty Research Day
 * 2024 Research Award, ASU College of Health Solutions
 * 2024 Best Poster Award, ASU College of Health Solutions Faculty Research Day
 * 2022 Best Paper Honorable Mention Award, BSN Conference
