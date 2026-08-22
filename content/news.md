@@ -17,6 +17,15 @@ design:
 ## <center>**2026**</center>
 
 - - -
+
+* \[2026-08] Reza to spend fall 2026 as a data science intern at Komodo Health.
+
+* \[2026-8] Reza's paper titled "Multimodal examination of the acute effects of cannabis on subjective and physiological stress-related outcomes: a randomized placebo-controlled laboratory study" has been accepted for publication in Neuropsychopharmacology.
+
+
+* \[2026-8] Reza's paper titled "Latent-LoRA: Compact Latent-Space Adapters with Gradient-Free Routing for Continual Learning" has been accepted for publication in EMNLP.
+
+
 * \[2026-8] Congratulations to Dr. Hassan Ghasemzadeh on his promotion to Professor at Arizona State University.
 
 * \[2026-8] Congratulations to Abdullah for successfully defending his PhD Proposal.
