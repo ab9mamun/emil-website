@@ -18,7 +18,7 @@ design:
 
 - - -
 
-* \[2026-08] Reza to spend fall 2026 as a data science intern at Komodo Health.
+* \[2026-8] Reza to spend fall 2026 as a data science intern at Komodo Health.
 
 * \[2026-8] Reza's paper titled "Multimodal examination of the acute effects of cannabis on subjective and physiological stress-related outcomes: a randomized placebo-controlled laboratory study" has been accepted for publication in Neuropsychopharmacology.
 
