@@ -21,6 +21,23 @@
 	font-size: 105%
 }
 
+.phd-opening-callout {
+  display: inline-block;
+  margin: 0.75rem 0 0;
+  padding: 0.35rem 0.65rem;
+  background: #ffeb3b;
+  color: #b71c1c;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.phd-opening-callout a,
+.phd-opening-callout a:hover,
+.phd-opening-callout a:focus {
+  color: inherit;
+  text-decoration: underline;
+}
+
 
 /*
 	PROJECT

@@ -18,6 +18,8 @@ design:
 
 - - -
 
+* \[2026-09] Shovito's paper titled *["GlyRAG: Context-Aware Retrieval-Augmented Framework for Blood Glucose Forecasting"](https://arxiv.org/pdf/2601.05353)* has been accepted for publication in the [IEEE Journal of Biomedical and Health Informatics (IEEE JBHI, IF: 7.7)](https://www.embs.org/jbhi/).
+
 * \[2026-8] Reza to spend fall 2026 as a data science intern at Komodo Health.
 
 * \[2026-8] Reza's paper titled "Multimodal examination of the acute effects of cannabis on subjective and physiological stress-related outcomes: a randomized placebo-controlled laboratory study" has been accepted for publication in Neuropsychopharmacology.
