@@ -24,7 +24,7 @@ categories: []
 featured: true
 
 
-url_pdf: https://ieeexplore.ieee.org/abstract/document/11481169
+url_pdf: https://drive.google.com/file/d/1c6IKJ3A5RlfcsL0xM0PXIwEyaB3PIUu1/view?usp=sharing
 url_code: https://github.com/shovito66/GlucoNet
 url_dataset:
 url_poster:
