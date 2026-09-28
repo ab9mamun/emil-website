@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: "https://www.proquest.com/docview/3363522700?accountid=4485&parentSessionId=N7IirDM7%2BcPwx32h7EL%2BA%2Fe%2B9uGl4G2AVFr1uLUjEWw%3D&pq-origsite=primo&sourcetype=Scholarly%20Journals"
 url_code: 
 url_dataset:
 url_poster:
@@ -58,7 +58,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ["mental-health"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
