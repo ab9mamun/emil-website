@@ -18,7 +18,7 @@ design:
 
 - - -
 
-* \[2026-10] Congratulations to Asiful and Shovito on successfully completing the **NSF National I-Corps program**! [[Journey](https://www.shovitobarua.com/#icorps-journey)]
+* \[2026-10] Congratulations to Asiful and Shovito on successfully completing the [**NSF National I-Corps program**](https://www.shovitobarua.com/#icorps-journey)!
  
 * \[2026-09] Shovito's paper titled *["GlyRAG: Context-Aware Retrieval-Augmented Framework for Blood Glucose Forecasting"](https://arxiv.org/pdf/2601.05353)* has been accepted for publication in the [IEEE Journal of Biomedical and Health Informatics (IEEE JBHI, IF: 7.7)](https://www.embs.org/jbhi/).
 
