@@ -18,17 +18,19 @@ design:
 
 - - -
 * \[2026-11] Saman's paper titled *["Understanding Associations Between Behavioral Factors and Glycemic Outcomes in Patients with Type 1 Diabetes using Automated Insulin Delivery Systems: Longitudinal Observational Study"](https://doi.org/10.2196/94692)* has been accepted for publication in the [JMIR (Journal of Medical Internet Research) Diabetes](https://diabetes.jmir.org).
+
+* \[2026-11] Congratulations to Ebi for passing his PhD Qualifying Exam.
   
 * \[2026-10] Congratulations to Asiful and Shovito on successfully completing the [**NSF National I-Corps program**](https://www.shovitobarua.com/#icorps-journey)!
  
 * \[2026-09] Shovito's paper titled *["GlyRAG: Context-Aware Retrieval-Augmented Framework for Blood Glucose Forecasting"](https://arxiv.org/pdf/2601.05353)* has been accepted for publication in the [IEEE Journal of Biomedical and Health Informatics (IEEE JBHI, IF: 7.7)](https://www.embs.org/jbhi/).
 
-* \[2026-8] Reza to spend fall 2026 as a data science intern at Komodo Health.
+* \[2026-8] Reza to spend fall 2026 as a data science intern at [Komodo Health](https://www.komodohealth.com).
 
-* \[2026-8] Reza's paper titled "Multimodal examination of the acute effects of cannabis on subjective and physiological stress-related outcomes: a randomized placebo-controlled laboratory study" has been accepted for publication in Neuropsychopharmacology.
+* \[2026-8] Reza's paper titled *["Multimodal examination of the acute effects of cannabis on subjective and physiological stress-related outcomes: a randomized placebo-controlled laboratory study"](https://www.nature.com/articles/s41386-026-02533-9)* has been accepted for publication in [Neuropsychopharmacology](https://www.nature.com/npp/).
 
 
-* \[2026-8] Reza's paper titled "Latent-LoRA: Compact Latent-Space Adapters with Gradient-Free Routing for Continual Learning" has been accepted for publication in EMNLP.
+* \[2026-8] Reza's paper titled *["Latent-LoRA: Compact Latent-Space Adapters with Gradient-Free Routing for Continual Learning"](https://aclanthology.org/2026.findings-emnlp.1390/)* has been accepted for publication in [EMNLP 2026](https://2026.emnlp.org/).
 
 
 * \[2026-8] Congratulations to Dr. Hassan Ghasemzadeh on his promotion to Professor at Arizona State University.
@@ -37,7 +39,7 @@ design:
 
 * \[2026-7] Congratulations to Saman on being admitted to the NSF-sponsored [IAIFI Summer School 2026](https://iaifi.org/phd-summer-school.html), hosted by the University of Massachusetts Boston.
 
-* \[2026-7] Reza's paper titled "Gated Adaptation for Continual Learning in Human Activity Recognition" has been accepted for publication in the IEEE Internet of Things Journal.
+* \[2026-7] Reza's paper titled *["Gated Adaptation for Continual Learning in Human Activity Recognition"](https://ieeexplore.ieee.org/document/11627863)* has been accepted for publication in the [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907).
 
 * \[2026-06] Our ExpalndAI research, in collaboration with the AI Institute for Foundations in Machine Learning (IFML), titled "Contextual Bandit-based MPC Tuning for Optimized Personalization of Physical Activity Behavioral Interventions," has been accepted for presentation at [MECC 2026 (the 2026 Modeling, Estimation and Control Conference)](https://mecc2026.a2c2.org/).
 
@@ -51,7 +53,7 @@ design:
 
 * \[2026-05] Asif and Saman's paper titled *[“GlyTwin: Enhancing Digital Twin for Glucose Control in Type 1 Diabetes using Patient-Centric Counterfactual Treatments”](https://arxiv.org/abs/2504.09846)* got accepted at the [IEEE Journal of Biomedical and Health Informatics (IEEE JBHI, IF: 6.8)](https://www.embs.org/jbhi/).
 
-* \[2026-05] Reza to spend summer 2026 as a data science intern at Komodo Health.
+* \[2026-05] Reza to spend summer 2026 as a data science intern at [Komodo Health](https://www.komodohealth.com).
 
 * \[2026-05] Shovito to spend summer 2026 as a research intern at St. Jude.
 
