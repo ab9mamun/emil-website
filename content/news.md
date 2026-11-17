@@ -17,7 +17,8 @@ design:
 ## <center>**2026**</center>
 
 - - -
-
+* \[2026-11] Saman's paper titled *["Understanding Associations Between Behavioral Factors and Glycemic Outcomes in Patients with Type 1 Diabetes using Automated Insulin Delivery Systems: Longitudinal Observational Study"](https://doi.org/10.2196/94692)* has been accepted for publication in the [JMIR (Journal of Medical Internet Research) Diabetes](https://diabetes.jmir.org).
+  
 * \[2026-10] Congratulations to Asiful and Shovito on successfully completing the [**NSF National I-Corps program**](https://www.shovitobarua.com/#icorps-journey)!
  
 * \[2026-09] Shovito's paper titled *["GlyRAG: Context-Aware Retrieval-Augmented Framework for Blood Glucose Forecasting"](https://arxiv.org/pdf/2601.05353)* has been accepted for publication in the [IEEE Journal of Biomedical and Health Informatics (IEEE JBHI, IF: 7.7)](https://www.embs.org/jbhi/).
